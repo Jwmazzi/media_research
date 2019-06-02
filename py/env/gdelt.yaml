@@ -1,0 +1,38 @@
+name: gdelt
+channels:
+  - defaults
+dependencies:
+  - certifi=2019.3.9=py36_0
+  - pip=19.0.3=py36_0
+  - python=3.6.8=h9f7ef89_7
+  - setuptools=41.0.0=py36_0
+  - sqlite=3.27.2=he774522_0
+  - vc=14.1=h0510ff6_4
+  - vs2015_runtime=14.15.26706=h3a45250_0
+  - wheel=0.33.1=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+  - pip:
+    - beautifulsoup4==4.7.1
+    - chardet==3.0.4
+    - cssselect==1.0.3
+    - feedfinder2==0.0.4
+    - feedparser==5.2.1
+    - idna==2.8
+    - jieba3k==0.35.1
+    - lxml==4.3.3
+    - newspaper3k==0.2.8
+    - nltk==3.4.1
+    - numpy==1.16.3
+    - pillow==6.0.0
+    - psycopg2==2.8.2
+    - python-dateutil==2.8.0
+    - pyyaml==5.1
+    - requests==2.21.0
+    - requests-file==1.4.3
+    - six==1.12.0
+    - soupsieve==1.9.1
+    - tinysegmenter==0.3
+    - tldextract==2.2.1
+    - urllib3==1.24.2
+prefix: C:\Users\jeff8977\AppData\Local\Continuum\miniconda3\envs\gdelt
+

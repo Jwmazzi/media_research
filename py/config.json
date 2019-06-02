@@ -1,0 +1,6 @@
+{
+  "db_name": "gdelt_analysis",
+  "db_user": "postgres",
+  "db_pass": "postgres",
+  "db_host": "localhost"
+}
