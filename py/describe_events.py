@@ -6,7 +6,7 @@ import psycopg2
 import json
 import os
 
-keyword_target = 'black'
+keyword_target = 'hate'
 
 filters = [
     'united states',
@@ -20,7 +20,10 @@ filters = [
     'donald',
     'trumps',
     'trump',
+    'crimes',
     'crime',
+    'groups',
+    'group',
     'hates',
     'hated',
     'hater',

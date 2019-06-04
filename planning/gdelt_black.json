@@ -2,18 +2,18 @@
   "20160104_20160108": {
     "length": 5,
     "actor_one": [
-      "MEDIA",
-      "ADVOCATE",
+      "TEXAS",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "ASSOCIATED PRESS",
+      "MARCHE",
+      "AFRICA"
     ],
     "actor_two": [
-      "PROTESTER",
-      "ADVOCATE",
-      "UNIVERSITY",
-      "PRESIDENT",
-      "OREGON"
+      "AFRICA",
+      "POPULATION",
+      "CITIZEN",
+      "WRITER",
+      "AMERICAN"
     ],
     "tone": -5.0,
     "area": 1715.0,
@@ -29,18 +29,18 @@
   "20160117_20160306": {
     "length": 50,
     "actor_one": [
-      "PROTESTER",
-      "ARMY",
-      "SURGEON",
-      "SANTA ANA",
-      "MINORITIES"
+      "MAGAZINE",
+      "SUPREME COURT",
+      "POPULATION",
+      "CALIFORNIA",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "PROTESTER",
-      "DELEGATE",
-      "FELON",
-      "SAN FRANCISCO",
-      "MINORITIES"
+      "COMMANDER",
+      "FIREFIGHTER",
+      "POPULATION",
+      "NEW HAMPSHIRE",
+      "CITIZEN"
     ],
     "tone": -3.0,
     "area": 4484.0,
@@ -56,18 +56,18 @@
   "20160407_20160409": {
     "length": 3,
     "actor_one": [
-      "PROTESTER",
-      "DELEGATE",
       "POLICE OFFICER",
-      "PRESIDENT",
+      "SUPREME COURT",
+      "SECRETARY OF STATE",
+      "AFRICA",
       "DEMONSTRATOR"
     ],
     "actor_two": [
       "PROTESTER",
-      "CRIMINAL",
-      "PHILADELPHIA",
+      "CLEVELAND",
       "AFAR",
-      "BILL CLINTON"
+      "ACTIVIST",
+      "PHILADELPHIA"
     ],
     "tone": -5.0,
     "area": 4352.0,
@@ -83,18 +83,18 @@
   "20160418_20160423": {
     "length": 6,
     "actor_one": [
-      "POLICE COMMISSIONER",
       "SPOKESMAN",
-      "COMPANY",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "AFRICA",
+      "POLICE COMMISSIONER",
+      "WRITER",
+      "AMERICAN"
     ],
     "actor_two": [
-      "FELON",
-      "UNIVERSITY",
-      "REUTERS",
-      "NEW JERSEY",
-      "OBAMA"
+      "AFRICA",
+      "POPULATION",
+      "CITIZEN",
+      "ROBBER",
+      "CALIFORNIA"
     ],
     "tone": -4.0,
     "area": 2355.0,
@@ -110,18 +110,18 @@
   "20160502_20160505": {
     "length": 4,
     "actor_one": [
-      "MEDIA",
-      "PRESIDENT",
-      "BUSINESS",
-      "NEW YORK",
-      "AKITA"
+      "AFRICA",
+      "POLITICIAN",
+      "PROFESSOR",
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "COMPANY",
-      "ALABAMA",
-      "UNIVERSITY",
-      "REUTERS",
-      "INDIGENOUS"
+      "WORKER",
+      "AFRICA",
+      "PROFESSOR",
+      "AMERICAN",
+      "COMPANY"
     ],
     "tone": -4.0,
     "area": 1819.0,
@@ -137,18 +137,18 @@
   "20160506_20160508": {
     "length": 3,
     "actor_one": [
-      "UNIVERSITY",
+      "TEXAS",
+      "AFRICA",
       "PRESIDENT",
-      "BUSINESS",
-      "OBAMA",
-      "SCHOOL"
+      "UNIVERSITY",
+      "STUDENT"
     ],
     "actor_two": [
-      "EUROPEAN",
-      "PROTESTER",
-      "ALABAMA",
+      "TEXAS",
       "MILITANT",
-      "OBAMA"
+      "AFRICA",
+      "CITIZEN",
+      "AMERICAN"
     ],
     "tone": -3.0,
     "area": 623.0,
@@ -164,18 +164,18 @@
   "20160531_20160605": {
     "length": 6,
     "actor_one": [
-      "LAW ENFORCEMENT AGENCIES",
-      "COMPANY",
-      "MEDIA",
       "POLICE OFFICER",
-      "UNIVERSITY"
+      "WORKER",
+      "AFRICA",
+      "EGYPTIAN",
+      "POPULATION"
     ],
     "actor_two": [
+      "ASSOCIATED PRESS",
+      "POLICE OFFICER",
       "SPOKESMAN",
-      "DETECTIVE",
-      "PROTEST GROUP",
-      "MEDIA",
-      "POLICE OFFICER"
+      "AFRICA",
+      "CALIFORNIA"
     ],
     "tone": -4.0,
     "area": 1922.0,
@@ -191,18 +191,18 @@
   "20160707_20160710": {
     "length": 4,
     "actor_one": [
-      "MINNESOTA",
-      "PROTESTER",
-      "CRIMINAL",
       "POLICE OFFICER",
-      "PRESIDENT"
+      "PROTESTER",
+      "ACTIVIST",
+      "AFRICA",
+      "CITIZEN"
     ],
     "actor_two": [
-      "MINNESOTA",
-      "PROTESTER",
       "POLICE OFFICER",
-      "POLICE",
-      "AMERICAN"
+      "PROTESTER",
+      "ACTIVIST",
+      "AFRICA",
+      "DEMONSTRATOR"
     ],
     "tone": -6.0,
     "area": 1991.0,
@@ -218,18 +218,18 @@
   "20160726_20160731": {
     "length": 6,
     "actor_one": [
-      "PROTESTER",
-      "MEDIA",
+      "ASSOCIATED PRESS",
       "POLICE OFFICER",
-      "THE POOR",
-      "PRESIDENT"
+      "TEXAS",
+      "GUNMAN",
+      "AFRICA"
     ],
     "actor_two": [
-      "PROTESTER",
-      "ADVOCATE",
+      "TEXAS",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "ARMY"
+      "AFRICA",
+      "CITIZEN",
+      "HUNTER"
     ],
     "tone": -4.0,
     "area": 2909.0,
@@ -245,18 +245,18 @@
   "20160808_20160813": {
     "length": 6,
     "actor_one": [
-      "PROTESTER",
-      "MEDIA",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "SAN FRANCISCO",
+      "AFRICA",
+      "POPULATION",
+      "AMERICAN"
     ],
     "actor_two": [
-      "PROTESTER",
-      "MELBOURNE",
+      "TROOPER",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "MCGILL"
+      "WORKER",
+      "AFRICA",
+      "GREENVILLE"
     ],
     "tone": -4.0,
     "area": 842.0,
@@ -272,18 +272,18 @@
   "20160814_20160816": {
     "length": 3,
     "actor_one": [
-      "PROTESTER",
-      "MEDIA",
       "POLICE OFFICER",
+      "GUNMAN",
+      "AFRICA",
       "PRESIDENT",
-      "NATIONAL GUARD"
+      "UNITED STATES"
     ],
     "actor_two": [
-      "PROTESTER",
-      "MEDIA",
       "POLICE OFFICER",
-      "BUSINESS",
-      "RESIDENTS"
+      "AFRICA",
+      "AMERICAN",
+      "MISSOURI",
+      "FLORIDA"
     ],
     "tone": -6.0,
     "area": 1446.0,
@@ -299,18 +299,18 @@
   "20160917_20161007": {
     "length": 21,
     "actor_one": [
-      "PROTESTER",
-      "MEDIA",
+      "TEXAS",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "ASSOCIATED PRESS",
+      "BANK",
+      "SECRETARY OF STATE"
     ],
     "actor_two": [
-      "PROTESTER",
-      "TAMPA",
-      "MEDIA",
+      "TEXAS",
       "POLICE OFFICER",
-      "UNIVERSITY"
+      "BANK",
+      "SUPREME COURT",
+      "PENNSYLVANIA"
     ],
     "tone": -4.0,
     "area": 2416.0,
@@ -326,18 +326,18 @@
   "20161010_20161105": {
     "length": 27,
     "actor_one": [
-      "PROTESTER",
-      "PHYSICIAN",
-      "TREASURY SECRETARY",
-      "SAN DIEGO",
-      "NEW JERSEY"
+      "POPULATION",
+      "EMPLOYER",
+      "HUNTER",
+      "CITIZEN",
+      "CALIFORNIA"
     ],
     "actor_two": [
-      "PROTESTER",
-      "SAN DIEGO",
-      "MINORITIES",
-      "SAN FRANCISCO",
-      "GOVERNOR"
+      "SUPREME COURT",
+      "CITIZEN",
+      "POPULATION",
+      "SYRIA",
+      "CALIFORNIA"
     ],
     "tone": -4.0,
     "area": 2871.0,
@@ -353,18 +353,18 @@
   "20161227_20161231": {
     "length": 5,
     "actor_one": [
-      "SPOKESMAN",
-      "COMPANY",
+      "MINIST",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "MINORITIES"
+      "SPOKESMAN",
+      "AFRICA",
+      "CITIZEN"
     ],
     "actor_two": [
-      "COMPANY",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "POLICE CHIEF",
-      "OBAMA"
+      "AFRICA",
+      "SMYRNA",
+      "CALIFORNIA",
+      "SYRIA"
     ],
     "tone": -4.0,
     "area": 790.0,
@@ -380,18 +380,18 @@
   "20170123_20170128": {
     "length": 6,
     "actor_one": [
-      "EUROPEAN",
-      "MEDIA",
-      "MAYOR",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "TEXAS",
+      "AFRICA",
+      "CALIFORNIA",
+      "SALT LAKE CITY",
+      "AMERICAN"
     ],
     "actor_two": [
+      "TEXAS",
+      "MARCHE",
+      "NEWS ORGANIZATION",
       "MAGAZINE",
-      "MEDIA",
-      "UNIVERSITY",
-      "PRESIDENT",
-      "AFRICANS"
+      "CALIFORNIA"
     ],
     "tone": -4.0,
     "area": 1193.0,
@@ -407,18 +407,18 @@
   "20170213_20170218": {
     "length": 6,
     "actor_one": [
-      "UNIVERSITY",
-      "PRESIDENT",
-      "POLICE CHIEF",
-      "OBAMA",
-      "WASHINGTON"
+      "TEXAS",
+      "AFRICA",
+      "CHRISTIAN",
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
+      "NEBRASKA",
+      "WORKER",
+      "AFRICA",
       "MAGISTRATE",
-      "COMPANY",
-      "UNIVERSITY",
-      "PRESIDENT",
-      "CARACAS"
+      "ROBBER"
     ],
     "tone": -3.0,
     "area": 971.0,
@@ -434,18 +434,18 @@
   "20170313_20170318": {
     "length": 6,
     "actor_one": [
-      "EUROPEAN",
+      "TROOPER",
+      "AFRICA",
       "POLICEMEN",
-      "PRESIDENT",
-      "BUSINESS",
-      "MERCENARY"
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "MURRAY",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "WASHINGTON",
-      "NEW YORK"
+      "BANK",
+      "AFRICA",
+      "PUERTO RICO",
+      "ENVOY"
     ],
     "tone": -4.0,
     "area": 2779.0,
@@ -461,18 +461,18 @@
   "20170418_20170422": {
     "length": 5,
     "actor_one": [
-      "AID GROUP",
+      "TROOPER",
+      "TEXAS",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "REUTERS",
-      "POLICE CHIEF"
+      "GUNMAN",
+      "AFRICA"
     ],
     "actor_two": [
       "SPOKESMAN",
-      "PRESIDENT",
-      "REUTERS",
-      "SENATE PRESIDENT",
-      "OBAMA"
+      "AFRICA",
+      "ITALY",
+      "NEW YORK STATE",
+      "COLUMBUS"
     ],
     "tone": -4.0,
     "area": 1446.0,
@@ -488,18 +488,18 @@
   "20170423_20171022": {
     "length": 183,
     "actor_one": [
-      "ARMY OFFICER",
-      "TENNESSEE",
-      "LAWYER",
-      "COAST GUARD",
-      "PRISON"
+      "SUPREME COURT",
+      "FIREFIGHTER",
+      "MAGISTRATE",
+      "COLUMBUS",
+      "YUKON"
     ],
     "actor_two": [
-      "PREACHER",
-      "INDIGENOUS",
-      "TENNESSEE",
-      "ARMY OFFICER",
-      "LAWYER"
+      "SUPREME COURT",
+      "FIREFIGHTER",
+      "PUERTO RICO",
+      "MAGISTRATE",
+      "COLUMBUS"
     ],
     "tone": -4.0,
     "area": 3214.0,
@@ -515,18 +515,18 @@
   "20171024_20171026": {
     "length": 3,
     "actor_one": [
-      "CHIEF EXECUTIVE",
-      "CAPTAIN",
-      "MEDIA",
-      "ARMY",
-      "AIRLINE"
+      "AFRICA",
+      "LUTHERAN",
+      "COLUMBUS",
+      "AMERICAN",
+      "FLORIDA"
     ],
     "actor_two": [
-      "MEDIA",
-      "COMPANY",
-      "REUTERS",
       "SAN FRANCISCO",
-      "NEW YORK"
+      "AFRICA",
+      "ROBBER",
+      "AMERICAN",
+      "COMPANY"
     ],
     "tone": -5.0,
     "area": 2307.0,
@@ -542,18 +542,18 @@
   "20171031_20171105": {
     "length": 6,
     "actor_one": [
-      "UNIVERSITY",
-      "PRESIDENT",
-      "ARMY",
-      "MAFIA",
-      "STAFF MEMBER"
+      "ASSOCIATED PRESS",
+      "TEXAS",
+      "SUPREME COURT",
+      "WORKER",
+      "AFRICA"
     ],
     "actor_two": [
-      "ALABAMA",
-      "MEDIA",
-      "FELON",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "TEXAS",
+      "WORKER",
+      "FIREFIGHTER",
+      "AFRICA",
+      "POPULATION"
     ],
     "tone": -5.0,
     "area": 1305.0,
@@ -569,18 +569,18 @@
   "20171106_20171111": {
     "length": 6,
     "actor_one": [
-      "COMPANY",
-      "ADVOCATE",
-      "PHYSICIAN",
-      "WYOMING",
-      "VERIZON"
+      "GUNMAN",
+      "AFRICA",
+      "LEGISLATURE",
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
+      "TEXAS",
       "MAGAZINE",
-      "MEDIA",
-      "ADVOCATE",
-      "UNIVERSITY",
-      "REFUGEE"
+      "BANK",
+      "TROOPER",
+      "AFRICA"
     ],
     "tone": -4.0,
     "area": 2349.0,
@@ -596,18 +596,18 @@
   "20171113_20171118": {
     "length": 6,
     "actor_one": [
-      "CHIEF EXECUTIVE",
-      "TAMPA",
-      "DETECTIVE",
       "POLICE OFFICER",
-      "PRESIDENT"
+      "LAWRENCE",
+      "AFRICA",
+      "CHRISTIAN",
+      "AMERICAN"
     ],
     "actor_two": [
+      "COMMANDER",
+      "TROOPER",
       "MAGAZINE",
-      "COMPANY",
-      "ADVOCATE",
-      "STATE ATTORNEY GENERAL",
-      "MEDIA"
+      "RELIGION",
+      "WORKER"
     ],
     "tone": -4.0,
     "area": 2528.0,
@@ -623,18 +623,18 @@
   "20171123_20171210": {
     "length": 18,
     "actor_one": [
-      "JAMAICA",
-      "FELON",
-      "SAN DIEGO",
-      "SETTLER",
-      "LAWYER"
+      "CITIZEN",
+      "CALIFORNIA",
+      "PRESIDENT",
+      "EGYPT",
+      "COMPANY"
     ],
     "actor_two": [
-      "POLE",
-      "ARMY",
-      "INDIGENOUS",
-      "IOWA",
-      "TENNESSEE"
+      "NEBRASKA",
+      "POPULATION",
+      "COLUMBUS",
+      "CALIFORNIA",
+      "PRESIDENT"
     ],
     "tone": -4.0,
     "area": 1995.0,
@@ -650,18 +650,18 @@
   "20171226_20171229": {
     "length": 4,
     "actor_one": [
+      "POLICE OFFICER",
       "SPOKESMAN",
-      "DETECTIVE",
-      "MEDIA",
-      "ALABAMA",
-      "POLICE OFFICER"
+      "AFRICA",
+      "WRITER",
+      "KARACHI"
     ],
     "actor_two": [
-      "ALABAMA",
       "POLICE OFFICER",
-      "THE POOR",
-      "UNIVERSITY",
-      "MINORITIES"
+      "AFRICA",
+      "CHRISTIAN",
+      "PROFESSOR",
+      "AMERICAN"
     ],
     "tone": -4.0,
     "area": 494.0,
@@ -677,18 +677,18 @@
   "20171229_20180520": {
     "length": 143,
     "actor_one": [
-      "PROTESTER",
-      "SIRIUS XM",
-      "PHYSICIAN",
-      "FELON",
-      "SAN DIEGO"
+      "LAOS",
+      "MAGAZINE",
+      "MARCHE",
+      "BRUNEI",
+      "SUPREME COURT"
     ],
     "actor_two": [
-      "REFUGEE",
-      "PREACHER",
-      "TENNESSEE",
-      "LAWYER",
-      "PRISON"
+      "STOCKHOLM",
+      "SUPREME COURT",
+      "FIREFIGHTER",
+      "COMPANY",
+      "SOVEREIGN"
     ],
     "tone": -4.0,
     "area": 3040.0,
@@ -704,18 +704,18 @@
   "20180522_20180527": {
     "length": 6,
     "actor_one": [
-      "VILLAGE",
-      "THE POOR",
-      "PRESIDENT",
-      "NEWS OUTLET",
-      "MONGER"
+      "ASSOCIATED PRESS",
+      "FIREFIGHTER",
+      "AFRICA",
+      "LAWYER",
+      "BOSS"
     ],
     "actor_two": [
-      "UNIVERSITY",
-      "PRESIDENT",
-      "GOVERNOR",
-      "NEW YORK",
-      "MIAMI"
+      "ASSOCIATED PRESS",
+      "MINIST",
+      "WORKER",
+      "AFRICA",
+      "NANNY"
     ],
     "tone": -3.0,
     "area": 1488.0,
@@ -731,18 +731,18 @@
   "20180528_20180602": {
     "length": 6,
     "actor_one": [
-      "COMPANY",
-      "PRESIDENT",
-      "MINORITIES",
-      "OBAMA",
-      "WASHINGTON"
+      "AFRICA",
+      "EMPLOYER",
+      "SALT LAKE CITY",
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "PRESIDENT",
-      "BUSINESS",
-      "OBAMA",
-      "NEW YORK",
-      "SCHOOL"
+      "MINIST",
+      "TEXAS",
+      "WORKER",
+      "AFRICA",
+      "CALIFORNIA"
     ],
     "tone": -4.0,
     "area": 809.0,
@@ -758,18 +758,18 @@
   "20180626_20180701": {
     "length": 6,
     "actor_one": [
-      "COMPANY",
       "POLICE OFFICER",
-      "XCEL ENERGY",
-      "NEWS OUTLET",
-      "SIBERIA"
+      "SUPREME COURT",
+      "AFRICA",
+      "DEMONSTRATOR",
+      "LAWYER"
     ],
     "actor_two": [
+      "TEXAS",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "NEWS OUTLET",
-      "ARMY",
-      "NEW YORK"
+      "NASHVILLE",
+      "ASSOCIATED PRESS",
+      "AFRICA"
     ],
     "tone": -4.0,
     "area": 1456.0,
@@ -785,18 +785,18 @@
   "20180715_20180812": {
     "length": 29,
     "actor_one": [
-      "PROTESTER",
-      "PHYSICIAN",
-      "SAN FRANCISCO",
-      "MINORITIES",
-      "GOVERNOR"
+      "COMMANDER",
+      "SUPREME COURT",
+      "CITIZEN",
+      "POPULATION",
+      "HUNTER"
     ],
     "actor_two": [
-      "HUMAN RIGHTS ACTIVIST",
-      "PROTESTER",
-      "AMERICAN SAMOA",
-      "TENNESSEE",
-      "BLACK PANTHERS"
+      "POPULATION",
+      "PRESIDENT",
+      "COMPANY",
+      "WASHINGTON",
+      "CATHOLIC"
     ],
     "tone": -4.0,
     "area": 2909.0,
@@ -812,18 +812,18 @@
   "20180813_20180816": {
     "length": 4,
     "actor_one": [
-      "MEDIA",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "BUSINESS",
-      "NEW YORK"
+      "SECRETARY OF STATE",
+      "AFRICA",
+      "AMERICAN",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "PROTESTER",
-      "MEDIA",
+      "AFRICA",
+      "AMERICAN",
       "PRESIDENT",
-      "BUSINESS",
-      "OBAMA"
+      "WASHINGTON",
+      "NORTH AMERICA"
     ],
     "tone": -4.0,
     "area": 763.0,
@@ -839,18 +839,18 @@
   "20180820_20180825": {
     "length": 6,
     "actor_one": [
-      "DETECTIVE",
-      "COMPANY",
-      "LANDOWNER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "TEXAS",
+      "PRESBYTERIAN",
+      "AFRICA",
+      "LAWYER",
+      "AUSTRALIAN"
     ],
     "actor_two": [
-      "COMPANY",
-      "LANDOWNER",
-      "UNIVERSITY",
-      "OREGON",
-      "THE POOR"
+      "SECRETARY OF STATE",
+      "CITIZEN",
+      "EMPLOYER",
+      "LAWYER",
+      "AMERICAN"
     ],
     "tone": -4.0,
     "area": 1422.0,
@@ -866,18 +866,18 @@
   "20180827_20180902": {
     "length": 7,
     "actor_one": [
+      "TEXAS",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT",
+      "AFRICA",
       "HEALTH DEPARTMENT",
-      "EXTORTIONIST"
+      "CENTER FOR REPRODUCTIVE RIGHTS"
     ],
     "actor_two": [
-      "MEDIA",
+      "TEXAS",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "GRAND RAPIDS",
-      "SAN FRANCISCO"
+      "SAN FRANCISCO",
+      "AFRICA",
+      "HEALTH OFFICIAL"
     ],
     "tone": -4.0,
     "area": 1459.0,
@@ -894,17 +894,17 @@
     "length": 6,
     "actor_one": [
       "POLICE OFFICER",
-      "PRESIDENT",
-      "SAN DIEGO",
-      "ATHENS",
-      "INSPECTOR GENERAL"
+      "PENNSYLVANIA",
+      "AFRICA",
+      "CITIZEN",
+      "ROBBER"
     ],
     "actor_two": [
-      "MEDIA",
-      "UNIVERSITY",
-      "GERMANY",
-      "PRESIDENT",
-      "BUSINESS"
+      "TEXAS",
+      "SUPREME COURT",
+      "FIREFIGHTER",
+      "WORKER",
+      "AFRICA"
     ],
     "tone": -4.0,
     "area": 634.0,
@@ -920,18 +920,18 @@
   "20181001_20181007": {
     "length": 7,
     "actor_one": [
-      "CHINESE",
-      "MEDIA",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "AFRICA",
+      "LAWYER",
+      "AUSTRALIAN",
+      "CALIFORNIA"
     ],
     "actor_two": [
-      "SPOKESMAN",
-      "MEDIA",
-      "PHYSICIAN",
       "POLICE OFFICER",
-      "COMPANY"
+      "SAN FRANCISCO",
+      "SPOKESMAN",
+      "WORKER",
+      "AFRICA"
     ],
     "tone": -5.0,
     "area": 1408.0,
@@ -947,17 +947,17 @@
   "20181016_20181018": {
     "length": 3,
     "actor_one": [
-      "COMPANY",
-      "MEDIA",
       "POLICE OFFICER",
-      "UNIVERSITY",
-      "PRESIDENT"
+      "AFRICA",
+      "PRESIDENT",
+      "COMPANY",
+      "UNIVERSITY"
     ],
     "actor_two": [
-      "ALABAMA",
+      "WORKER",
+      "AFRICA",
+      "AMERICAN",
       "PRESIDENT",
-      "REUTERS",
-      "GOVERNANCE",
       "WASHINGTON"
     ],
     "tone": -4.0,
@@ -974,18 +974,18 @@
   "20181023_20181027": {
     "length": 5,
     "actor_one": [
-      "CAPTAIN",
-      "MEDIA",
-      "ADVOCATE",
+      "AFRICA",
+      "CHRISTIAN",
+      "AMERICAN",
       "PRESIDENT",
-      "CLERGY"
+      "FRESNO"
     ],
     "actor_two": [
-      "MEDIA",
-      "PRESIDENT",
-      "MECCA",
-      "GOVERNOR",
-      "NEW YORK"
+      "GUNMAN",
+      "AFRICA",
+      "CITIZEN",
+      "NIGERIAN",
+      "BOSS"
     ],
     "tone": -3.0,
     "area": 860.0,
@@ -1001,18 +1001,18 @@
   "20181227_20181229": {
     "length": 3,
     "actor_one": [
-      "DETECTIVE",
-      "COMPANY",
       "POLICE OFFICER",
-      "PRESIDENT",
-      "OREGON"
+      "WORKER",
+      "AFRICA",
+      "HUNTER",
+      "CHRISTIAN"
     ],
     "actor_two": [
-      "OREGON",
-      "OBAMA",
-      "IOWA",
-      "SCHOOL",
-      "TENNESSEE"
+      "ASSOCIATED PRESS",
+      "HAITIAN",
+      "POPULATION",
+      "LAWYER",
+      "COLUMBUS"
     ],
     "tone": -4.0,
     "area": 551.0,

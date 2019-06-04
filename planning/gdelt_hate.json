@@ -2,18 +2,18 @@
   "20160109_20160116": {
     "length": 8,
     "actor_one": [
-      "OBAMA",
-      "MASSACHUSETTS",
-      "AMERICAN",
-      "KANSAS CITY",
-      "MUSLIM"
+      "GERMANY",
+      "WASHINGTON",
+      "MUSLIM",
+      "LAW ENFORCEMENT AUTHORITIES",
+      "MILITIA"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "TERRORIST",
-      "REFUGEE",
+      "WASHINGTON",
+      "MUSLIM",
+      "IRAN",
       "SUICIDE BOMBER",
-      "EMPLOYEE"
+      "PROFESSOR"
     ],
     "tone": -5.0,
     "area": 707.0,
@@ -31,97 +31,97 @@
     "actor_one": [
       "MAYOR",
       "MUSLIM",
-      "SECRETARY OF STATE",
-      "NEW MEXICO",
-      "SOUTH DAKOTA"
+      "SECURITY CHECK",
+      "UTAH",
+      "SECRETARY OF STATE"
     ],
     "actor_two": [
-      "OBAMA",
-      "ARCADIA",
+      "LAW ENFORCEMENT AGENCIES",
       "MUSLIM",
+      "BOSTON",
       "FLORIDA",
-      "BOSTON"
+      "UTAH"
     ],
     "tone": -4.0,
     "area": 464.0,
     "keywords": [
-      "crimes",
       "sexual",
       "law",
       "gay",
-      "state"
+      "state",
+      "victims"
     ],
     "articles": 387
   },
   "20160222_20160225": {
     "length": 4,
     "actor_one": [
-      "SUPREME COURT",
-      "COMPANY",
-      "AMERICAN",
-      "COMMUNITY",
-      "AUSTRALIAN"
+      "TOURIST",
+      "UTAH",
+      "RESIDENTS",
+      "DISNEY",
+      "COLLEGE"
     ],
     "actor_two": [
       "PORTLAND",
       "VILLAGE",
-      "REFUGEE",
-      "LOS ANGELES",
+      "NATIVE AMERICAN",
+      "WASHINGTON",
       "MUSLIM"
     ],
     "tone": -5.0,
     "area": 541.0,
     "keywords": [
-      "crimes",
-      "groups",
       "told",
+      "black",
       "students",
-      "man"
+      "man",
+      "bill"
     ],
     "articles": 828
   },
   "20160307_20160312": {
     "length": 6,
     "actor_one": [
-      "TERRORIST",
-      "SYRIAN",
-      "ASSAILANT",
-      "COMMUNITY",
-      "MUSLIM"
+      "MUSLIM",
+      "SIMON WIESENTHAL CENTER",
+      "OKLAHOMA",
+      "FLORIDA",
+      "RIGHTS ACTIVIST"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "COMPANY",
-      "SYRIAN",
-      "AMERICAN ENTERPRISE INSTITUTE",
-      "AMERICAN"
+      "MUSLIM",
+      "PUBLICATION",
+      "HUMAN RIGHTS ORGANIZATION",
+      "FLORIDA",
+      "STARBUCKS"
     ],
     "tone": -5.0,
     "area": 652.0,
     "keywords": [
       "center",
       "state",
-      "crimes",
       "republican",
-      "islam"
+      "islam",
+      "muslims"
     ],
     "articles": 1083
   },
   "20160401_20160403": {
     "length": 3,
     "actor_one": [
-      "HOSPITAL",
+      "RICHMOND",
+      "UNITED STATES",
       "SCHOOL",
-      "GUNMAN",
-      "TROOPER",
-      "DETECTIVE"
+      "PROSECUTOR",
+      "GERMANY"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "ARIZONA",
-      "GUNMAN",
+      "UNITED STATES",
+      "EMPLOYEE",
       "CITIZEN",
-      "CATHOLIC"
+      "GUNMAN",
+      "ARIZONA"
     ],
     "tone": -6.0,
     "area": 446.0,
@@ -138,17 +138,17 @@
     "length": 3,
     "actor_one": [
       "CHARLOTTE",
+      "UNITED STATES",
       "SCHOOL",
-      "GOOGLE",
       "DEPARTMENT OF EDUCATION",
-      "VOTER"
+      "EMPLOYEE"
     ],
     "actor_two": [
-      "COMPANIES",
       "CHARLOTTE",
+      "COMPANIES",
       "SCHOOL",
-      "GUNMAN",
-      "SMALL TOWN"
+      "TEXAS",
+      "UNITED STATES"
     ],
     "tone": -3.0,
     "area": 354.0,
@@ -164,18 +164,18 @@
   "20160511_20160513": {
     "length": 3,
     "actor_one": [
-      "COMPANY",
-      "KRITI",
-      "GOVERNOR",
+      "MINIST",
+      "DEPUTY",
+      "CHRISTIAN",
       "CONSTITUENT",
-      "SCHOOL"
+      "ADVOCATE"
     ],
     "actor_two": [
-      "DETROIT",
-      "COMMUNITY",
-      "DELHI",
-      "BUDAPEST",
-      "SCHOOL"
+      "DIPLOMAT",
+      "BOSTON",
+      "WRITER",
+      "ARKANSAS",
+      "CHRISTIAN"
     ],
     "tone": -4.0,
     "area": 550.0,
@@ -191,18 +191,18 @@
   "20160523_20160529": {
     "length": 7,
     "actor_one": [
-      "DALLAS",
-      "COMPANY",
-      "INDONESIA",
       "VILLAGE",
-      "REFUGEE"
+      "MUSLIM",
+      "DALLAS",
+      "HOSPITAL",
+      "UTAH"
     ],
     "actor_two": [
-      "PENNSYLVANIA",
-      "TERRORIST",
-      "OBAMA",
+      "WASHINGTON",
+      "MUSLIM",
+      "DEPUTY",
       "CHRISTINE LAGARDE",
-      "UNITED NATIONS"
+      "PILSEN"
     ],
     "tone": -5.0,
     "area": 1031.0,
@@ -218,18 +218,18 @@
   "20160611_20160703": {
     "length": 23,
     "actor_one": [
-      "PENNSYLVANIA",
-      "BRITISH",
-      "OBAMA",
-      "UNITARIAN",
-      "COMMUNITY"
+      "PRINCE",
+      "THE WHITE HOUSE",
+      "BARACK OBAMA",
+      "HUNTER",
+      "ATTORNEY GENERAL"
     ],
     "actor_two": [
-      "VILLAGE",
-      "OBAMA",
-      "EMPLOYEE",
-      "COMMUNITY",
-      "REUTERS"
+      "THE WHITE HOUSE",
+      "BARACK OBAMA",
+      "NEWS AGENCY",
+      "BILL CLINTON",
+      "LAWMAKER"
     ],
     "tone": -5.0,
     "area": 1988.0,
@@ -245,45 +245,45 @@
   "20160704_20160714": {
     "length": 11,
     "actor_one": [
-      "DALLAS",
-      "COMPANY",
-      "IRELAND",
       "MAYOR",
-      "UNITARIAN"
+      "CULPRIT",
+      "GERMANY",
+      "WASHINGTON",
+      "MUSLIM"
     ],
     "actor_two": [
-      "BENGHAZI",
-      "DALLAS",
       "PORTLAND",
-      "NATION OF ISLAM",
-      "OBAMA"
+      "BORDER PATROL AGENT",
+      "MILITANT",
+      "WASHINGTON",
+      "DALLAS"
     ],
     "tone": -6.0,
     "area": 1060.0,
     "keywords": [
       "officers",
-      "black",
       "lives",
+      "black",
       "dallas",
-      "matter"
+      "white"
     ],
     "articles": 4627
   },
   "20160717_20160724": {
     "length": 8,
     "actor_one": [
-      "PHYSICIAN",
-      "OBAMA",
-      "ABBOT",
-      "EMPLOYEE",
-      "IOWA"
+      "WYOMING",
+      "MUSLIM",
+      "MUSLIM DOCTOR",
+      "BANK",
+      "RESIDENTS"
     ],
     "actor_two": [
-      "MEXICAN",
-      "TERRORIST",
+      "WASHINGTON",
+      "MUSLIM",
       "DALLAS",
-      "COMPANY",
-      "OBAMA"
+      "POLE",
+      "ARIANA"
     ],
     "tone": -5.0,
     "area": 1170.0,
@@ -299,18 +299,18 @@
   "20160803_20160806": {
     "length": 4,
     "actor_one": [
-      "EMPLOYEE",
-      "AMERICAN",
-      "COMMUNITY",
+      "GOVERNMENT OFFICIAL",
       "MUSLIM",
-      "GOVERNMENT OFFICIAL"
+      "PUBLICATION",
+      "EMPLOYEE",
+      "ISLAMIC"
     ],
     "actor_two": [
-      "ATLANTA",
-      "OBAMA",
-      "AMERICAN",
-      "ASSAILANT",
-      "COMMUNITY"
+      "SOUTH ASIA",
+      "MUSLIM",
+      "MISSISSIPPI",
+      "THE WHITE HOUSE",
+      "TENNESSEE"
     ],
     "tone": -5.0,
     "area": 505.0,
@@ -326,18 +326,18 @@
   "20160812_20160820": {
     "length": 9,
     "actor_one": [
-      "IMAM",
-      "ACTOR",
-      "OBAMA",
       "CINCINNATI",
-      "AMERICAN"
+      "MUSLIM",
+      "ACTOR",
+      "IRAQ",
+      "IRISH"
     ],
     "actor_two": [
-      "IMAM",
-      "TERRORIST",
-      "KU KLUX KLAN",
-      "BRITISH",
-      "MAYOR"
+      "MAYOR",
+      "WASHINGTON",
+      "MUSLIM",
+      "SOMALI",
+      "IRAQ"
     ],
     "tone": -6.0,
     "area": 724.0,
@@ -353,99 +353,99 @@
   "20160822_20160829": {
     "length": 8,
     "actor_one": [
-      "SUPREME COURT",
-      "JAMAICA",
-      "AMERICAN",
-      "IOWA",
-      "ASSOCIATED PRESS"
+      "PUBLICATION",
+      "PRIEST",
+      "DEMONSTRATOR",
+      "LAWYER",
+      "IRAN"
     ],
     "actor_two": [
-      "MEXICAN",
-      "TERRORIST",
-      "KU KLUX KLAN",
-      "ATLANTA",
-      "OBAMA"
+      "WASHINGTON",
+      "WAITRESS",
+      "MISSISSIPPI",
+      "RIGHTS ACTIVIST",
+      "MEXICAN"
     ],
     "tone": -5.0,
     "area": 520.0,
     "keywords": [
       "white",
       "man",
+      "blackwell",
       "clinton",
-      "hillary",
-      "republican"
+      "hillary"
     ],
     "articles": 878
   },
   "20160831_20160902": {
     "length": 3,
     "actor_one": [
-      "TERRORIST",
-      "KU KLUX KLAN",
-      "EUROPEAN",
-      "DETECTIVE",
-      "JAMAICA"
+      "MICHIGAN",
+      "CHANDIGARH",
+      "HUNTER",
+      "ILLINOIS",
+      "MILITARY"
     ],
     "actor_two": [
-      "MEXICAN",
-      "TERRORIST",
-      "JAMAICA",
-      "OBAMA",
-      "AMERICAN"
+      "PUBLICATION",
+      "MUSLIM",
+      "CORPORATION",
+      "NON RESIDENT",
+      "MEXICAN"
     ],
     "tone": -5.0,
     "area": 379.0,
     "keywords": [
-      "group",
       "white",
-      "groups",
       "lives",
-      "matter"
+      "matter",
+      "law",
+      "movement"
     ],
     "articles": 648
   },
   "20160906_20160911": {
     "length": 6,
     "actor_one": [
+      "KINGDOM",
       "MAYOR",
-      "COMPANY",
-      "OBAMA",
-      "AMERICAN",
-      "COMMUNITY"
+      "MUSLIM",
+      "ACTOR",
+      "LAWYER"
     ],
     "actor_two": [
       "PORTLAND",
-      "DALLAS",
       "RICHMOND",
-      "ASSAILANT",
-      "COMMUNITY"
+      "BOSTON",
+      "DALLAS",
+      "MUSLIM"
     ],
     "tone": -6.0,
     "area": 759.0,
     "keywords": [
       "man",
-      "crimes",
       "women",
       "called",
-      "law"
+      "law",
+      "blue"
     ],
     "articles": 821
   },
   "20160912_20160914": {
     "length": 3,
     "actor_one": [
+      "MICHIGAN",
+      "WASHINGTON",
+      "MUSLIM",
       "DALLAS",
-      "PROSECUTING ATTORNEY",
-      "MASSACHUSETTS",
-      "AMERICAN",
-      "MUSLIM"
+      "BARACK OBAMA"
     ],
     "actor_two": [
-      "OBAMA",
-      "AMERICAN",
+      "WASHINGTON",
       "MUSLIM",
       "FLORIDA",
-      "ATTORNEY"
+      "THE WHITE HOUSE",
+      "ORLANDO"
     ],
     "tone": -6.0,
     "area": 1286.0,
@@ -461,18 +461,18 @@
   "20160922_20160924": {
     "length": 3,
     "actor_one": [
-      "CHARLOTTE",
-      "OBAMA",
-      "MASSACHUSETTS",
       "MUSLIM",
-      "CONGRESSMAN"
+      "DISSIDENT",
+      "CHARLOTTE",
+      "PROTESTER",
+      "LAWMAKER"
     ],
     "actor_two": [
-      "CHARLOTTE",
-      "PENNSYLVANIA",
-      "REFUGEE",
       "PHILIPPINE",
-      "AMERICAN"
+      "MUSLIM",
+      "PENNSYLVANIA",
+      "CHARLOTTE",
+      "PROTESTER"
     ],
     "tone": -6.0,
     "area": 413.0,
@@ -488,27 +488,27 @@
   "20160927_20160929": {
     "length": 3,
     "actor_one": [
-      "CHARLOTTE",
       "MAYOR",
-      "UNITED NATIONS",
-      "ASSAILANT",
-      "AMERICAN"
+      "CHARLOTTE",
+      "DELEGATE",
+      "AMERICAN",
+      "STUDENT"
     ],
     "actor_two": [
-      "CHARLOTTE",
-      "OBAMA",
-      "AMERICAN",
+      "WASHINGTON",
       "MUSLIM",
-      "BLOG"
+      "BARACK OBAMA",
+      "ACTIVIST",
+      "EUROPE"
     ],
     "tone": -5.0,
     "area": 534.0,
     "keywords": [
-      "crimes",
       "white",
       "york",
       "attacked",
-      "folsom"
+      "folsom",
+      "onby"
     ],
     "articles": 884
   },
@@ -516,17 +516,17 @@
     "length": 3,
     "actor_one": [
       "VILLAGE",
-      "IMMIGRANT",
-      "SCHOOL",
-      "VOTER",
-      "PRESIDENT"
+      "CHRISTIAN",
+      "NEW JERSEY",
+      "PROTESTER",
+      "VOTER"
     ],
     "actor_two": [
       "RICHMOND",
-      "AMERICAN",
-      "COMMUNITY",
+      "WYOMING",
       "MUSLIM",
-      "SCHOOL"
+      "TEXAS",
+      "ATTORNEY GENERAL"
     ],
     "tone": -6.0,
     "area": 562.0,
@@ -543,53 +543,53 @@
     "length": 19,
     "actor_one": [
       "MAYOR",
-      "COMPANY",
-      "ABBOT",
       "RICHMOND",
-      "EMPLOYEE"
+      "MUSLIM",
+      "DEMONSTRATOR",
+      "ACTOR"
     ],
     "actor_two": [
-      "OBAMA",
-      "EMPLOYEE",
-      "COMMUNITY",
-      "IMMIGRANT",
-      "ATTORNEY"
+      "BOSTON",
+      "OKLAHOMA",
+      "THE WHITE HOUSE",
+      "ANCIENT CHURCH OF THE EAST",
+      "COLORADO"
     ],
     "tone": -5.0,
     "area": 1520.0,
     "keywords": [
       "election",
       "white",
-      "crimes",
       "incidents",
-      "muslims"
+      "muslims",
+      "state"
     ],
     "articles": 7490
   },
   "20161127_20161204": {
     "length": 8,
     "actor_one": [
-      "PENNSYLVANIA",
-      "IMAM",
+      "KANSAS",
       "MAYOR",
-      "TERRORIST",
-      "CINCINNATI"
+      "CINCINNATI",
+      "MUSLIM",
+      "PUBLICATION"
     ],
     "actor_two": [
-      "TERRORIST",
-      "PENNSYLVANIA",
       "MAYOR",
-      "DETECTIVE",
-      "EMPLOYEE"
+      "WYOMING",
+      "WASHINGTON",
+      "MUSLIM",
+      "GOVERNMENT OFFICIAL"
     ],
     "tone": -5.0,
     "area": 1465.0,
     "keywords": [
-      "crimes",
+      "islamic",
       "letter",
       "muslims",
-      "islamic",
-      "incidents"
+      "incidents",
+      "reported"
     ],
     "articles": 1847
   },
@@ -597,17 +597,17 @@
     "length": 4,
     "actor_one": [
       "MAYOR",
-      "COMPANY",
-      "KU KLUX KLAN",
-      "EMPLOYEE",
-      "ASSAILANT"
+      "STATE PRISON",
+      "GERMANY",
+      "MUSLIM",
+      "MISSISSIPPI"
     ],
     "actor_two": [
       "MAYOR",
-      "OBAMA",
-      "EMPLOYEE",
-      "COMMUNITY",
-      "MUSLIM"
+      "GRAND RAPIDS",
+      "MUSLIM",
+      "ACTOR",
+      "FLORIDA"
     ],
     "tone": -6.0,
     "area": 689.0,
@@ -623,52 +623,52 @@
   "20170104_20170108": {
     "length": 5,
     "actor_one": [
+      "MUSLIM",
       "DALLAS",
-      "OBAMA",
-      "ASSAILANT",
-      "AMERICAN",
-      "MUSLIM"
+      "BARACK OBAMA",
+      "PUBLISHER",
+      "SPOKESMAN"
     ],
     "actor_two": [
-      "OBAMA",
-      "AMERICAN",
-      "ASSAILANT",
-      "LOS ANGELES",
-      "MUSLIM"
+      "MUSLIM",
+      "JORDAN",
+      "BARACK OBAMA",
+      "MILITARY BASE",
+      "MINORITIES"
     ],
     "tone": -8.0,
     "area": 745.0,
     "keywords": [
       "chicago",
+      "man",
       "victim",
-      "crimes",
-      "video",
-      "man"
+      "suspects",
+      "video"
     ],
     "articles": 4027
   },
   "20170119_20170213": {
     "length": 26,
     "actor_one": [
-      "CHARLOTTE",
-      "PENNSYLVANIA",
-      "COMMUNITY",
-      "NAVY",
-      "CANADA"
+      "KANSAS",
+      "APPEALS COURT",
+      "RUSH LIMBAUGH",
+      "MOSCOW",
+      "ATTORNEY GENERAL"
     ],
     "actor_two": [
-      "DETECTIVE",
-      "OBAMA",
-      "KANSAS CITY",
-      "EDUCATION SECRETARY",
-      "PILSEN"
+      "THE WHITE HOUSE",
+      "BELIEVER",
+      "BARACK OBAMA",
+      "ENGINEER",
+      "ATTORNEY GENERAL"
     ],
     "tone": -5.0,
     "area": 1342.0,
     "keywords": [
-      "crimes",
       "man",
       "muslim",
+      "law",
       "speech",
       "federal"
     ],
@@ -677,18 +677,18 @@
   "20170221_20170223": {
     "length": 3,
     "actor_one": [
-      "DOCTOR",
-      "ASSAILANT",
-      "KANSAS CITY",
-      "COMMUNITY",
-      "EGYPT"
+      "HOSPITAL",
+      "EGYPT",
+      "FLORIDA",
+      "CANADA",
+      "ATTORNEY GENERAL"
     ],
     "actor_two": [
+      "NORTH AMERICA",
       "PORTLAND",
-      "COMPANY",
-      "AMERICAN",
-      "COMMUNITY",
-      "MUSLIM"
+      "KANSAS",
+      "MUSLIM",
+      "MONTANA"
     ],
     "tone": -6.0,
     "area": 2266.0,
@@ -697,52 +697,52 @@
       "kansas",
       "jewish",
       "threats",
-      "crimes"
+      "white"
     ],
     "articles": 1246
   },
   "20170319_20170321": {
     "length": 3,
     "actor_one": [
-      "TERRORIST",
       "VILLAGE",
-      "COMMUNITY",
       "MUSLIM",
-      "ADMINISTRATION"
+      "MOUNT CARMEL",
+      "AFGHANISTAN",
+      "LAWYER"
     ],
     "actor_two": [
-      "PENNSYLVANIA",
-      "AMERICAN",
+      "WASHINGTON",
       "MUSLIM",
-      "ADMINISTRATION",
-      "SCHOOL"
+      "MISSISSIPPI",
+      "THE WHITE HOUSE",
+      "PENNSYLVANIA"
     ],
     "tone": -6.0,
     "area": 610.0,
     "keywords": [
       "community",
-      "crimes",
       "indian",
-      "group",
-      "rally"
+      "rally",
+      "dees",
+      "incited"
     ],
     "articles": 734
   },
   "20170418_20170421": {
     "length": 4,
     "actor_one": [
-      "COMPANIES",
-      "SUPREME COURT",
-      "TERRORIST",
       "DALLAS",
-      "DETECTIVE"
+      "DEPUTY",
+      "SECURITY OFFICIAL",
+      "CHRISTIAN",
+      "COMPANIES"
     ],
     "actor_two": [
-      "COMMUNITY",
-      "ATTORNEY",
-      "SCHOOL",
-      "GUNMAN",
-      "PRISON"
+      "DEPUTY",
+      "MONTANA",
+      "DENVER",
+      "CHRISTIAN",
+      "COLLEGE"
     ],
     "tone": -6.0,
     "area": 644.0,
@@ -758,27 +758,27 @@
   "20170424_20170429": {
     "length": 6,
     "actor_one": [
-      "COLOGNE",
-      "MILITARY",
-      "ASSAILANT",
-      "COMMUNITY",
-      "MUSLIM"
+      "WYOMING",
+      "MUSLIM",
+      "DEMONSTRATOR",
+      "HINDU",
+      "THE WHITE HOUSE"
     ],
     "actor_two": [
-      "TERRORIST",
-      "COMPANY",
-      "REFUGEE",
-      "AMERICAN",
-      "COMMUNITY"
+      "MUSLIM",
+      "SECRETARY OF STATE",
+      "BELIEVER",
+      "BANK",
+      "WRITER"
     ],
     "tone": -4.0,
     "area": 778.0,
     "keywords": [
-      "crimes",
       "speech",
       "community",
       "white",
-      "incidents"
+      "incidents",
+      "free"
     ],
     "articles": 1068
   },
@@ -786,23 +786,23 @@
     "length": 5,
     "actor_one": [
       "VILLAGE",
-      "COMPANY",
-      "OBAMA",
-      "DETECTIVE",
+      "WASHINGTON",
+      "MUSLIM",
+      "PRESBYTERIAN",
       "EPISCOPAL"
     ],
     "actor_two": [
-      "SOUTH KOREAN",
-      "MILITARY",
-      "ATLANTA",
-      "MASSACHUSETTS",
-      "OBAMA"
+      "MUSLIM",
+      "WOMEN FOR WOMEN INTERNATIONAL",
+      "EPISCOPAL",
+      "RUSSIA",
+      "MILITARY"
     ],
     "tone": -6.0,
     "area": 676.0,
     "keywords": [
-      "crimes",
       "law",
+      "lawmakers",
       "religious",
       "treene",
       "university"
@@ -812,18 +812,18 @@
   "20170514_20170520": {
     "length": 7,
     "actor_one": [
-      "GENERAL ELECTRIC",
-      "AMERICAN",
-      "SCIENTIST",
-      "COMMUNITY",
-      "OKLAHOMA"
+      "STATE PRISON",
+      "NETFLIX",
+      "OKLAHOMA",
+      "NEWS STATION",
+      "MISSISSIPPI"
     ],
     "actor_two": [
-      "TERRORIST",
-      "WALL STREET JOURNAL",
-      "ASSAILANT",
-      "AMERICAN",
-      "COMMUNITY"
+      "NETFLIX",
+      "CORINTH",
+      "MISSISSIPPI",
+      "DEPUTY",
+      "THE WHITE HOUSE"
     ],
     "tone": -7.0,
     "area": 577.0,
@@ -839,18 +839,18 @@
   "20170521_20170603": {
     "length": 14,
     "actor_one": [
-      "TERRORIST",
       "PORTLAND",
-      "COMPANY",
       "MAYOR",
-      "AMERICAN"
+      "NETFLIX",
+      "WASHINGTON",
+      "MUSLIM"
     ],
     "actor_two": [
-      "MAYOR",
       "PORTLAND",
-      "NORTH WEST",
-      "OBAMA",
-      "EMPLOYEE"
+      "MAYOR",
+      "LAW ENFORCEMENT AGENCIES",
+      "KANSAS",
+      "WASHINGTON"
     ],
     "tone": -6.0,
     "area": 824.0,
@@ -866,26 +866,26 @@
   "20170618_20170724": {
     "length": 36,
     "actor_one": [
-      "DETECTIVE",
-      "EMPLOYEE",
-      "PHOENIX",
-      "COMMUNITY",
-      "GOVERNOR"
+      "PRINCE",
+      "SIMON WIESENTHAL CENTER",
+      "BELIEVER",
+      "CUBA",
+      "CANADA"
     ],
     "actor_two": [
-      "VILLAGE",
-      "EUROPEAN",
-      "DETECTIVE",
       "CINCINNATI",
-      "EMPLOYEE"
+      "PRINCE",
+      "AGENCE FRANCE PRESS",
+      "ATTORNEY GENERAL",
+      "OUTLAW"
     ],
     "tone": -6.0,
     "area": 1264.0,
     "keywords": [
-      "group",
       "muslim",
-      "crimes",
+      "center",
       "mosque",
+      "man",
       "state"
     ],
     "articles": 3760
@@ -893,18 +893,18 @@
   "20170725_20170730": {
     "length": 6,
     "actor_one": [
-      "MILITARY",
-      "AMERICAN",
-      "PHOENIX",
-      "COMMUNITY",
-      "MUSLIM"
+      "MICHIGAN",
+      "LAW ENFORCEMENT AUTHORITIES",
+      "MUSLIM",
+      "RESIDENTS",
+      "MILITARY"
     ],
     "actor_two": [
-      "MILITARY",
-      "DETROIT",
-      "AMERICAN",
-      "MIGRANT",
-      "MUSLIM"
+      "LAW ENFORCEMENT AUTHORITIES",
+      "MUSLIM",
+      "SACRAMENTO",
+      "ALABAMA",
+      "MILITARY"
     ],
     "tone": -5.0,
     "area": 592.0,
@@ -920,99 +920,99 @@
   "20170802_20170904": {
     "length": 34,
     "actor_one": [
-      "VILLAGE",
-      "EUROPEAN",
-      "OBAMA",
-      "DETECTIVE",
-      "MILITARY"
+      "PRINCE",
+      "BOSTON",
+      "DAVID THOMPSON",
+      "COLORADO",
+      "DENVER"
     ],
     "actor_two": [
-      "PENNSYLVANIA",
-      "EUROPEAN",
-      "OBAMA",
-      "EMPLOYEE",
-      "KANSAS CITY"
+      "BOSTON",
+      "PUBLICATION",
+      "THE WHITE HOUSE",
+      "DENVER",
+      "ATTORNEY GENERAL"
     ],
     "tone": -5.0,
     "area": 1541.0,
     "keywords": [
       "white",
-      "groups",
       "charlottesville",
+      "violence",
       "rally",
-      "violence"
+      "speech"
     ],
     "articles": 17702
   },
   "20170912_20170916": {
     "length": 5,
     "actor_one": [
-      "FIRE CHIEF",
-      "STARBUCKS",
+      "WASHINGTON",
       "MUSLIM",
-      "BLOG",
-      "EUROPE"
+      "RED CROSS",
+      "CAREGIVER",
+      "HOUSE OF REPRESENTATIVES"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "COMPANY",
-      "RUSSIA",
-      "AMERICAN",
-      "COMMUNITY"
+      "LAW ENFORCEMENT AUTHORITIES",
+      "MUSLIM",
+      "WASHINGTON",
+      "THE WHITE HOUSE",
+      "RUSSIA"
     ],
     "tone": -6.0,
     "area": 542.0,
     "keywords": [
-      "groups",
       "white",
       "resolution",
       "virginia",
-      "charlottesville"
+      "charlottesville",
+      "condemning"
     ],
     "articles": 1687
   },
   "20170918_20170923": {
     "length": 6,
     "actor_one": [
-      "SUPREME COURT",
-      "PENNSYLVANIA",
       "MAYOR",
-      "BRITISH",
-      "COMPANY"
+      "WASHINGTON",
+      "MUSLIM",
+      "MINIST",
+      "ACTOR"
     ],
     "actor_two": [
+      "MUSLIM",
+      "PUBLICATION",
       "OBAMA",
-      "UNITED NATIONS",
-      "AMERICAN",
-      "EMPLOYEE",
-      "MUSLIM"
+      "HINDU",
+      "ILLINOIS"
     ],
     "tone": -6.0,
     "area": 551.0,
     "keywords": [
-      "crimes",
       "speech",
       "state",
       "man",
-      "groups"
+      "jewish",
+      "white"
     ],
     "articles": 350
   },
   "20171004_20171006": {
     "length": 3,
     "actor_one": [
-      "COMPANIES",
+      "LAW ENFORCEMENT AGENCIES",
       "MAYOR",
-      "COMMUNITY",
-      "NASHVILLE",
-      "GUNMAN"
+      "XIAN",
+      "RESIDENTS",
+      "COMPANIES"
     ],
     "actor_two": [
-      "COMPANIES",
       "PORTLAND",
-      "KU KLUX KLAN",
-      "EMPLOYEE",
-      "MANDALAY"
+      "HOSPITAL",
+      "AUCKLAND",
+      "COLLEGIAN",
+      "RESIDENTS"
     ],
     "tone": -4.0,
     "area": 651.0,
@@ -1028,18 +1028,18 @@
   "20171009_20171016": {
     "length": 8,
     "actor_one": [
-      "PENNSYLVANIA",
-      "DALLAS",
-      "DOCTOR",
       "MAYOR",
-      "EMPLOYEE"
+      "WASHINGTON",
+      "DALLAS",
+      "THE WHITE HOUSE",
+      "PENNSYLVANIA"
     ],
     "actor_two": [
-      "COMPANY",
-      "IOWA",
-      "COMMUNITY",
-      "ASSOCIATED PRESS",
-      "VIOLENT GROUP"
+      "LAW ENFORCEMENT AGENCIES",
+      "WASHINGTON",
+      "PRINCE",
+      "HOSPITAL",
+      "YEMENI"
     ],
     "tone": -4.0,
     "area": 790.0,
@@ -1055,18 +1055,18 @@
   "20171016_20171022": {
     "length": 7,
     "actor_one": [
-      "AMERICAN",
-      "IOWA",
-      "COMMUNITY",
-      "GOVERNOR",
-      "ADMINISTRATION"
+      "PRINCE",
+      "SALT LAKE CITY",
+      "LAWYER",
+      "PUBLISHER",
+      "RUSSIAN"
     ],
     "actor_two": [
-      "COMPANY",
-      "MASSACHUSETTS",
-      "IOWA",
-      "ASSOCIATED PRESS",
-      "REUTERS"
+      "WASHINGTON",
+      "FLORIDA",
+      "TENNESSEE",
+      "ACTIVIST",
+      "CHRISTIAN"
     ],
     "tone": -7.0,
     "area": 498.0,
@@ -1082,45 +1082,45 @@
   "20171029_20180203": {
     "length": 97,
     "actor_one": [
-      "PENNSYLVANIA",
-      "BRITISH",
-      "SUPERIOR COURT",
-      "MOSUL",
-      "CHARLOTTE"
+      "BRAZIL",
+      "KANSAS",
+      "PRINCE",
+      "TWIN FALLS",
+      "MINIST"
     ],
     "actor_two": [
-      "PENNSYLVANIA",
-      "CHARLOTTE",
-      "EUROPEAN",
-      "DETECTIVE",
-      "OBAMA"
+      "KANSAS",
+      "CATHOLIC PRIEST",
+      "CULPRIT",
+      "PRINCE",
+      "PUBLICATION"
     ],
     "tone": -5.0,
     "area": 2006.0,
     "keywords": [
-      "crimes",
       "white",
       "speech",
-      "group",
-      "man"
+      "man",
+      "law",
+      "state"
     ],
     "articles": 7315
   },
   "20180213_20180217": {
     "length": 5,
     "actor_one": [
+      "MICHIGAN",
       "MUSLIM",
-      "GOVERNOR",
       "FLORIDA",
-      "TURKEY",
-      "COUNSEL"
+      "JORDAN",
+      "PUBLISHER"
     ],
     "actor_two": [
-      "SAUDI",
-      "ARMENIA",
-      "AMERICAN",
+      "BOSTON",
       "MUSLIM",
-      "KING"
+      "SAUDI",
+      "ILLINOIS",
+      "THE ASSOCIATED PRESS"
     ],
     "tone": -4.0,
     "area": 728.0,
@@ -1136,45 +1136,45 @@
   "20180219_20180225": {
     "length": 7,
     "actor_one": [
-      "AMNESTY INTERNATIONAL",
-      "COMPANY",
-      "AMERICAN",
-      "ISRAEL",
-      "MUSLIM"
+      "MUSLIM",
+      "MINIST",
+      "HOSPITAL",
+      "THE WHITE HOUSE",
+      "LAWYER"
     ],
     "actor_two": [
-      "COMPANIES",
-      "PENNSYLVANIA",
-      "KU KLUX KLAN",
-      "VATICAN",
-      "AMERICAN"
+      "SOUTH ASIA",
+      "OKLAHOMA",
+      "FLORIDA",
+      "ACTOR",
+      "DEPUTY"
     ],
     "tone": -5.0,
     "area": 466.0,
     "keywords": [
       "white",
-      "groups",
       "splc",
       "media",
-      "family"
+      "family",
+      "jabara"
     ],
     "articles": 1919
   },
   "20180228_20180303": {
     "length": 4,
     "actor_one": [
-      "MILITARY",
+      "CULPRIT",
+      "CHINA",
       "MUSLIM",
-      "MONGER",
-      "CONSTITUENT",
-      "FLORIDA"
+      "FLORIDA",
+      "UTAH"
     ],
     "actor_two": [
-      "COMPANIES",
-      "ASSAILANT",
-      "PHOENIX",
-      "COMMUNITY",
-      "REUTERS"
+      "WASHINGTON",
+      "UTAH",
+      "LAWYER",
+      "MURRAY",
+      "CHRISTIAN"
     ],
     "tone": -6.0,
     "area": 668.0,
@@ -1190,18 +1190,18 @@
   "20180305_20180308": {
     "length": 4,
     "actor_one": [
-      "PHOENIX",
-      "COMMUNITY",
-      "NAVY",
-      "CONGRESSMAN",
-      "ISLAM"
+      "KANSAS",
+      "HOSPITAL",
+      "UTAH",
+      "DISTRICT COURT",
+      "RESIDENTS"
     ],
     "actor_two": [
-      "ENGINEER",
-      "SUPREME COURT",
-      "OSAMA BIN LADEN",
-      "DOCTOR",
-      "EMPLOYEE"
+      "MICHIGAN",
+      "UNITED STATES",
+      "GERMANY",
+      "EMPLOYEE",
+      "MILWAUKEE"
     ],
     "tone": -6.0,
     "area": 406.0,
@@ -1217,18 +1217,18 @@
   "20180311_20180313": {
     "length": 3,
     "actor_one": [
-      "MASSACHUSETTS",
-      "LOS ANGELES",
-      "KING",
-      "SANTA CRUZ",
-      "PRESIDENT"
+      "CITY MANAGER",
+      "BERMUDA",
+      "TEXAS",
+      "SAN DIEGO",
+      "MINORITIES"
     ],
     "actor_two": [
-      "COMPANY",
-      "COMMUNITY",
-      "ASSOCIATED PRESS",
-      "RABBI",
-      "LOUISIANA"
+      "CULPRIT",
+      "THE ASSOCIATED PRESS",
+      "SAN DIEGO",
+      "LOUISIANA",
+      "NETHERLANDS"
     ],
     "tone": -5.0,
     "area": 580.0,
@@ -1244,18 +1244,18 @@
   "20180402_20180409": {
     "length": 8,
     "actor_one": [
-      "COMPANY",
-      "EMPLOYEE",
-      "AMERICAN",
-      "COMMUNITY",
-      "NAVY"
+      "ORLANDO",
+      "MYANMAR",
+      "DEALER",
+      "BUDDHIST",
+      "CHRISTIAN"
     ],
     "actor_two": [
-      "IMAM",
-      "COMPANY",
-      "AMERICAN",
+      "MICHIGAN",
+      "MINIST",
       "MUSLIM",
-      "GOVERNOR"
+      "BARACK OBAMA",
+      "ILLINOIS"
     ],
     "tone": -6.0,
     "area": 653.0,
@@ -1271,18 +1271,18 @@
   "20180410_20180412": {
     "length": 3,
     "actor_one": [
-      "COMPANY",
       "JUDICIARY",
-      "COMMUNITY",
+      "PRINCE",
       "MUSLIM",
-      "ATTORNEY"
+      "TORONTO",
+      "COLLEGE"
     ],
     "actor_two": [
-      "TERRORIST",
-      "AMERICAN",
-      "IOWA",
-      "COMMUNITY",
-      "MUSLIM"
+      "MUSLIM",
+      "FLORIDA",
+      "THE WHITE HOUSE",
+      "TENNESSEE",
+      "TEXAS"
     ],
     "tone": -5.0,
     "area": 626.0,
@@ -1298,45 +1298,45 @@
   "20180417_20180528": {
     "length": 42,
     "actor_one": [
-      "DETECTIVE",
-      "EMPLOYEE",
-      "KANSAS CITY",
-      "PHOENIX",
-      "STARBUCKS"
+      "KANSAS",
+      "PUBLICATION",
+      "THE WHITE HOUSE",
+      "BARACK OBAMA",
+      "ENGINEER"
     ],
     "actor_two": [
-      "PENNSYLVANIA",
-      "HANOVER",
-      "MILITARY",
-      "ABBOT",
-      "OBAMA"
+      "KANSAS",
+      "BOSTON",
+      "NEWS STATION",
+      "AFGHANISTAN",
+      "THE WHITE HOUSE"
     ],
     "tone": -6.0,
     "area": 782.0,
     "keywords": [
       "white",
-      "students",
       "man",
-      "group",
-      "state"
+      "students",
+      "state",
+      "life"
     ],
     "articles": 2396
   },
   "20180617_20180619": {
     "length": 3,
     "actor_one": [
-      "HOSPITAL",
-      "CHINA",
-      "LAWMAKER",
+      "GOVERNMENT",
+      "UNITED STATES",
       "COLLEGE",
-      "PRESIDENT"
+      "WASHINGTON",
+      "CHINA"
     ],
     "actor_two": [
+      "UNITED STATES",
+      "WORKER",
+      "TELEVISION",
       "DEMONSTRATOR",
-      "AZORES",
-      "COMPANY",
-      "PRESIDENT",
-      "TELEVISION"
+      "MUSLIM"
     ],
     "tone": -4.0,
     "area": 348.0,
@@ -1352,18 +1352,18 @@
   "20180704_20180707": {
     "length": 4,
     "actor_one": [
-      "BRITISH",
-      "COMPANY",
+      "PUBLICATION",
+      "VLADIMIR",
       "MANAGING EDITOR",
-      "COMMUNITY",
-      "NAVY"
+      "PROTESTER",
+      "VOTER"
     ],
     "actor_two": [
+      "DEMONSTRATOR",
+      "DISTRICT COURT",
       "MANAGING EDITOR",
-      "COMPANY",
-      "AMERICAN",
-      "COMMUNITY",
-      "DISTRICT COURT"
+      "RESIDENTS",
+      "PROTESTER"
     ],
     "tone": -7.0,
     "area": 428.0,
@@ -1379,106 +1379,106 @@
   "20180716_20180721": {
     "length": 6,
     "actor_one": [
-      "MAYOR",
-      "COMPANY",
       "PORTLAND",
-      "REUTERS",
-      "CULPRIT"
+      "MAYOR",
+      "CULPRIT",
+      "RESIDENTS",
+      "SEATTLE"
     ],
     "actor_two": [
       "PORTLAND",
-      "EMPLOYEE",
-      "AMERICAN",
-      "PHOENIX",
-      "MUSLIM"
+      "WASHINGTON",
+      "MUSLIM",
+      "THE ASSOCIATED PRESS",
+      "SEATTLE"
     ],
     "tone": -6.0,
     "area": 564.0,
     "keywords": [
-      "crimes",
       "mosque",
       "man",
       "attack",
-      "texas"
+      "texas",
+      "perez"
     ],
     "articles": 449
   },
   "20180812_20180817": {
     "length": 6,
     "actor_one": [
-      "COMPANIES",
-      "COMPANY",
-      "DETECTIVE",
-      "CALIFORNIA",
-      "COMMUNITY"
+      "WASHINGTON",
+      "THAILAND",
+      "MUSLIM",
+      "CORPORATION",
+      "FLORIDA"
     ],
     "actor_two": [
-      "MEXICAN",
-      "DETECTIVE",
-      "DETROIT",
-      "AMERICAN",
-      "COMMUNITY"
+      "WASHINGTON",
+      "THAILAND",
+      "HOSPITAL",
+      "LAWYER",
+      "MEXICAN"
     ],
     "tone": -6.0,
     "area": 743.0,
     "keywords": [
       "white",
       "rally",
-      "groups",
-      "group",
-      "black"
+      "black",
+      "charlottesville",
+      "washington"
     ],
     "articles": 812
   },
   "20180904_20180923": {
     "length": 19,
     "actor_one": [
-      "COMPANIES",
-      "PENNSYLVANIA",
-      "COMPANY",
-      "OBAMA",
-      "EMPLOYEE"
+      "MUSLIM",
+      "HOSPITAL",
+      "ACTOR",
+      "FLORIDA",
+      "OKLAHOMA"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "PENNSYLVANIA",
-      "DALLAS",
       "PORTLAND",
-      "OBAMA"
+      "NORTH AMERICA",
+      "CULPRIT",
+      "PUBLICATION",
+      "DALLAS"
     ],
     "tone": -6.0,
     "area": 661.0,
     "keywords": [
       "black",
       "man",
-      "group",
       "murder",
-      "bernstein"
+      "bernstein",
+      "star"
     ],
     "articles": 1852
   },
   "20181016_20181018": {
     "length": 3,
     "actor_one": [
-      "IMAM",
+      "LOUISVILLE",
       "BRAZIL",
-      "GOVERNOR",
-      "JAPANESE",
-      "POLICE"
+      "LAWYER",
+      "RESIDENTS",
+      "ENGINEER"
     ],
     "actor_two": [
-      "AMERICAN",
-      "ASSAILANT",
-      "CLERGY",
+      "CHINA",
       "SECRETARY OF STATE",
-      "MEXICO"
+      "TEXAS",
+      "VIETNAM",
+      "VOTER"
     ],
     "tone": -6.0,
     "area": 627.0,
     "keywords": [
       "man",
-      "charged",
       "white",
+      "charged",
       "york",
       "political"
     ],
@@ -1487,18 +1487,18 @@
   "20181024_20181105": {
     "length": 13,
     "actor_one": [
-      "SUPREME COURT",
-      "TERRORIST",
-      "COMPANY",
-      "WAR CORRESPONDENT",
-      "ISRAEL"
+      "JUDICIARY",
+      "LOUISVILLE",
+      "WASHINGTON",
+      "MINIST",
+      "FLORIDA"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "COMPANY",
-      "MASSACHUSETTS",
-      "JUDAISM",
-      "AMERICAN"
+      "LOUISVILLE",
+      "WASHINGTON",
+      "MUSLIM",
+      "THE US",
+      "FLORIDA"
     ],
     "tone": -6.0,
     "area": 1284.0,
@@ -1507,79 +1507,79 @@
       "jewish",
       "shooting",
       "pittsburgh",
-      "crimes"
+      "man"
     ],
     "articles": 8130
   },
   "20181111_20181118": {
     "length": 8,
     "actor_one": [
-      "COMPANIES",
-      "SUPREME COURT",
-      "TERRORIST",
-      "COMMUNITY",
-      "GERMANY"
+      "SOUTH ASIA",
+      "GERMANY",
+      "CHINA",
+      "PUBLICATION",
+      "WASHINGTON"
     ],
     "actor_two": [
-      "KU KLUX KLAN",
       "VILLAGE",
-      "COMPANY",
-      "LOS ANGELES",
-      "AMERICAN"
+      "LAW ENFORCEMENT AGENCIES",
+      "MUSLIM",
+      "BOSTON",
+      "PUBLICATION"
     ],
     "tone": -7.0,
     "area": 593.0,
     "keywords": [
-      "crimes",
       "white",
       "man",
       "fbi",
-      "law"
+      "law",
+      "reported"
     ],
     "articles": 1660
   },
   "20181125_20181202": {
     "length": 8,
     "actor_one": [
-      "DETECTIVE",
-      "OBAMA",
-      "LOS ANGELES",
-      "ISRAEL",
-      "GOVERNOR"
+      "WASHINGTON",
+      "PRINCE",
+      "ACTOR",
+      "MISSISSIPPI",
+      "DEPUTY"
     ],
     "actor_two": [
-      "SUPREME COURT",
-      "COMPANY",
       "VILLAGE",
-      "NATION OF ISLAM",
-      "REFUGEE"
+      "JUDICIARY",
+      "NORTH AMERICA",
+      "POLE",
+      "SPECIAL OPERATIONS"
     ],
     "tone": -7.0,
     "area": 662.0,
     "keywords": [
-      "crimes",
       "state",
       "white",
       "swastikas",
-      "itthe"
+      "itthe",
+      "late"
     ],
     "articles": 1971
   },
   "20181209_20181223": {
     "length": 14,
     "actor_one": [
-      "PHYSICIAN",
-      "SHERWIN WILLIAMS",
-      "DOCTOR",
-      "MASSACHUSETTS",
-      "CINCINNATI"
+      "KINGDOM",
+      "DIPLOMAT",
+      "JUDICIARY",
+      "CINCINNATI",
+      "WASHINGTON"
     ],
     "actor_two": [
-      "TERRORIST",
-      "KU KLUX KLAN",
       "VILLAGE",
-      "COMPANY",
-      "AMERICAN"
+      "GERMANY",
+      "WASHINGTON",
+      "SOUTH KOREA",
+      "MUSLIM"
     ],
     "tone": -6.0,
     "area": 804.0,
@@ -1587,8 +1587,8 @@
       "white",
       "state",
       "man",
-      "crimes",
-      "arrested"
+      "arrested",
+      "attack"
     ],
     "articles": 1525
   }
