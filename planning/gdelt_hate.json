@@ -2,18 +2,18 @@
   "20160109_20160116": {
     "length": 8,
     "actor_one": [
-      "GERMANY",
+      "RELIGION",
       "WASHINGTON",
-      "MUSLIM",
-      "LAW ENFORCEMENT AUTHORITIES",
-      "MILITIA"
+      "PRESIDENT",
+      "LOUISIANA",
+      "CRIMINAL"
     ],
     "actor_two": [
+      "MALE",
       "WASHINGTON",
-      "MUSLIM",
+      "GOVERNMENT",
       "IRAN",
-      "SUICIDE BOMBER",
-      "PROFESSOR"
+      "SUICIDE BOMBER"
     ],
     "tone": -5.0,
     "area": 707.0,
@@ -29,18 +29,18 @@
   "20160127_20160131": {
     "length": 5,
     "actor_one": [
-      "MAYOR",
-      "MUSLIM",
-      "SECURITY CHECK",
       "UTAH",
+      "PRESIDENT",
+      "MAYOR",
+      "UNIVERSITY",
       "SECRETARY OF STATE"
     ],
     "actor_two": [
+      "UTAH",
+      "SERVER",
       "LAW ENFORCEMENT AGENCIES",
-      "MUSLIM",
-      "BOSTON",
-      "FLORIDA",
-      "UTAH"
+      "SOUTH CAROLINA",
+      "CRIMINAL"
     ],
     "tone": -4.0,
     "area": 464.0,
@@ -56,18 +56,18 @@
   "20160222_20160225": {
     "length": 4,
     "actor_one": [
-      "TOURIST",
-      "UTAH",
-      "RESIDENTS",
-      "DISNEY",
-      "COLLEGE"
+      "JEWISH",
+      "MALE",
+      "COMPANY",
+      "ADVOCATE",
+      "RESIDENTS"
     ],
     "actor_two": [
-      "PORTLAND",
-      "VILLAGE",
-      "NATIVE AMERICAN",
+      "PROTESTANT",
       "WASHINGTON",
-      "MUSLIM"
+      "GOVERNMENT",
+      "SOUTH CAROLINA",
+      "CRIMINAL"
     ],
     "tone": -5.0,
     "area": 541.0,
@@ -83,18 +83,18 @@
   "20160307_20160312": {
     "length": 6,
     "actor_one": [
-      "MUSLIM",
-      "SIMON WIESENTHAL CENTER",
       "OKLAHOMA",
-      "FLORIDA",
-      "RIGHTS ACTIVIST"
+      "REUTERS",
+      "SOUTH CAROLINA",
+      "TELEVISION",
+      "SPOKESMAN"
     ],
     "actor_two": [
-      "MUSLIM",
-      "PUBLICATION",
-      "HUMAN RIGHTS ORGANIZATION",
-      "FLORIDA",
-      "STARBUCKS"
+      "JEWISH",
+      "COMPANY",
+      "RELIGION",
+      "MALE",
+      "NURSE"
     ],
     "tone": -5.0,
     "area": 652.0,
@@ -110,18 +110,18 @@
   "20160401_20160403": {
     "length": 3,
     "actor_one": [
-      "RICHMOND",
-      "UNITED STATES",
-      "SCHOOL",
-      "PROSECUTOR",
-      "GERMANY"
+      "TROOPER",
+      "IMMIGRANT",
+      "GUNMAN",
+      "CHAD",
+      "SCHOOL"
     ],
     "actor_two": [
-      "UNITED STATES",
-      "EMPLOYEE",
-      "CITIZEN",
       "GUNMAN",
-      "ARIZONA"
+      "LOS ANGELES",
+      "ARIZONA",
+      "EMPLOYEE",
+      "MASSACHUSETTS"
     ],
     "tone": -6.0,
     "area": 446.0,
@@ -137,18 +137,18 @@
   "20160418_20160420": {
     "length": 3,
     "actor_one": [
-      "CHARLOTTE",
-      "UNITED STATES",
+      "CHAD",
+      "EMPLOYEE",
       "SCHOOL",
-      "DEPARTMENT OF EDUCATION",
-      "EMPLOYEE"
+      "PRESIDENT",
+      "CONGRESSMAN"
     ],
     "actor_two": [
-      "CHARLOTTE",
-      "COMPANIES",
+      "GUNMAN",
       "SCHOOL",
-      "TEXAS",
-      "UNITED STATES"
+      "LOS ANGELES",
+      "UTAH",
+      "COMPANIES"
     ],
     "tone": -3.0,
     "area": 354.0,
@@ -164,18 +164,18 @@
   "20160511_20160513": {
     "length": 3,
     "actor_one": [
-      "MINIST",
-      "DEPUTY",
-      "CHRISTIAN",
-      "CONSTITUENT",
-      "ADVOCATE"
+      "ECONOMIST",
+      "COMPANY",
+      "MALE",
+      "ADVOCATE",
+      "GOVERNMENT"
     ],
     "actor_two": [
-      "DIPLOMAT",
+      "MALE",
+      "RELIGION",
+      "MEMPHIS",
       "BOSTON",
-      "WRITER",
-      "ARKANSAS",
-      "CHRISTIAN"
+      "INDIANA"
     ],
     "tone": -4.0,
     "area": 550.0,
@@ -191,18 +191,18 @@
   "20160523_20160529": {
     "length": 7,
     "actor_one": [
-      "VILLAGE",
-      "MUSLIM",
-      "DALLAS",
-      "HOSPITAL",
+      "COMPANY",
+      "MALE",
+      "PERPETRATOR",
+      "RELIGION",
       "UTAH"
     ],
     "actor_two": [
+      "RELIGION",
+      "ADVOCATE",
       "WASHINGTON",
-      "MUSLIM",
-      "DEPUTY",
-      "CHRISTINE LAGARDE",
-      "PILSEN"
+      "PRESIDENTIAL CANDIDATE",
+      "ANTI DEFAMATION LEAGUE"
     ],
     "tone": -5.0,
     "area": 1031.0,
@@ -218,18 +218,18 @@
   "20160611_20160703": {
     "length": 23,
     "actor_one": [
-      "PRINCE",
-      "THE WHITE HOUSE",
-      "BARACK OBAMA",
-      "HUNTER",
-      "ATTORNEY GENERAL"
+      "WASHINGTON",
+      "CRIMINAL",
+      "IMMIGRANT",
+      "HASSAN",
+      "NATIONAL SECURITY COUNCIL"
     ],
     "actor_two": [
-      "THE WHITE HOUSE",
-      "BARACK OBAMA",
-      "NEWS AGENCY",
-      "BILL CLINTON",
-      "LAWMAKER"
+      "COMPANY",
+      "WASHINGTON",
+      "MAGAZINE",
+      "GOLDMAN SACHS",
+      "BISHOP"
     ],
     "tone": -5.0,
     "area": 1988.0,
@@ -245,18 +245,18 @@
   "20160704_20160714": {
     "length": 11,
     "actor_one": [
-      "MAYOR",
-      "CULPRIT",
-      "GERMANY",
-      "WASHINGTON",
-      "MUSLIM"
+      "FEDERAL COURT",
+      "COMPANY",
+      "CASTILE",
+      "LAWMAKER",
+      "WASHINGTON"
     ],
     "actor_two": [
-      "PORTLAND",
-      "BORDER PATROL AGENT",
-      "MILITANT",
-      "WASHINGTON",
-      "DALLAS"
+      "POLAND",
+      "CASTILE",
+      "RELIGION",
+      "LAWMAKER",
+      "WASHINGTON"
     ],
     "tone": -6.0,
     "area": 1060.0,
@@ -272,18 +272,18 @@
   "20160717_20160724": {
     "length": 8,
     "actor_one": [
-      "WYOMING",
-      "MUSLIM",
-      "MUSLIM DOCTOR",
-      "BANK",
-      "RESIDENTS"
+      "MALE",
+      "CASTILE",
+      "AGRICULTURE SECRETARY",
+      "RESIDENTS",
+      "AUSTRALIA"
     ],
     "actor_two": [
-      "WASHINGTON",
-      "MUSLIM",
-      "DALLAS",
-      "POLE",
-      "ARIANA"
+      "COMPANY",
+      "CASTILE",
+      "REUTERS",
+      "MEXICAN",
+      "WASHINGTON"
     ],
     "tone": -5.0,
     "area": 1170.0,
@@ -299,18 +299,18 @@
   "20160803_20160806": {
     "length": 4,
     "actor_one": [
-      "GOVERNMENT OFFICIAL",
-      "MUSLIM",
-      "PUBLICATION",
-      "EMPLOYEE",
-      "ISLAMIC"
+      "ADVOCATE",
+      "PRESIDENTIAL CANDIDATE",
+      "GERMAN",
+      "ISLAMIC",
+      "COMMUNITY"
     ],
     "actor_two": [
-      "SOUTH ASIA",
-      "MUSLIM",
-      "MISSISSIPPI",
+      "RELIGION",
+      "TENNESSEE",
       "THE WHITE HOUSE",
-      "TENNESSEE"
+      "CHAD",
+      "COMMUNITY"
     ],
     "tone": -5.0,
     "area": 505.0,
@@ -326,18 +326,18 @@
   "20160812_20160820": {
     "length": 9,
     "actor_one": [
+      "MALE",
       "CINCINNATI",
-      "MUSLIM",
-      "ACTOR",
-      "IRAQ",
-      "IRISH"
+      "ORTHODOX CHRISTIAN",
+      "RESIDENTS",
+      "PRESIDENTIAL CANDIDATE"
     ],
     "actor_two": [
-      "MAYOR",
+      "MALE",
+      "RELIGION",
+      "BRITISH",
       "WASHINGTON",
-      "MUSLIM",
-      "SOMALI",
-      "IRAQ"
+      "PRESIDENT"
     ],
     "tone": -6.0,
     "area": 724.0,
@@ -353,18 +353,18 @@
   "20160822_20160829": {
     "length": 8,
     "actor_one": [
-      "PUBLICATION",
-      "PRIEST",
-      "DEMONSTRATOR",
-      "LAWYER",
-      "IRAN"
+      "HAIFA",
+      "PRESIDENTIAL CANDIDATE",
+      "IRAN",
+      "ASSOCIATED PRESS",
+      "IOWA"
     ],
     "actor_two": [
+      "POLITICIAN",
+      "MEXICAN",
       "WASHINGTON",
       "WAITRESS",
-      "MISSISSIPPI",
-      "RIGHTS ACTIVIST",
-      "MEXICAN"
+      "PRESIDENT"
     ],
     "tone": -5.0,
     "area": 520.0,
@@ -380,18 +380,18 @@
   "20160831_20160902": {
     "length": 3,
     "actor_one": [
-      "MICHIGAN",
-      "CHANDIGARH",
-      "HUNTER",
-      "ILLINOIS",
-      "MILITARY"
+      "VETERANS WHO FOUGHT",
+      "PRESIDENT",
+      "DETECTIVE",
+      "EUROPEAN",
+      "ISLAMIC"
     ],
     "actor_two": [
-      "PUBLICATION",
-      "MUSLIM",
-      "CORPORATION",
-      "NON RESIDENT",
-      "MEXICAN"
+      "JEWISH",
+      "MEXICAN",
+      "ADVOCATE",
+      "PRESIDENT",
+      "GOVERNMENT"
     ],
     "tone": -5.0,
     "area": 379.0,
@@ -407,18 +407,18 @@
   "20160906_20160911": {
     "length": 6,
     "actor_one": [
-      "KINGDOM",
+      "JEWISH",
+      "COMPANY",
+      "PRESIDENT",
       "MAYOR",
-      "MUSLIM",
-      "ACTOR",
-      "LAWYER"
+      "CRIMINAL"
     ],
     "actor_two": [
-      "PORTLAND",
-      "RICHMOND",
-      "BOSTON",
-      "DALLAS",
-      "MUSLIM"
+      "JEWISH",
+      "PERPETRATOR",
+      "PRESIDENTIAL CANDIDATE",
+      "IRAN",
+      "ANTIOCH"
     ],
     "tone": -6.0,
     "area": 759.0,
@@ -434,18 +434,18 @@
   "20160912_20160914": {
     "length": 3,
     "actor_one": [
-      "MICHIGAN",
+      "MALE",
       "WASHINGTON",
-      "MUSLIM",
-      "DALLAS",
-      "BARACK OBAMA"
+      "PRESIDENT",
+      "DAVID THOMPSON",
+      "PROSECUTING ATTORNEY"
     ],
     "actor_two": [
       "WASHINGTON",
-      "MUSLIM",
-      "FLORIDA",
       "THE WHITE HOUSE",
-      "ORLANDO"
+      "NEW YORK CITY",
+      "AUSTRIA",
+      "UNIVERSITY"
     ],
     "tone": -6.0,
     "area": 1286.0,
@@ -461,18 +461,18 @@
   "20160922_20160924": {
     "length": 3,
     "actor_one": [
-      "MUSLIM",
-      "DISSIDENT",
-      "CHARLOTTE",
-      "PROTESTER",
-      "LAWMAKER"
+      "ADVOCATE",
+      "LAWMAKER",
+      "PRESIDENTIAL CANDIDATE",
+      "GOVERNMENT",
+      "GOVERNMENT SPOKESMAN"
     ],
     "actor_two": [
-      "PHILIPPINE",
-      "MUSLIM",
+      "JEWISH",
+      "GOVERNMENT",
+      "THE US",
       "PENNSYLVANIA",
-      "CHARLOTTE",
-      "PROTESTER"
+      "COLUMNIST"
     ],
     "tone": -6.0,
     "area": 413.0,
@@ -488,18 +488,18 @@
   "20160927_20160929": {
     "length": 3,
     "actor_one": [
-      "MAYOR",
-      "CHARLOTTE",
-      "DELEGATE",
-      "AMERICAN",
-      "STUDENT"
+      "PRESIDENT",
+      "ANTI DEFAMATION LEAGUE",
+      "PRESIDENTIAL CANDIDATE",
+      "GOVERNMENT",
+      "MAYOR"
     ],
     "actor_two": [
+      "LEGISLATOR",
       "WASHINGTON",
-      "MUSLIM",
-      "BARACK OBAMA",
-      "ACTIVIST",
-      "EUROPE"
+      "CRIMINAL",
+      "MEDIA",
+      "PRISON"
     ],
     "tone": -5.0,
     "area": 534.0,
@@ -515,18 +515,18 @@
   "20161010_20161012": {
     "length": 3,
     "actor_one": [
-      "VILLAGE",
-      "CHRISTIAN",
-      "NEW JERSEY",
-      "PROTESTER",
-      "VOTER"
+      "MALE",
+      "AUSTRALIA",
+      "PRESIDENT",
+      "ANTI DEFAMATION LEAGUE",
+      "CRIMINAL"
     ],
     "actor_two": [
-      "RICHMOND",
-      "WYOMING",
-      "MUSLIM",
+      "MISSOURI",
       "TEXAS",
-      "ATTORNEY GENERAL"
+      "CHAD",
+      "NEIGHBORHOOD",
+      "COMMUNITY"
     ],
     "tone": -6.0,
     "area": 562.0,
@@ -542,18 +542,18 @@
   "20161108_20161126": {
     "length": 19,
     "actor_one": [
-      "MAYOR",
-      "RICHMOND",
-      "MUSLIM",
-      "DEMONSTRATOR",
-      "ACTOR"
+      "JEWISH",
+      "COMPANY",
+      "RELIGION",
+      "ADVOCATE",
+      "LAWMAKER"
     ],
     "actor_two": [
-      "BOSTON",
-      "OKLAHOMA",
-      "THE WHITE HOUSE",
-      "ANCIENT CHURCH OF THE EAST",
-      "COLORADO"
+      "COMPANY",
+      "CASTILE",
+      "WASHINGTON",
+      "CRIMINAL",
+      "STATE ATTORNEY GENERAL"
     ],
     "tone": -5.0,
     "area": 1520.0,
@@ -569,18 +569,18 @@
   "20161127_20161204": {
     "length": 8,
     "actor_one": [
-      "KANSAS",
-      "MAYOR",
+      "RELIGION",
       "CINCINNATI",
-      "MUSLIM",
-      "PUBLICATION"
+      "CABINET",
+      "PRESIDENT",
+      "GOVERNMENT"
     ],
     "actor_two": [
-      "MAYOR",
-      "WYOMING",
-      "WASHINGTON",
-      "MUSLIM",
-      "GOVERNMENT OFFICIAL"
+      "MALE",
+      "REUTERS",
+      "ADVOCATE",
+      "RESIDENTS",
+      "WASHINGTON"
     ],
     "tone": -5.0,
     "area": 1465.0,
@@ -596,18 +596,18 @@
   "20161221_20161224": {
     "length": 4,
     "actor_one": [
+      "COMPANY",
+      "LAWMAKER",
+      "PRESIDENT",
       "MAYOR",
-      "STATE PRISON",
-      "GERMANY",
-      "MUSLIM",
-      "MISSISSIPPI"
+      "CRIMINAL"
     ],
     "actor_two": [
-      "MAYOR",
-      "GRAND RAPIDS",
-      "MUSLIM",
-      "ACTOR",
-      "FLORIDA"
+      "JEWISH",
+      "MALE",
+      "TENNESSEE",
+      "GOVERNMENT",
+      "MAYOR"
     ],
     "tone": -6.0,
     "area": 689.0,
@@ -623,18 +623,18 @@
   "20170104_20170108": {
     "length": 5,
     "actor_one": [
-      "MUSLIM",
-      "DALLAS",
-      "BARACK OBAMA",
-      "PUBLISHER",
-      "SPOKESMAN"
+      "MALE",
+      "PERPETRATOR",
+      "LAWMAKER",
+      "PRESIDENT",
+      "ASSOCIATED PRESS"
     ],
     "actor_two": [
-      "MUSLIM",
-      "JORDAN",
-      "BARACK OBAMA",
+      "MALE",
+      "PRESIDENT",
       "MILITARY BASE",
-      "MINORITIES"
+      "GOVERNMENT",
+      "MISSOURI"
     ],
     "tone": -8.0,
     "area": 745.0,
@@ -650,18 +650,18 @@
   "20170119_20170213": {
     "length": 26,
     "actor_one": [
-      "KANSAS",
-      "APPEALS COURT",
-      "RUSH LIMBAUGH",
-      "MOSCOW",
-      "ATTORNEY GENERAL"
+      "COMPANY",
+      "WASHINGTON",
+      "RUSSIA",
+      "MAYOR",
+      "CRIMINAL"
     ],
     "actor_two": [
-      "THE WHITE HOUSE",
-      "BELIEVER",
-      "BARACK OBAMA",
-      "ENGINEER",
-      "ATTORNEY GENERAL"
+      "WASHINGTON",
+      "CABINET",
+      "MISSOURI",
+      "DETECTIVE",
+      "AUSTRIA"
     ],
     "tone": -5.0,
     "area": 1342.0,
@@ -677,18 +677,18 @@
   "20170221_20170223": {
     "length": 3,
     "actor_one": [
-      "HOSPITAL",
-      "EGYPT",
-      "FLORIDA",
+      "JEWISH",
+      "PRESIDENT",
       "CANADA",
-      "ATTORNEY GENERAL"
+      "DOCTOR",
+      "HOUSTON"
     ],
     "actor_two": [
-      "NORTH AMERICA",
-      "PORTLAND",
+      "JEWISH",
+      "COMPANY",
+      "PRESIDENT",
       "KANSAS",
-      "MUSLIM",
-      "MONTANA"
+      "UNIVERSITY"
     ],
     "tone": -6.0,
     "area": 2266.0,
@@ -704,18 +704,18 @@
   "20170319_20170321": {
     "length": 3,
     "actor_one": [
-      "VILLAGE",
-      "MUSLIM",
+      "JEWISH",
       "MOUNT CARMEL",
-      "AFGHANISTAN",
-      "LAWYER"
+      "PERPETRATOR",
+      "PRESIDENT",
+      "MURRAY"
     ],
     "actor_two": [
+      "JEWISH",
       "WASHINGTON",
-      "MUSLIM",
-      "MISSISSIPPI",
       "THE WHITE HOUSE",
-      "PENNSYLVANIA"
+      "THE US",
+      "MISSOURI"
     ],
     "tone": -6.0,
     "area": 610.0,
@@ -731,18 +731,18 @@
   "20170418_20170421": {
     "length": 4,
     "actor_one": [
-      "DALLAS",
-      "DEPUTY",
-      "SECURITY OFFICIAL",
-      "CHRISTIAN",
-      "COMPANIES"
+      "JEWISH",
+      "PRESIDENT",
+      "DETECTIVE",
+      "FIRE MARSHAL",
+      "SECURITY OFFICIAL"
     ],
     "actor_two": [
-      "DEPUTY",
-      "MONTANA",
-      "DENVER",
-      "CHRISTIAN",
-      "COLLEGE"
+      "MALE",
+      "FIRE MARSHAL",
+      "ISLAMIC",
+      "AUTHORITIES",
+      "DENVER"
     ],
     "tone": -6.0,
     "area": 644.0,
@@ -758,18 +758,18 @@
   "20170424_20170429": {
     "length": 6,
     "actor_one": [
-      "WYOMING",
-      "MUSLIM",
-      "DEMONSTRATOR",
+      "JEWISH",
       "HINDU",
-      "THE WHITE HOUSE"
+      "ADVOCATE",
+      "RESIDENTS",
+      "PRESIDENT"
     ],
     "actor_two": [
-      "MUSLIM",
-      "SECRETARY OF STATE",
-      "BELIEVER",
-      "BANK",
-      "WRITER"
+      "JEWISH",
+      "MALE",
+      "COMPANY",
+      "PRESIDENT",
+      "GOVERNMENT"
     ],
     "tone": -4.0,
     "area": 778.0,
@@ -785,18 +785,18 @@
   "20170501_20170505": {
     "length": 5,
     "actor_one": [
-      "VILLAGE",
+      "JEWISH",
+      "COMPANY",
+      "LAWMAKER",
       "WASHINGTON",
-      "MUSLIM",
-      "PRESBYTERIAN",
-      "EPISCOPAL"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "MUSLIM",
-      "WOMEN FOR WOMEN INTERNATIONAL",
-      "EPISCOPAL",
+      "POLITICIAN",
+      "PRESIDENT",
       "RUSSIA",
-      "MILITARY"
+      "THE US",
+      "COUNSEL"
     ],
     "tone": -6.0,
     "area": 676.0,
@@ -812,17 +812,17 @@
   "20170514_20170520": {
     "length": 7,
     "actor_one": [
-      "STATE PRISON",
-      "NETFLIX",
       "OKLAHOMA",
-      "NEWS STATION",
-      "MISSISSIPPI"
+      "ADVOCATE",
+      "PRESIDENT",
+      "A US",
+      "THE WHITE HOUSE"
     ],
     "actor_two": [
-      "NETFLIX",
-      "CORINTH",
-      "MISSISSIPPI",
-      "DEPUTY",
+      "JEWISH",
+      "LAWMAKER",
+      "ADVISORY BOARD",
+      "PRESIDENT",
       "THE WHITE HOUSE"
     ],
     "tone": -7.0,
@@ -839,18 +839,18 @@
   "20170521_20170603": {
     "length": 14,
     "actor_one": [
-      "PORTLAND",
-      "MAYOR",
-      "NETFLIX",
+      "COMPANY",
+      "ADVOCATE",
+      "LAWMAKER",
       "WASHINGTON",
-      "MUSLIM"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "PORTLAND",
-      "MAYOR",
-      "LAW ENFORCEMENT AGENCIES",
-      "KANSAS",
-      "WASHINGTON"
+      "LEGISLATOR",
+      "HINDU",
+      "POLITICIAN",
+      "ADVOCATE",
+      "MALE"
     ],
     "tone": -6.0,
     "area": 824.0,
@@ -866,18 +866,18 @@
   "20170618_20170724": {
     "length": 36,
     "actor_one": [
-      "PRINCE",
-      "SIMON WIESENTHAL CENTER",
-      "BELIEVER",
-      "CUBA",
-      "CANADA"
+      "COMPANY",
+      "CASTILE",
+      "WASHINGTON",
+      "DETECTIVE",
+      "CRIMINAL"
     ],
     "actor_two": [
-      "CINCINNATI",
-      "PRINCE",
-      "AGENCE FRANCE PRESS",
-      "ATTORNEY GENERAL",
-      "OUTLAW"
+      "COMPANY",
+      "CASTILE",
+      "WASHINGTON",
+      "RUSSIA",
+      "CABINET"
     ],
     "tone": -6.0,
     "area": 1264.0,
@@ -893,18 +893,18 @@
   "20170725_20170730": {
     "length": 6,
     "actor_one": [
-      "MICHIGAN",
-      "LAW ENFORCEMENT AUTHORITIES",
-      "MUSLIM",
+      "PHOENIX",
       "RESIDENTS",
-      "MILITARY"
+      "PRESIDENT",
+      "TELEVISION",
+      "PHILADELPHIA"
     ],
     "actor_two": [
-      "LAW ENFORCEMENT AUTHORITIES",
-      "MUSLIM",
-      "SACRAMENTO",
-      "ALABAMA",
-      "MILITARY"
+      "PRESIDENT",
+      "GOVERNMENT",
+      "NORTH DAKOTA",
+      "CRIMINAL",
+      "PHILADELPHIA"
     ],
     "tone": -5.0,
     "area": 592.0,
@@ -920,18 +920,18 @@
   "20170802_20170904": {
     "length": 34,
     "actor_one": [
-      "PRINCE",
-      "BOSTON",
-      "DAVID THOMPSON",
-      "COLORADO",
-      "DENVER"
+      "COMPANY",
+      "WASHINGTON",
+      "RUSSIA",
+      "BERLIN",
+      "MAYOR"
     ],
     "actor_two": [
-      "BOSTON",
-      "PUBLICATION",
-      "THE WHITE HOUSE",
-      "DENVER",
-      "ATTORNEY GENERAL"
+      "COMPANY",
+      "WASHINGTON",
+      "MAYOR",
+      "MAGAZINE",
+      "CRIMINAL"
     ],
     "tone": -5.0,
     "area": 1541.0,
@@ -947,18 +947,18 @@
   "20170912_20170916": {
     "length": 5,
     "actor_one": [
+      "FEDERAL COURT",
+      "JEWISH",
+      "LAWMAKER",
       "WASHINGTON",
-      "MUSLIM",
-      "RED CROSS",
-      "CAREGIVER",
-      "HOUSE OF REPRESENTATIVES"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "LAW ENFORCEMENT AUTHORITIES",
-      "MUSLIM",
+      "COMPANY",
       "WASHINGTON",
-      "THE WHITE HOUSE",
-      "RUSSIA"
+      "PRESIDENT",
+      "RUSSIA",
+      "ANTI DEFAMATION LEAGUE"
     ],
     "tone": -6.0,
     "area": 542.0,
@@ -974,18 +974,18 @@
   "20170918_20170923": {
     "length": 6,
     "actor_one": [
-      "MAYOR",
+      "JEWISH",
+      "COMPANY",
+      "BRITISH",
       "WASHINGTON",
-      "MUSLIM",
-      "MINIST",
-      "ACTOR"
+      "THE WHITE HOUSE"
     ],
     "actor_two": [
-      "MUSLIM",
-      "PUBLICATION",
-      "OBAMA",
+      "JEWISH",
       "HINDU",
-      "ILLINOIS"
+      "RELIGION",
+      "PRESIDENT",
+      "NORTH DAKOTA"
     ],
     "tone": -6.0,
     "area": 551.0,
@@ -1001,18 +1001,18 @@
   "20171004_20171006": {
     "length": 3,
     "actor_one": [
-      "LAW ENFORCEMENT AGENCIES",
-      "MAYOR",
-      "XIAN",
       "RESIDENTS",
-      "COMPANIES"
+      "ANTI DEFAMATION LEAGUE",
+      "MAYOR",
+      "LAW ENFORCEMENT AGENCIES",
+      "COMMUNITY"
     ],
     "actor_two": [
-      "PORTLAND",
-      "HOSPITAL",
-      "AUCKLAND",
+      "RESIDENTS",
       "COLLEGIAN",
-      "RESIDENTS"
+      "TEXAS",
+      "INVESTOR",
+      "RED CROSS"
     ],
     "tone": -4.0,
     "area": 651.0,
@@ -1028,18 +1028,18 @@
   "20171009_20171016": {
     "length": 8,
     "actor_one": [
-      "MAYOR",
+      "JEWISH",
+      "RELIGION",
+      "ADVOCATE",
       "WASHINGTON",
-      "DALLAS",
-      "THE WHITE HOUSE",
-      "PENNSYLVANIA"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "LAW ENFORCEMENT AGENCIES",
+      "COMPANY",
+      "LAWMAKER",
       "WASHINGTON",
-      "PRINCE",
-      "HOSPITAL",
-      "YEMENI"
+      "THE WHITE HOUSE",
+      "PRESIDENT"
     ],
     "tone": -4.0,
     "area": 790.0,
@@ -1055,18 +1055,18 @@
   "20171016_20171022": {
     "length": 7,
     "actor_one": [
-      "PRINCE",
-      "SALT LAKE CITY",
-      "LAWYER",
-      "PUBLISHER",
-      "RUSSIAN"
+      "MALE",
+      "RELIGION",
+      "ADVOCATE",
+      "GOVERNMENT",
+      "ARMY OFFICER"
     ],
     "actor_two": [
-      "WASHINGTON",
-      "FLORIDA",
-      "TENNESSEE",
-      "ACTIVIST",
-      "CHRISTIAN"
+      "JEWISH",
+      "COMPANY",
+      "REUTERS",
+      "PERPETRATOR",
+      "TENNESSEE"
     ],
     "tone": -7.0,
     "area": 498.0,
@@ -1082,18 +1082,18 @@
   "20171029_20180203": {
     "length": 97,
     "actor_one": [
-      "BRAZIL",
-      "KANSAS",
-      "PRINCE",
-      "TWIN FALLS",
-      "MINIST"
+      "COMPANY",
+      "BASEL",
+      "WASHINGTON",
+      "MORMON",
+      "RUSSIA"
     ],
     "actor_two": [
-      "KANSAS",
-      "CATHOLIC PRIEST",
-      "CULPRIT",
-      "PRINCE",
-      "PUBLICATION"
+      "COMPANY",
+      "WASHINGTON",
+      "RUSSIA",
+      "MAYOR",
+      "MISSOURI"
     ],
     "tone": -5.0,
     "area": 2006.0,
@@ -1109,18 +1109,18 @@
   "20180213_20180217": {
     "length": 5,
     "actor_one": [
-      "MICHIGAN",
-      "MUSLIM",
-      "FLORIDA",
-      "JORDAN",
+      "FEDERAL COURT",
+      "ANTI DEFAMATION LEAGUE",
+      "COUNSEL",
+      "COLUMNIST",
       "PUBLISHER"
     ],
     "actor_two": [
-      "BOSTON",
-      "MUSLIM",
+      "FEDERAL COURT",
+      "PRESIDENT",
+      "GOVERNMENT",
       "SAUDI",
-      "ILLINOIS",
-      "THE ASSOCIATED PRESS"
+      "BOSTON"
     ],
     "tone": -4.0,
     "area": 728.0,
@@ -1136,18 +1136,18 @@
   "20180219_20180225": {
     "length": 7,
     "actor_one": [
-      "MUSLIM",
-      "MINIST",
-      "HOSPITAL",
+      "COMPANY",
+      "PRESIDENT",
       "THE WHITE HOUSE",
-      "LAWYER"
+      "CHRISTIAN IDENTITY",
+      "VIRGINIA"
     ],
     "actor_two": [
-      "SOUTH ASIA",
+      "JEWISH",
+      "MALE",
       "OKLAHOMA",
-      "FLORIDA",
-      "ACTOR",
-      "DEPUTY"
+      "ADVOCATE",
+      "GOVERNMENT"
     ],
     "tone": -5.0,
     "area": 466.0,
@@ -1163,18 +1163,18 @@
   "20180228_20180303": {
     "length": 4,
     "actor_one": [
-      "CULPRIT",
-      "CHINA",
-      "MUSLIM",
-      "FLORIDA",
-      "UTAH"
+      "ECONOMIST",
+      "JEWISH",
+      "TENNESSEE",
+      "UTAH",
+      "ANTI DEFAMATION LEAGUE"
     ],
     "actor_two": [
-      "WASHINGTON",
-      "UTAH",
-      "LAWYER",
-      "MURRAY",
-      "CHRISTIAN"
+      "JEWISH",
+      "PHOENIX",
+      "LEGISLATOR",
+      "REUTERS",
+      "POLITICIAN"
     ],
     "tone": -6.0,
     "area": 668.0,
@@ -1190,18 +1190,18 @@
   "20180305_20180308": {
     "length": 4,
     "actor_one": [
-      "KANSAS",
-      "HOSPITAL",
+      "PHOENIX",
+      "JEWISH",
+      "RESIDENTS",
       "UTAH",
-      "DISTRICT COURT",
-      "RESIDENTS"
+      "KANSAS"
     ],
     "actor_two": [
-      "MICHIGAN",
-      "UNITED STATES",
-      "GERMANY",
-      "EMPLOYEE",
-      "MILWAUKEE"
+      "IMMIGRANT",
+      "NAVY",
+      "UTAH",
+      "ANTI DEFAMATION LEAGUE",
+      "GERMANY"
     ],
     "tone": -6.0,
     "area": 406.0,
@@ -1217,18 +1217,18 @@
   "20180311_20180313": {
     "length": 3,
     "actor_one": [
-      "CITY MANAGER",
+      "PRESIDENT",
       "BERMUDA",
+      "INDIANA",
       "TEXAS",
-      "SAN DIEGO",
-      "MINORITIES"
+      "INVESTOR"
     ],
     "actor_two": [
-      "CULPRIT",
-      "THE ASSOCIATED PRESS",
-      "SAN DIEGO",
+      "COMPANY",
+      "PRESIDENT",
+      "ASSOCIATED PRESS",
       "LOUISIANA",
-      "NETHERLANDS"
+      "CRIMINAL"
     ],
     "tone": -5.0,
     "area": 580.0,
@@ -1244,18 +1244,18 @@
   "20180402_20180409": {
     "length": 8,
     "actor_one": [
-      "ORLANDO",
-      "MYANMAR",
-      "DEALER",
-      "BUDDHIST",
-      "CHRISTIAN"
+      "COMPANY",
+      "PERPETRATOR",
+      "GOVERNMENT",
+      "ALBANIAN",
+      "TELEVISION"
     ],
     "actor_two": [
-      "MICHIGAN",
-      "MINIST",
-      "MUSLIM",
-      "BARACK OBAMA",
-      "ILLINOIS"
+      "COMPANY",
+      "MALE",
+      "TENNESSEE",
+      "PRESIDENT",
+      "IMAM"
     ],
     "tone": -6.0,
     "area": 653.0,
@@ -1271,18 +1271,18 @@
   "20180410_20180412": {
     "length": 3,
     "actor_one": [
+      "COMPANY",
       "JUDICIARY",
-      "PRINCE",
-      "MUSLIM",
-      "TORONTO",
-      "COLLEGE"
+      "PRESIDENT",
+      "GOVERNMENT",
+      "THE US"
     ],
     "actor_two": [
-      "MUSLIM",
-      "FLORIDA",
-      "THE WHITE HOUSE",
+      "REUTERS",
       "TENNESSEE",
-      "TEXAS"
+      "THE WHITE HOUSE",
+      "PRESIDENT",
+      "GOVERNMENT"
     ],
     "tone": -5.0,
     "area": 626.0,
@@ -1298,18 +1298,18 @@
   "20180417_20180528": {
     "length": 42,
     "actor_one": [
-      "KANSAS",
-      "PUBLICATION",
-      "THE WHITE HOUSE",
-      "BARACK OBAMA",
-      "ENGINEER"
+      "WASHINGTON",
+      "MAYOR",
+      "DETECTIVE",
+      "CRIMINAL",
+      "KANSAS"
     ],
     "actor_two": [
+      "COMPANY",
+      "WASHINGTON",
+      "CRIMINAL",
       "KANSAS",
-      "BOSTON",
-      "NEWS STATION",
-      "AFGHANISTAN",
-      "THE WHITE HOUSE"
+      "STARBUCKS"
     ],
     "tone": -6.0,
     "area": 782.0,
@@ -1325,17 +1325,17 @@
   "20180617_20180619": {
     "length": 3,
     "actor_one": [
-      "GOVERNMENT",
-      "UNITED STATES",
-      "COLLEGE",
-      "WASHINGTON",
-      "CHINA"
+      "IMMIGRANT",
+      "MIGRANT",
+      "CHINA",
+      "LAWMAKER",
+      "WASHINGTON"
     ],
     "actor_two": [
-      "UNITED STATES",
-      "WORKER",
-      "TELEVISION",
+      "IMMIGRANT",
+      "AID GROUP",
       "DEMONSTRATOR",
+      "COMPANY",
       "MUSLIM"
     ],
     "tone": -4.0,
@@ -1352,18 +1352,18 @@
   "20180704_20180707": {
     "length": 4,
     "actor_one": [
-      "PUBLICATION",
-      "VLADIMIR",
-      "MANAGING EDITOR",
-      "PROTESTER",
-      "VOTER"
+      "COMPANY",
+      "BRITISH",
+      "PRESIDENT",
+      "VIRGINIA",
+      "IMMIGRANT"
     ],
     "actor_two": [
-      "DEMONSTRATOR",
-      "DISTRICT COURT",
-      "MANAGING EDITOR",
+      "COMPANY",
       "RESIDENTS",
-      "PROTESTER"
+      "PRESIDENT",
+      "VIRGINIA",
+      "MEDIA"
     ],
     "tone": -7.0,
     "area": 428.0,
@@ -1379,18 +1379,18 @@
   "20180716_20180721": {
     "length": 6,
     "actor_one": [
-      "PORTLAND",
-      "MAYOR",
-      "CULPRIT",
+      "COMPANY",
+      "REUTERS",
+      "INDIANAPOLIS",
       "RESIDENTS",
-      "SEATTLE"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "PORTLAND",
+      "PHOENIX",
+      "INDIANAPOLIS",
+      "MEMPHIS",
       "WASHINGTON",
-      "MUSLIM",
-      "THE ASSOCIATED PRESS",
-      "SEATTLE"
+      "GOVERNMENT"
     ],
     "tone": -6.0,
     "area": 564.0,
@@ -1406,18 +1406,18 @@
   "20180812_20180817": {
     "length": 6,
     "actor_one": [
+      "JEWISH",
+      "COMPANY",
+      "INDIANAPOLIS",
       "WASHINGTON",
-      "THAILAND",
-      "MUSLIM",
-      "CORPORATION",
-      "FLORIDA"
+      "PRESIDENT"
     ],
     "actor_two": [
+      "JEWISH",
+      "MEXICAN",
+      "TROOPER",
       "WASHINGTON",
-      "THAILAND",
-      "HOSPITAL",
-      "LAWYER",
-      "MEXICAN"
+      "PRESIDENT"
     ],
     "tone": -6.0,
     "area": 743.0,
@@ -1433,18 +1433,18 @@
   "20180904_20180923": {
     "length": 19,
     "actor_one": [
-      "MUSLIM",
-      "HOSPITAL",
-      "ACTOR",
-      "FLORIDA",
-      "OKLAHOMA"
+      "JEWISH",
+      "COMPANY",
+      "OKLAHOMA",
+      "ADVOCATE",
+      "CABINET"
     ],
     "actor_two": [
-      "PORTLAND",
-      "NORTH AMERICA",
-      "CULPRIT",
-      "PUBLICATION",
-      "DALLAS"
+      "JEWISH",
+      "INDIANAPOLIS",
+      "LAWMAKER",
+      "RESIDENTS",
+      "PRESIDENT"
     ],
     "tone": -6.0,
     "area": 661.0,
@@ -1460,18 +1460,18 @@
   "20181016_20181018": {
     "length": 3,
     "actor_one": [
-      "LOUISVILLE",
-      "BRAZIL",
-      "LAWYER",
+      "JEWISH",
       "RESIDENTS",
-      "ENGINEER"
+      "IMAM",
+      "BRAZIL",
+      "TEXAS"
     ],
     "actor_two": [
-      "CHINA",
-      "SECRETARY OF STATE",
+      "RELIGION",
+      "GOVERNMENT",
       "TEXAS",
-      "VIETNAM",
-      "VOTER"
+      "SECRETARY OF STATE",
+      "MEDIA"
     ],
     "tone": -6.0,
     "area": 627.0,
@@ -1487,18 +1487,18 @@
   "20181024_20181105": {
     "length": 13,
     "actor_one": [
+      "JEWISH",
+      "COMPANY",
       "JUDICIARY",
-      "LOUISVILLE",
       "WASHINGTON",
-      "MINIST",
-      "FLORIDA"
+      "PRESIDENT"
     ],
     "actor_two": [
-      "LOUISVILLE",
+      "JEWISH",
+      "COMPANY",
+      "RELIGION",
       "WASHINGTON",
-      "MUSLIM",
-      "THE US",
-      "FLORIDA"
+      "PRESIDENT"
     ],
     "tone": -6.0,
     "area": 1284.0,
@@ -1514,18 +1514,18 @@
   "20181111_20181118": {
     "length": 8,
     "actor_one": [
-      "SOUTH ASIA",
-      "GERMANY",
-      "CHINA",
-      "PUBLICATION",
-      "WASHINGTON"
+      "JEWISH",
+      "REUTERS",
+      "WASHINGTON",
+      "PRESIDENT",
+      "ANTI DEFAMATION LEAGUE"
     ],
     "actor_two": [
-      "VILLAGE",
-      "LAW ENFORCEMENT AGENCIES",
-      "MUSLIM",
-      "BOSTON",
-      "PUBLICATION"
+      "JEWISH",
+      "HINDU",
+      "COMPANY",
+      "PRESIDENT",
+      "LAW ENFORCEMENT AGENCIES"
     ],
     "tone": -7.0,
     "area": 593.0,
@@ -1541,18 +1541,18 @@
   "20181125_20181202": {
     "length": 8,
     "actor_one": [
+      "JEWISH",
+      "LAWMAKER",
       "WASHINGTON",
-      "PRINCE",
-      "ACTOR",
-      "MISSISSIPPI",
-      "DEPUTY"
+      "PRESIDENT",
+      "ANTI DEFAMATION LEAGUE"
     ],
     "actor_two": [
-      "VILLAGE",
+      "JEWISH",
+      "COMPANY",
+      "BLACK PANTHERS",
       "JUDICIARY",
-      "NORTH AMERICA",
-      "POLE",
-      "SPECIAL OPERATIONS"
+      "RESIDENTS"
     ],
     "tone": -7.0,
     "area": 662.0,
@@ -1568,18 +1568,18 @@
   "20181209_20181223": {
     "length": 14,
     "actor_one": [
-      "KINGDOM",
-      "DIPLOMAT",
-      "JUDICIARY",
+      "JEWISH",
+      "AUSTRALIA",
+      "PERPETRATOR",
       "CINCINNATI",
       "WASHINGTON"
     ],
     "actor_two": [
-      "VILLAGE",
-      "GERMANY",
-      "WASHINGTON",
-      "SOUTH KOREA",
-      "MUSLIM"
+      "JEWISH",
+      "MALE",
+      "OKLAHOMA",
+      "PERPETRATOR",
+      "LAWMAKER"
     ],
     "tone": -6.0,
     "area": 804.0,
