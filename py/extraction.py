@@ -128,6 +128,7 @@ def process_events(year, target_csv):
 
             try:
                 # TODO - Rethink/Refactor Filtering
+                # TODO - Actor1Geo_Type in ('2', '3')
                 if all([v == 'US' for v in [a1_gc, a2_gc]]) \
                         and avg_tone < 0 \
                         and src_url not in seen_urls \

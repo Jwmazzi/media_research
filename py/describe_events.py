@@ -236,6 +236,8 @@ if __name__ == "__main__":
         area = get_extent_area(er)
         event_info[event_range].update({'area': area})
 
+        # TODO - Collect Top News Outlets
+
         # Collect Keywords
         keywords = get_event_keys(er)
         event_info[event_range].update({'keywords': keywords})
