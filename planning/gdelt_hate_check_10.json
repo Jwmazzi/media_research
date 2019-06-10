@@ -1,0 +1,1838 @@
+{
+  "20160109_20160116": {
+    "length": 8,
+    "actor_one": [
+      "ISLAMIC",
+      "CHRISTIAN",
+      "AFRICA",
+      "LOUISIANA",
+      "OBAMA"
+    ],
+    "actor_two": [
+      "CHRISTIAN",
+      "KING",
+      "MIGRANT",
+      "REFUGEE",
+      "SUICIDE BOMBER"
+    ],
+    "tone": -5.0,
+    "area": 707.0,
+    "keywords": [
+      "told",
+      "muslims",
+      "muslim",
+      "arrested",
+      "terrorist"
+    ],
+    "articles": 519
+  },
+  "20160127_20160131": {
+    "length": 5,
+    "actor_one": [
+      "SECRETARY OF STATE",
+      "BISHOP",
+      "CATHOLIC",
+      "UNIVERSITY",
+      "SENATOR"
+    ],
+    "actor_two": [
+      "INDIANA",
+      "INDUSTRY",
+      "TEXAS",
+      "BUSINESS",
+      "OBAMA"
+    ],
+    "tone": -4.0,
+    "area": 464.0,
+    "keywords": [
+      "sexual",
+      "law",
+      "gay",
+      "state",
+      "victims"
+    ],
+    "articles": 387
+  },
+  "20160222_20160225": {
+    "length": 4,
+    "actor_one": [
+      "JEWISH",
+      "DISNEY",
+      "AFRICA",
+      "TOURIST",
+      "POLICE CHIEF"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "AFRICA",
+      "VILLAGE",
+      "THE ASSOCIATED PRESS",
+      "CALIFORNIA"
+    ],
+    "tone": -5.0,
+    "area": 541.0,
+    "keywords": [
+      "told",
+      "black",
+      "students",
+      "man",
+      "bill"
+    ],
+    "articles": 828
+  },
+  "20160307_20160312": {
+    "length": 6,
+    "actor_one": [
+      "AFRICA",
+      "SANTA CRUZ",
+      "MINORITIES",
+      "SOUTH CAROLINA",
+      "SPOKESMAN"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "JEWISH",
+      "WEBSITE",
+      "PUBLIC DEFENDER",
+      "AIRLINE"
+    ],
+    "tone": -5.0,
+    "area": 652.0,
+    "keywords": [
+      "center",
+      "state",
+      "republican",
+      "islam",
+      "muslims"
+    ],
+    "articles": 1083
+  },
+  "20160401_20160403": {
+    "length": 3,
+    "actor_one": [
+      "RICHMOND",
+      "GERMANY",
+      "GUNMAN",
+      "POLICE",
+      "UNIVERSITY"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "ILLINOIS",
+      "CATHOLIC",
+      "POLICE",
+      "GUNMAN"
+    ],
+    "tone": -6.0,
+    "area": 446.0,
+    "keywords": [
+      "world",
+      "republican",
+      "cant",
+      "debate",
+      "fox"
+    ],
+    "articles": 443
+  },
+  "20160418_20160420": {
+    "length": 3,
+    "actor_one": [
+      "DEPARTMENT OF EDUCATION",
+      "CHARLOTTE",
+      "OHIO",
+      "POLICE",
+      "PRESIDENT"
+    ],
+    "actor_two": [
+      "UTAH",
+      "CHARLOTTE",
+      "OHIO",
+      "GUNMAN",
+      "HILLARY CLINTON"
+    ],
+    "tone": -3.0,
+    "area": 354.0,
+    "keywords": [
+      "church",
+      "ad",
+      "chad",
+      "couple",
+      "letter"
+    ],
+    "articles": 259
+  },
+  "20160511_20160513": {
+    "length": 3,
+    "actor_one": [
+      "CHRISTIAN",
+      "THE US",
+      "POLICE",
+      "SENATOR",
+      "MINIST"
+    ],
+    "actor_two": [
+      "INDIANA",
+      "DETROIT",
+      "CHRISTIAN",
+      "BUSINESS",
+      "CALIFORNIA"
+    ],
+    "tone": -4.0,
+    "area": 550.0,
+    "keywords": [
+      "school",
+      "bill",
+      "harris",
+      "law",
+      "officer"
+    ],
+    "articles": 753
+  },
+  "20160523_20160529": {
+    "length": 7,
+    "actor_one": [
+      "AFRICA",
+      "VILLAGE",
+      "LOUISIANA",
+      "TEXAS",
+      "DEMOCRATIC PARTY"
+    ],
+    "actor_two": [
+      "LEGISLATURE",
+      "UNITED NATIONS",
+      "AFRICA",
+      "LOUISIANA",
+      "THE US"
+    ],
+    "tone": -5.0,
+    "area": 1031.0,
+    "keywords": [
+      "bill",
+      "lives",
+      "matter",
+      "blue",
+      "law"
+    ],
+    "articles": 3984
+  },
+  "20160611_20160703": {
+    "length": 23,
+    "actor_one": [
+      "AFRICA",
+      "TENANTS",
+      "BUSINESS",
+      "OBAMA",
+      "FEDERAL JUDGE"
+    ],
+    "actor_two": [
+      "NEWS AGENCY",
+      "AFRICA",
+      "OBAMA",
+      "HOUSE SPEAKER",
+      "REPRESENTATIVES"
+    ],
+    "tone": -5.0,
+    "area": 1988.0,
+    "keywords": [
+      "orlando",
+      "shooting",
+      "violence",
+      "attack",
+      "gay"
+    ],
+    "articles": 5288
+  },
+  "20160704_20160714": {
+    "length": 11,
+    "actor_one": [
+      "CULPRIT",
+      "AFRICA",
+      "FIREFIGHTER",
+      "LOUISIANA",
+      "TEXAS"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "POLAND",
+      "CANADA",
+      "LOUISIANA",
+      "TEXAS"
+    ],
+    "tone": -6.0,
+    "area": 1060.0,
+    "keywords": [
+      "officers",
+      "lives",
+      "black",
+      "dallas",
+      "white"
+    ],
+    "articles": 4627
+  },
+  "20160717_20160724": {
+    "length": 8,
+    "actor_one": [
+      "DEFENSE SECRETARY",
+      "AFRICA",
+      "TEXAS",
+      "BUSINESS",
+      "OBAMA"
+    ],
+    "actor_two": [
+      "FARMER",
+      "LEGISLATURE",
+      "CHRISTIAN",
+      "AFRICA",
+      "CONGRESS"
+    ],
+    "tone": -5.0,
+    "area": 1170.0,
+    "keywords": [
+      "officers",
+      "law",
+      "rouge",
+      "baton",
+      "2020"
+    ],
+    "articles": 1593
+  },
+  "20160803_20160806": {
+    "length": 4,
+    "actor_one": [
+      "ISLAMIC",
+      "AFRICA",
+      "CONGRESS",
+      "BUSINESS",
+      "FEDERAL JUDGE"
+    ],
+    "actor_two": [
+      "FARMER",
+      "MISSISSIPPI",
+      "OBAMA",
+      "SOUTH ASIA",
+      "ATLANTA"
+    ],
+    "tone": -5.0,
+    "area": 505.0,
+    "keywords": [
+      "man",
+      "hateful",
+      "baby",
+      "ohio",
+      "appeal"
+    ],
+    "articles": 356
+  },
+  "20160812_20160820": {
+    "length": 9,
+    "actor_one": [
+      "ISLAMIC",
+      "BANGLADESH",
+      "CHRISTIAN",
+      "AFRICA",
+      "BANGLADESHI"
+    ],
+    "actor_two": [
+      "NEW YORK CITY",
+      "BANGLADESH",
+      "CANADA",
+      "CHRISTIAN",
+      "CONGRESSMAN"
+    ],
+    "tone": -6.0,
+    "area": 724.0,
+    "keywords": [
+      "york",
+      "murder",
+      "imam",
+      "muslim",
+      "shot"
+    ],
+    "articles": 1779
+  },
+  "20160822_20160829": {
+    "length": 8,
+    "actor_one": [
+      "BANGLADESH",
+      "AFRICA",
+      "CONGRESS",
+      "BILL CLINTON",
+      "BUSINESS"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "MISSISSIPPI",
+      "TEXAS",
+      "DEMOCRATIC PARTY",
+      "BUSINESS"
+    ],
+    "tone": -5.0,
+    "area": 520.0,
+    "keywords": [
+      "white",
+      "man",
+      "blackwell",
+      "clinton",
+      "hillary"
+    ],
+    "articles": 878
+  },
+  "20160831_20160902": {
+    "length": 3,
+    "actor_one": [
+      "ISLAMIC",
+      "EUROPEAN",
+      "AFRICA",
+      "BANGLADESHI",
+      "DETECTIVE"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "OBAMA",
+      "NON RESIDENT",
+      "TELEVISION",
+      "NASSER"
+    ],
+    "tone": -5.0,
+    "area": 379.0,
+    "keywords": [
+      "white",
+      "lives",
+      "matter",
+      "law",
+      "movement"
+    ],
+    "articles": 648
+  },
+  "20160906_20160911": {
+    "length": 6,
+    "actor_one": [
+      "ISLAMIC",
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA",
+      "KING"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "INDIANA",
+      "SHIA",
+      "JEWISH",
+      "AFRICA"
+    ],
+    "tone": -6.0,
+    "area": 759.0,
+    "keywords": [
+      "man",
+      "women",
+      "called",
+      "law",
+      "blue"
+    ],
+    "articles": 821
+  },
+  "20160912_20160914": {
+    "length": 3,
+    "actor_one": [
+      "AFRICA",
+      "SPOKESMAN",
+      "ARSONIST",
+      "ORLEANS",
+      "POLICE"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "NEW YORK CITY",
+      "BUSINESS",
+      "OBAMA",
+      "SCOTTISH"
+    ],
+    "tone": -6.0,
+    "area": 1286.0,
+    "keywords": [
+      "muslim",
+      "set",
+      "york",
+      "mosque",
+      "man"
+    ],
+    "articles": 955
+  },
+  "20160922_20160924": {
+    "length": 3,
+    "actor_one": [
+      "AFRICA",
+      "CONGRESS",
+      "CONGRESSMAN",
+      "OBAMA",
+      "DISSIDENT"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "AFRICA",
+      "CONGRESS",
+      "THE US",
+      "COLUMNIST"
+    ],
+    "tone": -6.0,
+    "area": 413.0,
+    "keywords": [
+      "white",
+      "protesters",
+      "pittenger",
+      "charlotte",
+      "congressman"
+    ],
+    "articles": 728
+  },
+  "20160927_20160929": {
+    "length": 3,
+    "actor_one": [
+      "THE UN",
+      "UNITED NATIONS",
+      "AFRICA",
+      "CLEVELAND",
+      "CHARLOTTE"
+    ],
+    "actor_two": [
+      "BILL CLINTON",
+      "INDUSTRY",
+      "OBAMA",
+      "EUROPE",
+      "POLITICIAN"
+    ],
+    "tone": -5.0,
+    "area": 534.0,
+    "keywords": [
+      "white",
+      "york",
+      "attacked",
+      "folsom",
+      "onby"
+    ],
+    "articles": 884
+  },
+  "20161010_20161012": {
+    "length": 3,
+    "actor_one": [
+      "CHRISTIAN",
+      "AFRICA",
+      "VILLAGE",
+      "NEW JERSEY",
+      "FEDERAL JUDGE"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "BILL CLINTON",
+      "TEXAS",
+      "POLICE",
+      "WYOMING"
+    ],
+    "tone": -6.0,
+    "area": 562.0,
+    "keywords": [
+      "white",
+      "man",
+      "women",
+      "clinton",
+      "khalsa"
+    ],
+    "articles": 638
+  },
+  "20161108_20161126": {
+    "length": 19,
+    "actor_one": [
+      "RIGHTS GROUP",
+      "DETROIT",
+      "JEWISH",
+      "AFRICA",
+      "TEXAS"
+    ],
+    "actor_two": [
+      "UNIONS",
+      "STATE ATTORNEY GENERAL",
+      "AFRICA",
+      "KING",
+      "BUSINESS"
+    ],
+    "tone": -5.0,
+    "area": 1520.0,
+    "keywords": [
+      "election",
+      "white",
+      "incidents",
+      "muslims",
+      "state"
+    ],
+    "articles": 7490
+  },
+  "20161127_20161204": {
+    "length": 8,
+    "actor_one": [
+      "RIGHTS GROUP",
+      "ISLAMIC",
+      "CHRISTIAN",
+      "AFRICA",
+      "NATURALIZED"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "AFRICA",
+      "PREACHER",
+      "THE US",
+      "DETECTIVE"
+    ],
+    "tone": -5.0,
+    "area": 1465.0,
+    "keywords": [
+      "islamic",
+      "letter",
+      "muslims",
+      "incidents",
+      "reported"
+    ],
+    "articles": 1847
+  },
+  "20161221_20161224": {
+    "length": 4,
+    "actor_one": [
+      "AFRICA",
+      "MISSISSIPPI",
+      "CALIFORNIA",
+      "WEBSITE",
+      "CATHOLIC"
+    ],
+    "actor_two": [
+      "FARMER",
+      "JEWISH",
+      "MISSISSIPPI",
+      "THE ASSOCIATED PRESS",
+      "OBAMA"
+    ],
+    "tone": -6.0,
+    "area": 689.0,
+    "keywords": [
+      "muslim",
+      "state",
+      "man",
+      "woman",
+      "york"
+    ],
+    "articles": 987
+  },
+  "20170104_20170108": {
+    "length": 5,
+    "actor_one": [
+      "INDIANA",
+      "CHRISTIAN",
+      "AFRICA",
+      "CONGRESS",
+      "INDUSTRY"
+    ],
+    "actor_two": [
+      "MINORITIES",
+      "OBAMA",
+      "WEBSITE",
+      "POLICE",
+      "MILITARY BASE"
+    ],
+    "tone": -8.0,
+    "area": 745.0,
+    "keywords": [
+      "chicago",
+      "man",
+      "victim",
+      "suspects",
+      "video"
+    ],
+    "articles": 4027
+  },
+  "20170119_20170213": {
+    "length": 26,
+    "actor_one": [
+      "CIVIL SOCIETY",
+      "CHIEF MINISTER",
+      "AFRICA",
+      "YWCA",
+      "BUSINESS"
+    ],
+    "actor_two": [
+      "AFRICA",
+      "CABINET",
+      "BUSINESS",
+      "BLACK PANTHERS",
+      "OBAMA"
+    ],
+    "tone": -5.0,
+    "area": 1342.0,
+    "keywords": [
+      "man",
+      "muslim",
+      "law",
+      "speech",
+      "federal"
+    ],
+    "articles": 5856
+  },
+  "20170221_20170223": {
+    "length": 3,
+    "actor_one": [
+      "JEWISH",
+      "CANADA",
+      "AFRICA",
+      "DOCTOR",
+      "DENMARK"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "AFRICA",
+      "CALIFORNIA",
+      "NORTH AMERICA",
+      "HILLARY CLINTON"
+    ],
+    "tone": -6.0,
+    "area": 2266.0,
+    "keywords": [
+      "shooting",
+      "kansas",
+      "jewish",
+      "threats",
+      "white"
+    ],
+    "articles": 1246
+  },
+  "20170319_20170321": {
+    "length": 3,
+    "actor_one": [
+      "JEWISH",
+      "CHIEF MINISTER",
+      "CONGRESS",
+      "AFRICA",
+      "VILLAGE"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "MISSISSIPPI",
+      "THE US",
+      "NEW JERSEY",
+      "POLICE"
+    ],
+    "tone": -6.0,
+    "area": 610.0,
+    "keywords": [
+      "community",
+      "indian",
+      "rally",
+      "dees",
+      "incited"
+    ],
+    "articles": 734
+  },
+  "20170418_20170421": {
+    "length": 4,
+    "actor_one": [
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA",
+      "POLICE CHIEF",
+      "DETECTIVE"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "CHRISTIAN",
+      "CONGRESS",
+      "TERRORIST GROUP",
+      "CALIFORNIA"
+    ],
+    "tone": -6.0,
+    "area": 644.0,
+    "keywords": [
+      "shooting",
+      "white",
+      "fresno",
+      "muhammad",
+      "killed"
+    ],
+    "articles": 2147
+  },
+  "20170424_20170429": {
+    "length": 6,
+    "actor_one": [
+      "ISLAMIC",
+      "JEWISH",
+      "CONGRESSMAN",
+      "DEMOCRATIC PARTY",
+      "IDAHO"
+    ],
+    "actor_two": [
+      "SECRETARY OF STATE",
+      "JEWISH",
+      "CONGRESSMAN",
+      "CALIFORNIA",
+      "REFUGEE"
+    ],
+    "tone": -4.0,
+    "area": 778.0,
+    "keywords": [
+      "speech",
+      "community",
+      "white",
+      "incidents",
+      "free"
+    ],
+    "articles": 1068
+  },
+  "20170501_20170505": {
+    "length": 5,
+    "actor_one": [
+      "JEWISH",
+      "SANA",
+      "CHRISTIAN",
+      "VILLAGE",
+      "DETECTIVE"
+    ],
+    "actor_two": [
+      "INDIANA",
+      "THE US",
+      "TERRORIST ORGANIZATION",
+      "MINORITIES",
+      "OBAMA"
+    ],
+    "tone": -6.0,
+    "area": 676.0,
+    "keywords": [
+      "law",
+      "lawmakers",
+      "religious",
+      "treene",
+      "university"
+    ],
+    "articles": 812
+  },
+  "20170514_20170520": {
+    "length": 7,
+    "actor_one": [
+      "CHRISTIAN",
+      "OPERATIVE",
+      "MISSISSIPPI",
+      "KING",
+      "POLICE CHIEF"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "BILL CLINTON",
+      "MISSISSIPPI",
+      "NETFLIX",
+      "TEXAS"
+    ],
+    "tone": -7.0,
+    "area": 577.0,
+    "keywords": [
+      "transgender",
+      "man",
+      "sentenced",
+      "williamson",
+      "federal"
+    ],
+    "articles": 790
+  },
+  "20170521_20170603": {
+    "length": 14,
+    "actor_one": [
+      "ISLAMIC",
+      "NEWS ORGANIZATION",
+      "INDIANA",
+      "CANADA",
+      "CHRISTIAN"
+    ],
+    "actor_two": [
+      "NEW YORK CITY",
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA",
+      "PUBLIC RADIO"
+    ],
+    "tone": -6.0,
+    "area": 824.0,
+    "keywords": [
+      "portland",
+      "university",
+      "collins",
+      "student",
+      "white"
+    ],
+    "articles": 2660
+  },
+  "20170618_20170701": {
+    "length": 14,
+    "actor_one": [
+      "ISLAMIC",
+      "CANADA",
+      "SCHOLAR",
+      "CHRISTIAN",
+      "AFRICA"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "NEW YORK CITY",
+      "UNIONS",
+      "CONGRESS",
+      "BILL CLINTON"
+    ],
+    "tone": -6.0,
+    "area": 1225.0,
+    "keywords": [
+      "man",
+      "mosque",
+      "muslim",
+      "texas",
+      "islamic"
+    ],
+    "articles": 1597
+  },
+  "20170711_20170715": {
+    "length": 5,
+    "actor_one": [
+      "JEWISH",
+      "WEBSITE",
+      "PRINCE",
+      "SPOKESMAN",
+      "POLICE"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "RIGHTS GROUP",
+      "EUROPEAN",
+      "DETECTIVE",
+      "THE ASSOCIATED PRESS"
+    ],
+    "tone": -5.0,
+    "area": 435.0,
+    "keywords": [
+      "muslim",
+      "media",
+      "law",
+      "university",
+      "incident"
+    ],
+    "articles": 1312
+  },
+  "20170725_20170730": {
+    "length": 6,
+    "actor_one": [
+      "FIREFIGHTER",
+      "CALIFORNIA",
+      "FEDERAL JUDGE",
+      "POLITICIAN",
+      "POLICE"
+    ],
+    "actor_two": [
+      "RIGHTS GROUP",
+      "DETROIT",
+      "NORTH DAKOTA",
+      "CALIFORNIA",
+      "ARSONIST"
+    ],
+    "tone": -5.0,
+    "area": 592.0,
+    "keywords": [
+      "bad",
+      "military",
+      "transgender",
+      "community",
+      "decision"
+    ],
+    "articles": 618
+  },
+  "20170802_20170904": {
+    "length": 34,
+    "actor_one": [
+      "ARIZONA",
+      "AFRICA",
+      "KING",
+      "YWCA",
+      "BUSINESS"
+    ],
+    "actor_two": [
+      "RIGHTS GROUP",
+      "CAYMAN ISLAND",
+      "AFRICA",
+      "KING",
+      "BUSINESS"
+    ],
+    "tone": -5.0,
+    "area": 1541.0,
+    "keywords": [
+      "white",
+      "charlottesville",
+      "violence",
+      "rally",
+      "speech"
+    ],
+    "articles": 17702
+  },
+  "20170912_20170916": {
+    "length": 5,
+    "actor_one": [
+      "JEWISH",
+      "CONGRESS",
+      "AFRICA",
+      "FEDERAL COURT",
+      "EUROPE"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "AIR FORCE",
+      "THE US",
+      "BUSINESS",
+      "POLICE"
+    ],
+    "tone": -6.0,
+    "area": 542.0,
+    "keywords": [
+      "white",
+      "resolution",
+      "virginia",
+      "charlottesville",
+      "condemning"
+    ],
+    "articles": 1687
+  },
+  "20170918_20170923": {
+    "length": 6,
+    "actor_one": [
+      "ISLAMIC",
+      "JEWISH",
+      "AFRICA",
+      "FIRST LADY",
+      "TEXAS"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA",
+      "UNITED NATIONS",
+      "CONGRESS"
+    ],
+    "tone": -6.0,
+    "area": 551.0,
+    "keywords": [
+      "speech",
+      "state",
+      "man",
+      "jewish",
+      "white"
+    ],
+    "articles": 350
+  },
+  "20171004_20171006": {
+    "length": 3,
+    "actor_one": [
+      "FARMER",
+      "AFRICA",
+      "INDUSTRY",
+      "BUSINESS",
+      "LAW ENFORCEMENT AGENCIES"
+    ],
+    "actor_two": [
+      "INDUSTRY",
+      "TEXAS",
+      "MANDALAY",
+      "CALIFORNIA",
+      "LAS VEGAS"
+    ],
+    "tone": -4.0,
+    "area": 651.0,
+    "keywords": [
+      "las",
+      "speech",
+      "bakery",
+      "harlem",
+      "jewish"
+    ],
+    "articles": 513
+  },
+  "20171009_20171016": {
+    "length": 8,
+    "actor_one": [
+      "JEWISH",
+      "CHRISTIAN",
+      "CONGRESS",
+      "DOCTOR",
+      "ASSOCIATED PRESS"
+    ],
+    "actor_two": [
+      "VIOLENT GROUP",
+      "CHRISTIAN",
+      "INDUSTRY",
+      "YEMENI",
+      "LAW ENFORCEMENT AGENCIES"
+    ],
+    "tone": -4.0,
+    "area": 790.0,
+    "keywords": [
+      "white",
+      "house",
+      "speech",
+      "transgender",
+      "case"
+    ],
+    "articles": 722
+  },
+  "20171016_20171022": {
+    "length": 7,
+    "actor_one": [
+      "SCHOLAR",
+      "TEXAS",
+      "BUSINESS",
+      "PRINCE",
+      "POLICE"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "CHRISTIAN",
+      "CONGRESS",
+      "AFRICA",
+      "TEXAS"
+    ],
+    "tone": -7.0,
+    "area": 498.0,
+    "keywords": [
+      "university",
+      "man",
+      "white",
+      "urbanski",
+      "maryland"
+    ],
+    "articles": 966
+  },
+  "20171029_20171124": {
+    "length": 26,
+    "actor_one": [
+      "AFRICA",
+      "BUSINESS",
+      "OBAMA",
+      "WEBSITE",
+      "RADIO STATION"
+    ],
+    "actor_two": [
+      "RIGHTS GROUP",
+      "STATE ATTORNEY GENERAL",
+      "AFRICA",
+      "THE ASSOCIATED PRESS",
+      "OBAMA"
+    ],
+    "tone": -5.0,
+    "area": 1021.0,
+    "keywords": [
+      "white",
+      "school",
+      "incidents",
+      "student",
+      "fbi"
+    ],
+    "articles": 3169
+  },
+  "20171130_20171202": {
+    "length": 3,
+    "actor_one": [
+      "PUBLICATION",
+      "MUSLIM",
+      "IMMIGRANT",
+      "MEDIA",
+      "SYDNEY"
+    ],
+    "actor_two": [
+      "REFUGEE",
+      "MUSLIM",
+      "UNITED KINGDOM",
+      "CHRISTIAN",
+      "PRESIDENT"
+    ],
+    "tone": -5.0,
+    "area": 413.0,
+    "keywords": [
+      "cliff",
+      "fall",
+      "fatal",
+      "gay",
+      "johnsons"
+    ],
+    "articles": 410
+  },
+  "20171205_20171217": {
+    "length": 13,
+    "actor_one": [
+      "LEGISLATURE",
+      "SCHOLAR",
+      "AFRICA",
+      "CONGRESS",
+      "BASEL"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "LEGISLATURE",
+      "JEWISH",
+      "CULPRIT",
+      "TEXAS"
+    ],
+    "tone": -6.0,
+    "area": 1421.0,
+    "keywords": [
+      "man",
+      "speech",
+      "15",
+      "florida",
+      "mosque"
+    ],
+    "articles": 665
+  },
+  "20171218_20171221": {
+    "length": 4,
+    "actor_one": [
+      "ISLAMIC",
+      "ANTI DEFAMATION LEAGUE",
+      "POLICE",
+      "MEDIA",
+      "PRESIDENT"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "JEWISH",
+      "KURD",
+      "OBAMA",
+      "CLEVELAND"
+    ],
+    "tone": -6.0,
+    "area": 428.0,
+    "keywords": [
+      "twitter",
+      "accounts",
+      "black",
+      "rules",
+      "twitters"
+    ],
+    "articles": 337
+  },
+  "20171225_20171231": {
+    "length": 7,
+    "actor_one": [
+      "RUSH LIMBAUGH",
+      "CATHOLIC",
+      "POLICE",
+      "RESIDENTS",
+      "UNIVERSITY"
+    ],
+    "actor_two": [
+      "STATE ATTORNEY GENERAL",
+      "ASSOCIATED PRESS",
+      "CHARLOTTE",
+      "RELIGIOUS GROUP",
+      "POLICE"
+    ],
+    "tone": -7.0,
+    "area": 715.0,
+    "keywords": [
+      "called",
+      "left",
+      "memorial",
+      "minneapolis",
+      "officer"
+    ],
+    "articles": 322
+  },
+  "20180101_20180113": {
+    "length": 13,
+    "actor_one": [
+      "INDIANA",
+      "JEWISH",
+      "AFRICA",
+      "KING",
+      "THE US"
+    ],
+    "actor_two": [
+      "DETROIT",
+      "ANCIENT CHURCH OF THE EAST",
+      "LOUISIANA",
+      "KING",
+      "YWCA"
+    ],
+    "tone": -5.0,
+    "area": 1079.0,
+    "keywords": [
+      "law",
+      "media",
+      "man",
+      "2017",
+      "speech"
+    ],
+    "articles": 683
+  },
+  "20180116_20180118": {
+    "length": 3,
+    "actor_one": [
+      "JEWISH",
+      "BRAZIL",
+      "DOCTOR",
+      "OBAMA",
+      "HOUSE SPEAKER"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "SECRETARY OF EDUCATION",
+      "JEWISH",
+      "DISNEY",
+      "CONGRESS"
+    ],
+    "tone": -5.0,
+    "area": 721.0,
+    "keywords": [
+      "say",
+      "house",
+      "press",
+      "white",
+      "bonner"
+    ],
+    "articles": 252
+  },
+  "20180213_20180217": {
+    "length": 5,
+    "actor_one": [
+      "CHINESE",
+      "BUSINESS",
+      "COLUMNIST",
+      "FEDERAL COURT",
+      "POLICE"
+    ],
+    "actor_two": [
+      "KING",
+      "THE ASSOCIATED PRESS",
+      "FEDERAL COURT",
+      "BOSTON",
+      "WORSHIPPER"
+    ],
+    "tone": -4.0,
+    "area": 728.0,
+    "keywords": [
+      "speech",
+      "copyright",
+      "gonna",
+      "haters",
+      "lyrics"
+    ],
+    "articles": 422
+  },
+  "20180219_20180225": {
+    "length": 7,
+    "actor_one": [
+      "RIGHTS GROUP",
+      "AFRICA",
+      "AIR FORCE",
+      "POLICE CHIEF",
+      "WEBSITE"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "SOUTH ASIA",
+      "LONDON",
+      "MURRAY",
+      "KILLERS"
+    ],
+    "tone": -5.0,
+    "area": 466.0,
+    "keywords": [
+      "white",
+      "splc",
+      "media",
+      "family",
+      "jabara"
+    ],
+    "articles": 1919
+  },
+  "20180228_20180303": {
+    "length": 4,
+    "actor_one": [
+      "JEWISH",
+      "CULPRIT",
+      "CHRISTIAN",
+      "CHINA",
+      "EUROPEAN COMMISSION"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "CHRISTIAN",
+      "AIRLINE",
+      "POLITICIAN",
+      "UNIVERSITY"
+    ],
+    "tone": -6.0,
+    "area": 668.0,
+    "keywords": [
+      "man",
+      "media",
+      "white",
+      "border",
+      "curiel"
+    ],
+    "articles": 589
+  },
+  "20180305_20180308": {
+    "length": 4,
+    "actor_one": [
+      "JEWISH",
+      "NAVY",
+      "CONGRESSMAN",
+      "BUSINESS",
+      "WEBSITE"
+    ],
+    "actor_two": [
+      "UTAH",
+      "MICHIGAN",
+      "GERMANY",
+      "OSAMA BIN LADEN",
+      "ANTI DEFAMATION LEAGUE"
+    ],
+    "tone": -6.0,
+    "area": 406.0,
+    "keywords": [
+      "pleads",
+      "purinton",
+      "guilty",
+      "kansas",
+      "murder"
+    ],
+    "articles": 301
+  },
+  "20180311_20180313": {
+    "length": 3,
+    "actor_one": [
+      "INDIANA",
+      "AFRICA",
+      "TEXAS",
+      "KING",
+      "MINORITIES"
+    ],
+    "actor_two": [
+      "CULPRIT",
+      "AFRICA",
+      "CONGRESS",
+      "LOUISIANA",
+      "BUSINESS"
+    ],
+    "tone": -5.0,
+    "area": 580.0,
+    "keywords": [
+      "state",
+      "border",
+      "california",
+      "federal",
+      "heading"
+    ],
+    "articles": 1092
+  },
+  "20180402_20180409": {
+    "length": 8,
+    "actor_one": [
+      "INDIANA",
+      "IMMIGRANT",
+      "NAVY",
+      "CHRISTIAN",
+      "AFRICA"
+    ],
+    "actor_two": [
+      "NEW YORK CITY",
+      "CALIFORNIA",
+      "WEBSITE",
+      "POLICE",
+      "INTELLECTUAL"
+    ],
+    "tone": -6.0,
+    "area": 653.0,
+    "keywords": [
+      "muslim",
+      "san",
+      "youtube",
+      "aghdam",
+      "company"
+    ],
+    "articles": 1647
+  },
+  "20180410_20180412": {
+    "length": 3,
+    "actor_one": [
+      "THE US",
+      "PRINCE",
+      "SENATOR",
+      "SENATE",
+      "JUDICIARY"
+    ],
+    "actor_two": [
+      "ISLAMIC",
+      "TEXAS",
+      "THE US",
+      "POLICE",
+      "SENATOR"
+    ],
+    "tone": -5.0,
+    "area": 626.0,
+    "keywords": [
+      "speech",
+      "man",
+      "girl",
+      "woodbridge",
+      "city"
+    ],
+    "articles": 278
+  },
+  "20180417_20180528": {
+    "length": 42,
+    "actor_one": [
+      "ARIZONA",
+      "OSAMA BIN LADEN",
+      "AFRICA",
+      "KING",
+      "BUSINESS"
+    ],
+    "actor_two": [
+      "AFRICA",
+      "THE ASSOCIATED PRESS",
+      "OBAMA",
+      "ENGINEER",
+      "GENEVA"
+    ],
+    "tone": -6.0,
+    "area": 782.0,
+    "keywords": [
+      "white",
+      "man",
+      "students",
+      "state",
+      "life"
+    ],
+    "articles": 2396
+  },
+  "20180617_20180619": {
+    "length": 3,
+    "actor_one": [
+      "ATHEIST",
+      "PROFESSOR",
+      "SENATOR",
+      "PRESIDENT",
+      "LAWMAKER"
+    ],
+    "actor_two": [
+      "AID GROUP",
+      "MUSLIM",
+      "WORKER",
+      "PROFESSOR",
+      "AZORES"
+    ],
+    "tone": -4.0,
+    "area": 348.0,
+    "keywords": [
+      "border",
+      "families",
+      "immigration",
+      "melania",
+      "policy"
+    ],
+    "articles": 1597
+  },
+  "20180704_20180707": {
+    "length": 4,
+    "actor_one": [
+      "NAVY",
+      "AFRICA",
+      "CONGRESSMAN",
+      "FEDERAL JUDGE",
+      "VLADIMIR"
+    ],
+    "actor_two": [
+      "AFRICA",
+      "INDUSTRY",
+      "WEBSITE",
+      "DISTRICT COURT",
+      "VIRGINIA"
+    ],
+    "tone": -7.0,
+    "area": 428.0,
+    "keywords": [
+      "declaration",
+      "facebook",
+      "independence",
+      "speech",
+      "attack"
+    ],
+    "articles": 619
+  },
+  "20180716_20180721": {
+    "length": 6,
+    "actor_one": [
+      "CULPRIT",
+      "AFRICA",
+      "SEATTLE",
+      "POLICE",
+      "JOURNALIST"
+    ],
+    "actor_two": [
+      "TEXAS",
+      "THE ASSOCIATED PRESS",
+      "MINORITIES",
+      "SEATTLE",
+      "POLICE"
+    ],
+    "tone": -6.0,
+    "area": 564.0,
+    "keywords": [
+      "mosque",
+      "man",
+      "attack",
+      "texas",
+      "perez"
+    ],
+    "articles": 449
+  },
+  "20180812_20180817": {
+    "length": 6,
+    "actor_one": [
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA",
+      "INDUSTRY",
+      "DETECTIVE"
+    ],
+    "actor_two": [
+      "NEW YORK CITY",
+      "DETROIT",
+      "JEWISH",
+      "CHRISTIAN",
+      "DETECTIVE"
+    ],
+    "tone": -6.0,
+    "area": 743.0,
+    "keywords": [
+      "white",
+      "rally",
+      "black",
+      "charlottesville",
+      "washington"
+    ],
+    "articles": 812
+  },
+  "20180904_20180909": {
+    "length": 5,
+    "actor_one": [
+      "JEWISH",
+      "CANADA",
+      "DER SPIEGEL",
+      "CONGRESS",
+      "CHINESE"
+    ],
+    "actor_two": [
+      "ARIZONA",
+      "JEWISH",
+      "CALIFORNIA",
+      "ASSOCIATED PRESS",
+      "NORTH AMERICA"
+    ],
+    "tone": -5.0,
+    "area": 445.0,
+    "keywords": [
+      "black",
+      "man",
+      "murder",
+      "star",
+      "carothers"
+    ],
+    "articles": 763
+  },
+  "20180913_20180917": {
+    "length": 5,
+    "actor_one": [
+      "MUSLIM",
+      "LONDON",
+      "JEWISH",
+      "POLICE",
+      "STATE OFFICIAL"
+    ],
+    "actor_two": [
+      "INDIANA",
+      "JEWISH",
+      "MEDIA",
+      "CHICAGO",
+      "POLICE"
+    ],
+    "tone": -7.0,
+    "area": 494.0,
+    "keywords": [
+      "oklahoma",
+      "convicted",
+      "dies",
+      "jabara",
+      "majors"
+    ],
+    "articles": 212
+  },
+  "20180920_20180923": {
+    "length": 4,
+    "actor_one": [
+      "POLICE",
+      "CHICAGO",
+      "MIAMI",
+      "PRESIDENT",
+      "AUTHORITIES"
+    ],
+    "actor_two": [
+      "MUSLIM",
+      "RESIDENTS",
+      "CULPRIT",
+      "MIAMI",
+      "PRESIDENT"
+    ],
+    "tone": -4.0,
+    "area": 492.0,
+    "keywords": [
+      "alex",
+      "infowars",
+      "jones",
+      "austin",
+      "cair"
+    ],
+    "articles": 754
+  },
+  "20181016_20181018": {
+    "length": 3,
+    "actor_one": [
+      "JEWISH",
+      "AFRICA",
+      "BRAZIL",
+      "TEXAS",
+      "WORSHIPPER"
+    ],
+    "actor_two": [
+      "SECRETARY OF STATE",
+      "AFRICA",
+      "CHINA",
+      "TEXAS",
+      "CALIFORNIA"
+    ],
+    "tone": -6.0,
+    "area": 627.0,
+    "keywords": [
+      "man",
+      "white",
+      "charged",
+      "york",
+      "political"
+    ],
+    "articles": 1442
+  },
+  "20181024_20181105": {
+    "length": 13,
+    "actor_one": [
+      "ARIZONA",
+      "YOGA",
+      "JEWISH",
+      "CHRISTIAN",
+      "AFRICA"
+    ],
+    "actor_two": [
+      "LEGISLATURE",
+      "JEWISH",
+      "GEORGE SOROS",
+      "CHRISTIAN",
+      "AFRICA"
+    ],
+    "tone": -6.0,
+    "area": 1284.0,
+    "keywords": [
+      "synagogue",
+      "jewish",
+      "shooting",
+      "pittsburgh",
+      "man"
+    ],
+    "articles": 8130
+  },
+  "20181111_20181118": {
+    "length": 8,
+    "actor_one": [
+      "ARIZONA",
+      "JEWISH",
+      "CONGRESS",
+      "AFRICA",
+      "INDUSTRY"
+    ],
+    "actor_two": [
+      "RIGHTS GROUP",
+      "INDIANA",
+      "JEWISH",
+      "LEGISLATURE",
+      "AFRICA"
+    ],
+    "tone": -7.0,
+    "area": 593.0,
+    "keywords": [
+      "white",
+      "man",
+      "fbi",
+      "law",
+      "reported"
+    ],
+    "articles": 1660
+  },
+  "20181125_20181202": {
+    "length": 8,
+    "actor_one": [
+      "LEGISLATURE",
+      "JEWISH",
+      "DISNEY",
+      "INDUSTRY",
+      "MISSISSIPPI"
+    ],
+    "actor_two": [
+      "JEWISH",
+      "AL JAZEERA",
+      "CONGRESS",
+      "VILLAGE",
+      "FIRST LADY"
+    ],
+    "tone": -7.0,
+    "area": 662.0,
+    "keywords": [
+      "state",
+      "white",
+      "swastikas",
+      "itthe",
+      "late"
+    ],
+    "articles": 1971
+  },
+  "20181209_20181223": {
+    "length": 14,
+    "actor_one": [
+      "RIGHTS GROUP",
+      "INDIANA",
+      "JEWISH",
+      "AFRICA",
+      "DOCTOR"
+    ],
+    "actor_two": [
+      "INDIANA",
+      "SOUTH KOREA",
+      "JEWISH",
+      "YOGA",
+      "VILLAGE"
+    ],
+    "tone": -6.0,
+    "area": 804.0,
+    "keywords": [
+      "white",
+      "state",
+      "man",
+      "arrested",
+      "attack"
+    ],
+    "articles": 1525
+  }
+}

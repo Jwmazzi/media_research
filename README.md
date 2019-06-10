@@ -14,5 +14,5 @@ database from [Google Drive](https://drive.google.com/drive/folders/1bKCVqyX23mU
  This backup contains 3 years of GDELT events that have been enriched with the following fields: 
  title, site, summary, keywords, and meta_keys. In addition, there will be an ArcGIS Pro package to help illustrate key aspects of the data at our disposal. If you 
 are not interested in accessing the raw data, there is a simple 
-[Esri Web AppBuilder](https://dbsne.maps.arcgis.com/apps/webappviewer/index.html?id=98ace1e429b240d8b99e01196df1b807) application that will be used
+[Esri Web AppBuilder](https://dbsne.maps.arcgis.com/apps/webappviewer/index.html?id=15cc0bbae6144b29b1062d56226cdb4c) application that will be used
 to help understand what we are currently doing with this research. 

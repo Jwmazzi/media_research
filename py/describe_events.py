@@ -72,15 +72,20 @@ def get_event_info(event_data):
 
             three_avg = np.mean([r[1] for r in event_data[l_idx - 3: l_idx]])
 
-            if abs(l_articles - three_avg) >= 3 * three_avg:
+            # if abs(l_articles - three_avg) >= 3 * three_avg:
+            if l_articles >= 3 * three_avg:
+
                 for r_idx, r_row in enumerate(event_data[l_idx + 1:], start=l_idx + 1):
 
                     r_date, r_articles = r_row[0], r_row[1]
 
-                    if r_articles <= (event_data[l_idx - 1][1]):
+                    l_bnd_art = event_data[l_idx - 1][1] if event_data[l_idx - 1][1] > 10 else event_data[l_idx - 1][1] + 10
+
+                    if r_articles <= l_bnd_art:
 
                         start_idx = r_idx
                         bound_key = '{}_{}'.format(event_data[l_idx - 1][0], event_data[r_idx][0])
+                        print(bound_key, l_bnd_art, r_articles)
 
                         event_boundaries.update({bound_key: {'length': r_idx - (l_idx - 2)}})
 
