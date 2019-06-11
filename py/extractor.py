@@ -25,7 +25,7 @@ class Extractor(object):
 
         # Explicitly Set DB Parameters
         self.db_name = self.config['db_name']
-        self.db_user = self.config['db_name']
+        self.db_user = self.config['db_user']
         self.db_pass = self.config['db_pass']
         self.db_host = self.config['db_host']
 
@@ -71,6 +71,11 @@ class Extractor(object):
         return re.sub('[^a-zA-Z0-9 \n]', '', text)
 
     def get_connection(self):
+
+        print(self.db_name)
+        print(self.db_pass)
+        print(self.db_user)
+        print(self.db_host)
 
         return psycopg2.connect(dbname=self.db_name, user=self.db_user, password=self.db_pass, host=self.db_host)
 

@@ -9,8 +9,8 @@ if __name__ == "__main__":
       "db_host": "localhost"
     }
 
-    # Process a Year
-    # This Assume the Table GDELT_2015 Already Exists
-    for m in [i for i in range(1, 13)]:
+    # Build a Year of Enriched GDELT Data
+    # This Assumes the Table GDELT_2015 Already Exists
 
+    for m in [i for i in range(1, 13)]:
         extractor = Extractor(config).run_month(m, 2015)
