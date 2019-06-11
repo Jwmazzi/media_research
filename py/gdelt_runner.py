@@ -13,4 +13,4 @@ if __name__ == "__main__":
     # This Assume the Table GDELT_2015 Already Exists
     for m in [i for i in range(1, 13)]:
 
-        extractor = Extractor(config).run_month(1, 2015)
+        extractor = Extractor(config).run_month(m, 2015)
