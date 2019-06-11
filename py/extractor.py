@@ -72,11 +72,6 @@ class Extractor(object):
 
     def get_connection(self):
 
-        print(self.db_name)
-        print(self.db_pass)
-        print(self.db_user)
-        print(self.db_host)
-
         return psycopg2.connect(dbname=self.db_name, user=self.db_user, password=self.db_pass, host=self.db_host)
 
     def process_article(self, source_url):
