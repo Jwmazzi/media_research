@@ -24,6 +24,7 @@ filters = [
     'crime',
     'groups',
     'group',
+    'hateful',
     'hates',
     'hated',
     'hater',
@@ -85,7 +86,6 @@ def get_event_info(event_data):
 
                         start_idx = r_idx
                         bound_key = '{}_{}'.format(event_data[l_idx - 1][0], event_data[r_idx][0])
-                        print(bound_key, l_bnd_art, r_articles)
 
                         event_boundaries.update({bound_key: {'length': r_idx - (l_idx - 2)}})
 
@@ -112,20 +112,6 @@ def get_event_data(cursor):
 
 
 @open_connection
-def get_extent_area(cursor, event_range):
-
-    the_sql = '''
-              select round(st_area(st_convexhull(st_collect(geom))))
-              from gdelt_{0}
-              where sqldate between '{1}' and '{2}'
-              '''.format(keyword_target, *event_range)
-
-    cursor.execute(the_sql)
-
-    return cursor.fetchall()[0][0]
-
-
-@open_connection
 def get_event_actors(cursor, event_range):
 
     the_sql = '''
@@ -142,15 +128,13 @@ def get_event_actors(cursor, event_range):
     a2 = set()
 
     for result in result_set:
-
-        for r in Counter(result[1]).most_common(10):
-            a1.add(r[0])
-
-        for r in Counter(result[2]).most_common(10):
-            a2.add(r[0])
+        for x, y in zip(result[1], result[2]):
+            a1.add(x)
+            a2.add(y)
 
     a1_c = [c[0] for c in Counter(a1).most_common(5)]
     a2_c = [c[0] for c in Counter(a2).most_common(5)]
+
     return list(a1_c), list(a2_c)
 
 
@@ -176,7 +160,7 @@ def get_event_keys(cursor, event_range):
         for c in [c[0] for c in Counter(keys).most_common(10)]:
             common_keys.append(c)
 
-    return [c[0] for c in Counter(common_keys).most_common(5)]
+    return [c[0].upper() for c in Counter(common_keys).most_common(5)]
 
 
 @open_connection
@@ -229,6 +213,14 @@ if __name__ == "__main__":
 
         er = event_range.split('_')
 
+        # Collect Articles
+        articles = get_event_articles(er)
+        event_info[event_range].update({'articles': articles})
+
+        # Collect Keywords
+        keywords = get_event_keys(er)
+        event_info[event_range].update({'keywords': keywords})
+
         # Collect Actors
         a1_top, a2_top = get_event_actors(er)
         event_info[event_range].update({'actor_one': a1_top, 'actor_two': a2_top})
@@ -236,20 +228,6 @@ if __name__ == "__main__":
         # Collect Tone
         tone = get_event_tone(er)
         event_info[event_range].update({'tone': tone})
-
-        # Collect Area
-        area = get_extent_area(er)
-        event_info[event_range].update({'area': area})
-
-        # TODO - Collect Top News Outlets
-
-        # Collect Keywords
-        keywords = get_event_keys(er)
-        event_info[event_range].update({'keywords': keywords})
-
-        # Collect Articles
-        articles = get_event_articles(er)
-        event_info[event_range].update({'articles': articles})
 
         all_events.update(event_info)
 
