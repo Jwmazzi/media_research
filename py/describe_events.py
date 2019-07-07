@@ -1,38 +1,53 @@
 from collections import Counter
 from itertools import chain
 from functools import wraps
-import numpy as np
 import psycopg2
+import warnings
+import datetime
+import numpy
+import arcpy
 import json
+import time
 import os
 
-keyword_target = 'hate'
+warnings.filterwarnings('ignore')
 
 filters = [
     'united states',
-    'local news',
-    'u.s. news',
     'president',
     'politics',
     'american',
     'america',
+
+    'local news',
+    'u.s. news',
     'report',
+    'media',
+    'news',
+
     'donald',
     'trumps',
     'trump',
+
     'crimes',
     'crime',
+
     'groups',
     'group',
+
     'hateful',
     'hates',
     'hated',
     'hater',
     'hate',
-    'news'
-]
 
-np.seterr('ignore')
+    'told',
+    'attack',
+    'murder',
+    'charged',
+    'york',
+    'incidents'
+]
 
 
 def get_config(in_file):
@@ -71,7 +86,7 @@ def get_event_info(event_data):
         try:
             l_date, l_articles = l_row[0], l_row[1]
 
-            three_avg = np.mean([r[1] for r in event_data[l_idx - 3: l_idx]])
+            three_avg = numpy.mean([r[1] for r in event_data[l_idx - 3: l_idx]])
 
             # if abs(l_articles - three_avg) >= 3 * three_avg:
             if l_articles >= 3 * three_avg:
@@ -102,9 +117,9 @@ def get_event_data(cursor):
 
     the_sql = '''
               select sqldate, sum(numarticles::integer) 
-              from gdelt_{0}
+              from gdelt_hate
               group by sqldate order by sqldate
-              '''.format(keyword_target)
+              '''
 
     cursor.execute(the_sql)
 
@@ -115,50 +130,42 @@ def get_event_data(cursor):
 def get_event_actors(cursor, event_range):
 
     the_sql = '''
-              select sqldate, array_agg(actor1name), array_agg(actor2name), sum(numarticles) as articles 
-              from gdelt_{0}
-              where sqldate between '{1}' and '{2}'
-              group by sqldate order by articles desc
-              '''.format(keyword_target, *event_range)
+              select actor1name, actor2name
+              from gdelt_hate
+              where sqldate between '{}' and '{}'
+              order by numarticles desc
+              limit 5
+              '''.format(*event_range)
 
     cursor.execute(the_sql)
-    result_set = cursor.fetchall()
+    results = [[*r] for r in cursor.fetchall()]
 
-    a1 = set()
-    a2 = set()
+    a1 = [r[0] for r in results]
+    a2 = [r[1] for r in results]
 
-    for result in result_set:
-        for x, y in zip(result[1], result[2]):
-            a1.add(x)
-            a2.add(y)
-
-    a1_c = [c[0] for c in Counter(a1).most_common(5)]
-    a2_c = [c[0] for c in Counter(a2).most_common(5)]
-
-    return list(a1_c), list(a2_c)
+    return a1, a2
 
 
 @open_connection
 def get_event_keys(cursor, event_range):
 
     the_sql = '''
-              select sqldate, array_agg(keywords), array_agg(meta_keys) from gdelt_{0}
-              where sqldate between '{1}' and '{2}'
+              select sqldate, array_agg(keywords) from gdelt_hate
+              where sqldate between '{}' and '{}'
               group by sqldate order by sqldate
-              '''.format(keyword_target, *event_range)
+              '''.format(*event_range)
 
     cursor.execute(the_sql)
 
     common_keys = []
-
     for row in cursor.fetchall():
 
         keys = list(chain(*[k.split(',') for k in row[1] if k]))
         keys = [k.strip().lower() for k in keys if k]
         keys = [k for k in keys if k not in filters]
 
-        for c in [c[0] for c in Counter(keys).most_common(10)]:
-            common_keys.append(c)
+        for key in keys:
+            common_keys.append(key)
 
     return [c[0].upper() for c in Counter(common_keys).most_common(5)]
 
@@ -167,40 +174,63 @@ def get_event_keys(cursor, event_range):
 def get_event_tone(cursor, event_range):
 
     the_sql = '''
-              select round(avg(avgtone::float)) from gdelt_{0}
-              where sqldate between '{1}' and '{2}'
+              select round(avg(avgtone::float)) from gdelt_hate
+              where sqldate between '{}' and '{}'
               group by sqldate order by sqldate
-              '''.format(keyword_target, *event_range)
+              '''.format(*event_range)
 
     cursor.execute(the_sql)
 
-    return round(np.mean([r[0] for r in cursor.fetchall()]))
+    return round(numpy.mean([r[0] for r in cursor.fetchall()]))
+
+
+@open_connection
+def get_division_counts(cursor, event_range):
+
+    the_sql = '''
+              select wc from window_counts
+              where sqldate = '{}'
+              '''.format(event_range)
+
+    cursor.execute(the_sql)
+
+    the_count = cursor.fetchall()[0][0]
+
+    return the_count
 
 
 @open_connection
 def get_event_articles(cursor, event_range):
 
     the_sql = '''
-              select sum(numarticles::integer) from gdelt_{0}
-              where sqldate between '{1}' and '{2}'
-              '''.format(keyword_target, *event_range)
+              select sum(numarticles::integer) from gdelt_hate
+              where sqldate between '{}' and '{}'
+              '''.format(*event_range)
 
     cursor.execute(the_sql)
 
     return cursor.fetchall()[0][0]
 
 
-if __name__ == "__main__":
+@open_connection
+def get_date_info(cursor, event_range):
 
-    # Get Project Directory
-    this_dir = os.path.split(os.path.realpath(__file__))[0]
+    the_sql = '''
+              select sqldate, sum(numarticles)
+              from gdelt_hate
+              where sqldate between '{}' and '{}'
+              group by sqldate order by sqldate
+              '''.format(*event_range)
 
-    # Collect Config Parameters
-    params  = get_config(os.path.join(this_dir, 'config.json'))
-    db_name = params['db_name']
-    db_user = params['db_user']
-    db_pass = params['db_pass']
-    db_host = params['db_host']
+    cursor.execute(the_sql)
+    records = cursor.fetchall()
+
+    return [r for r in records]
+
+
+def build_window_info():
+
+    print('Processing Window Information')
 
     all_events = {}
 
@@ -208,8 +238,6 @@ if __name__ == "__main__":
     event_info = get_event_info(event_data)
 
     for event_range in event_info.keys():
-
-        print('Running: {}'.format(event_range))
 
         er = event_range.split('_')
 
@@ -225,11 +253,153 @@ if __name__ == "__main__":
         a1_top, a2_top = get_event_actors(er)
         event_info[event_range].update({'actor_one': a1_top, 'actor_two': a2_top})
 
+        # Collect Division Counts
+        division_count = get_division_counts(event_range)
+        event_info[event_range].update({'div_cnt': division_count})
+
         # Collect Tone
         tone = get_event_tone(er)
         event_info[event_range].update({'tone': tone})
 
         all_events.update(event_info)
 
-    with open('../planning/gdelt_{0}.json'.format(keyword_target), 'w') as the_file:
-        json.dump(all_events, the_file, indent=2)
+    return all_events
+
+
+def process_window(er, attributes, hate_fc, windows):
+
+    try:
+        fl = arcpy.MakeFeatureLayer_management(
+            hate_fc,
+            os.path.join(arcpy.env.scratchGDB, 'WINDOW_{}_{}'.format(*er)),
+            where_clause="sqldate between '{}' and '{}'".format(*er)
+        )
+
+        dd = arcpy.DirectionalDistribution_stats(
+            fl,
+            os.path.join(windows, 'WINDOW_{}_{}'.format(*er)),
+            '1_STANDARD_DEVIATION',
+            'numarticles'
+        )
+
+        # Create Additional Fields for Attribute Insertion
+        arcpy.AddField_management(dd, 'START_DATE', 'DATE')
+        arcpy.AddField_management(dd, 'END_DATE',   'DATE')
+        arcpy.AddField_management(dd, 'ARTICLES',   'LONG')
+        for idx, key in enumerate(attributes['keywords'], start=1):
+            arcpy.AddField_management(dd, 'KEY_{}'.format(idx), 'TEXT')
+
+        # Set Field to be Handled by Update Cursor
+        key_fields = ['KEY_{}'.format(k) for k in [a for a in range(1, 6)]]
+        all_fields = ['START_DATE', 'END_DATE', 'ARTICLES'] + key_fields
+
+        start_date = datetime.datetime.strptime(er[0], '%Y%m%d')
+        end_date   = datetime.datetime.strptime(er[1], '%Y%m%d')
+        articles   = attributes['articles']
+        key_values = [k for k in attributes['actor_one']]
+
+        with arcpy.da.UpdateCursor(dd, all_fields) as cursor:
+            for _ in cursor:
+                cursor.updateRow([start_date, end_date, articles] + key_values)
+
+    except arcpy.ExecuteError:
+        pass
+
+
+def process_dates(er, date_info, hate_fc, windows):
+
+    date_fcs = []
+
+    for date, articles in date_info:
+
+        try:
+            fl = arcpy.MakeFeatureLayer_management(
+                hate_fc,
+                os.path.join(arcpy.env.scratchGDB, 'GDELT_{}'.format(date)),
+                where_clause="sqldate = '{}'".format(date)
+            )
+            fl_count = arcpy.GetCount_management(fl)[0]
+
+            # Ignore Dates That Return Less Than 3 GDELT Records
+            if int(fl_count) < 3:
+                continue
+
+            dd = arcpy.DirectionalDistribution_stats(
+                fl,
+                os.path.join(windows, 'D_{0}_{1}_{2}'.format(*er, date)),
+                '1_STANDARD_DEVIATION',
+                'numarticles'
+            )
+
+            arcpy.AddField_management(dd, 'EVENT_DATE', 'DATE')
+            arcpy.AddField_management(dd, 'ARTICLES', 'LONG')
+
+            with arcpy.da.UpdateCursor(dd, ['EVENT_DATE', 'ARTICLES']) as cursor:
+                for _ in cursor:
+                    cursor.updateRow([
+                        datetime.datetime.strptime(date, '%Y%m%d'),
+                        articles
+                    ])
+
+            date_fcs.append(dd)
+
+        except arcpy.ExecuteError:
+            pass
+
+    print('{} - {}: {} of {} Processed'.format(*er, len(date_fcs), len(date_info)))
+
+    arcpy.Merge_management(
+        date_fcs,
+        os.path.join(windows, 'GDELT_{0}_{1}_Windows'.format(*er))
+    )
+
+    for fc in date_fcs:
+        arcpy.Delete_management(fc)
+
+
+def build_window_geom(events, hate_fc, windows):
+
+    arcpy.env.overwriteOutput = True
+
+    print('Processing Window Geometries')
+
+    for event_range, attributes in events.items():
+
+        er = event_range.split('_')
+
+        date_info = get_date_info(er)
+
+        process_window(er, attributes, hate_fc, windows)
+
+        process_dates(er, date_info, hate_fc, windows)
+
+
+if __name__ == "__main__":
+
+    # Get the Start Time
+    start_time = time.time()
+
+    # Get Project Directory
+    this_dir = os.path.split(os.path.realpath(__file__))[0]
+
+    # Collect Config Parameters
+    params  = get_config(os.path.join(this_dir, 'config.json'))
+    db_name = params['db_name']
+    db_user = params['db_user']
+    db_pass = params['db_pass']
+    db_host = params['db_host']
+    hate_fc = params['hate_fc']
+    windows = params['windows']
+
+    # Build Dictionary with General Window Information
+    events = build_window_info()
+
+    # Build Geometries Attributes for Windows
+    build_window_geom(events, hate_fc, windows)
+
+    # Dump Event Dictionary to Local JSON
+    with open('../planning/gdelt_hate.json', 'w') as the_file:
+        json.dump(events, the_file, indent=2)
+
+    # Check Run Length
+    print('Process Ran: {0} Minutes'.format(round(((time.time() - start_time) / 60), 2)))

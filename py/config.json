@@ -2,5 +2,7 @@
   "db_name": "gdelt_updates",
   "db_user": "postgres",
   "db_pass": "postgres",
-  "db_host": "localhost"
+  "db_host": "localhost",
+  "hate_fc": "C:\\Users\\jeff8977\\Desktop\\GDELT Research\\GDELT.gdb\\GDELT_Hate",
+  "windows": "C:\\Users\\jeff8977\\Desktop\\GDELT Research\\Windows.gdb"
 }
