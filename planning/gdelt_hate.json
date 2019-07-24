@@ -1,115 +1,6 @@
 {
-  "20150209_20150214": {
-    "length": 4,
-    "articles": 54,
-    "keywords": [
-      "MUSLIM",
-      "ISLAMIC",
-      "VOICE",
-      "SAY",
-      "STUDENTS"
-    ],
-    "actor_one": [
-      "POLICE",
-      "TEXAS",
-      "BELIEVER",
-      "SYRIAN",
-      "MUSLIM"
-    ],
-    "actor_two": [
-      "ISLAMIC",
-      "NEIGHBORHOOD",
-      "MEMPHIS",
-      "AMERICAN",
-      "UNITED STATES"
-    ],
-    "div_cnt": 3,
-    "tone": -5.0
-  },
-  "20150216_20150222": {
-    "length": 6,
-    "articles": 275,
-    "keywords": [
-      "MUSLIM",
-      "MAN",
-      "STABBED",
-      "RELIGIOUS",
-      "STATE"
-    ],
-    "actor_one": [
-      "BELIEVER",
-      "BELIEVER",
-      "WISCONSIN",
-      "PRESIDENT",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "REFUGEE",
-      "REFUGEE",
-      "POLICE",
-      "MUSLIM",
-      "CRIMINAL"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
-  },
-  "20150224_20150228": {
-    "length": 5,
-    "articles": 227,
-    "keywords": [
-      "MUSLIM",
-      "STATE",
-      "MARTIN",
-      "TRAYVON",
-      "ZIMMERMAN"
-    ],
-    "actor_one": [
-      "THE US",
-      "NEIGHBORHOOD",
-      "ATHENS",
-      "NEIGHBOURHOOD",
-      "NEW YORK"
-    ],
-    "actor_two": [
-      "CIVILIAN",
-      "UNITED STATES",
-      "UNITED STATES",
-      "SCHOOL",
-      "EMPLOYEE"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
-  },
-  "20150308_20150311": {
-    "length": 4,
-    "articles": 241,
-    "keywords": [
-      "STATE",
-      "MUSLIM",
-      "TEXAS",
-      "BILL",
-      "OBAMA"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "IRAQI",
-      "COLUMNIST",
-      "HINDU",
-      "JEWISH"
-    ],
-    "actor_two": [
-      "STUDENT",
-      "TEXAS",
-      "ISRAEL",
-      "WASHINGTON",
-      "COMMUNITY"
-    ],
-    "div_cnt": 6,
-    "tone": -4.0
-  },
   "20150314_20150411": {
     "length": 27,
-    "articles": 1607,
     "keywords": [
       "LAW",
       "INDIANA",
@@ -117,215 +8,44 @@
       "RELIGIOUS",
       "FREEDOM"
     ],
-    "actor_one": [
-      "STUDENT",
-      "SIKH",
-      "UNITED STATES",
-      "SAN FRANCISCO",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "HINDU",
-      "SCHOOL",
-      "SAN FRANCISCO",
-      "MISSISSIPPI"
-    ],
-    "div_cnt": 8,
-    "tone": -4.0
+    "articles": 1607,
+    "descent": 16,
+    "tone": -4.0,
+    "movement": 282
   },
   "20150413_20150420": {
     "length": 6,
-    "articles": 652,
     "keywords": [
       "COLLEGE",
       "SHOOTING",
       "STANCIL",
       "POSSIBLE",
-      "COMMUNITY"
-    ],
-    "actor_one": [
-      "POLICE",
       "COMMUNITY",
-      "POLICE",
-      "EMPLOYEE",
-      "GOVERNMENT"
+      "LANE"
     ],
-    "actor_two": [
-      "UNITED STATES",
-      "TERRORIST",
-      "COMMUNITY",
-      "NORTH CAROLINA",
-      "CALIFORNIA"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
-  },
-  "20150426_20150430": {
-    "length": 5,
-    "articles": 121,
-    "keywords": [
-      "UNIVERSITY",
-      "CAMPUS",
-      "STATEMENT",
-      "COMMUNITY",
-      "POSTED"
-    ],
-    "actor_one": [
-      "COMMUNITY",
-      "COMMUNITY",
-      "CONGRESS",
-      "GANG",
-      "COMMUNITY"
-    ],
-    "actor_two": [
-      "STUDENT",
-      "UNIVERSITY",
-      "MUSLIM",
-      "REBEL",
-      "UNIVERSITY"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 652,
+    "descent": 5,
+    "tone": -6.0,
+    "movement": 49
   },
   "20150503_20150510": {
     "length": 8,
-    "articles": 267,
     "keywords": [
       "SPEECH",
       "TEXAS",
       "GELLER",
       "MUSLIM",
-      "RIGHT"
-    ],
-    "actor_one": [
-      "COMPANIES",
-      "TEXAS",
-      "GOVERNMENT",
-      "BLOG",
-      "UNIVERSITY"
-    ],
-    "actor_two": [
-      "AMERICAN",
-      "ISLAM",
-      "POLICE",
-      "TEXAS",
-      "TEXAS"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20150511_20150516": {
-    "length": 6,
-    "articles": 176,
-    "keywords": [
-      "CITY",
       "RIGHT",
-      "COMMENTS",
-      "WRITING",
-      "WHITE"
+      "EVENT",
+      "FREE"
     ],
-    "actor_one": [
-      "POLICE",
-      "CHRISTIAN",
-      "POLICE",
-      "ASSAILANT",
-      "PERVERT"
-    ],
-    "actor_two": [
-      "IDAHO",
-      "GOVERNMENT",
-      "MINORITIES",
-      "PENNSYLVANIA",
-      "AMERICAN"
-    ],
-    "div_cnt": 8,
-    "tone": -4.0
-  },
-  "20150526_20150528": {
-    "length": 3,
-    "articles": 65,
-    "keywords": [
-      "RUBIO",
-      "SPEECH",
-      "DANGER",
-      "PRESENT",
-      "REAL"
-    ],
-    "actor_one": [
-      "CHRISTIAN",
-      "COMMANDER",
-      "CHRISTIAN",
-      "CHRISTIAN",
-      "HASSAN"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "PRESIDENT",
-      "FLORIDA",
-      "PRESIDENTIAL CANDIDATE",
-      "MUSLIM"
-    ],
-    "div_cnt": 6,
-    "tone": -2.0
-  },
-  "20150603_20150609": {
-    "length": 6,
-    "articles": 304,
-    "keywords": [
-      "MAN",
-      "SPEECH",
-      "SUBWAY",
-      "TRANSGENDER",
-      "WOMEN"
-    ],
-    "actor_one": [
-      "REUTERS",
-      "BOSTON",
-      "AMERICAN",
-      "ACTIVIST",
-      "BANK"
-    ],
-    "actor_two": [
-      "NEW YORK CITY",
-      "MUSLIM",
-      "KANDAHAR",
-      "WASHINGTON",
-      "ISLAMIC"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
-  },
-  "20150611_20150615": {
-    "length": 5,
-    "articles": 390,
-    "keywords": [
-      "WHITE",
-      "BLACK",
-      "DOLEZAL",
-      "STRATEGY",
-      "OBAMA"
-    ],
-    "actor_one": [
-      "RABBI",
-      "BUSINESS",
-      "AFRICA",
-      "RABBI",
-      "INSPECTOR GENERAL"
-    ],
-    "actor_two": [
-      "JEWISH",
-      "HILLARY CLINTON",
-      "MINORITIES",
-      "JEWISH",
-      "OSAMA BIN LADEN"
-    ],
-    "div_cnt": 5,
-    "tone": -4.0
+    "articles": 267,
+    "descent": 6,
+    "tone": -5.0,
+    "movement": 127
   },
   "20150617_20150627": {
     "length": 11,
-    "articles": 15581,
     "keywords": [
       "CHURCH",
       "CHARLESTON",
@@ -333,26 +53,13 @@
       "SOUTH",
       "WHITE"
     ],
-    "actor_one": [
-      "POLICE",
-      "POLICE",
-      "MAYOR",
-      "POLICE OFFICER",
-      "POLICE"
-    ],
-    "actor_two": [
-      "MALE",
-      "SOUTH CAROLINA",
-      "POLICE",
-      "AFRICA",
-      "TELEVISION"
-    ],
-    "div_cnt": 2,
-    "tone": -6.0
+    "articles": 15581,
+    "descent": 9,
+    "tone": -6.0,
+    "movement": 55
   },
   "20150630_20150703": {
     "length": 4,
-    "articles": 849,
     "keywords": [
       "CHURCH",
       "BLACK",
@@ -360,701 +67,266 @@
       "CHURCHES",
       "SOUTH"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "UNITED STATES",
-      "MUSLIM",
-      "AUTHORITIES",
-      "AMERICAN"
-    ],
-    "actor_two": [
-      "JEWISH",
-      "THE ASSOCIATED PRESS",
-      "SIKH",
-      "UNITED STATES",
-      "AFRICA"
-    ],
-    "div_cnt": 3,
-    "tone": -6.0
-  },
-  "20150713_20150715": {
-    "length": 3,
-    "articles": 1155,
-    "keywords": [
-      "WHITE",
-      "REAL",
-      "REPUBLICAN",
-      "CHARLESTON",
-      "OBAMA"
-    ],
-    "actor_one": [
-      "SOUTH CAROLINA",
-      "VIRGINIA",
-      "SUPREME COURT",
-      "ANTI DEFAMATION LEAGUE",
-      "PRESIDENT"
-    ],
-    "actor_two": [
-      "POLICE OFFICIALS",
-      "LAW ENFORCEMENT AUTHORITIES",
-      "UNITED STATES",
-      "UNITED STATES",
-      "KANSAS CITY"
-    ],
-    "div_cnt": 2,
-    "tone": -5.0
-  },
-  "20150718_20150720": {
-    "length": 3,
-    "articles": 292,
-    "keywords": [
-      "FLAG",
-      "WHITE",
-      "BLACK",
-      "CONFEDERATE",
-      "OBAMA"
-    ],
-    "actor_one": [
-      "AMERICAN",
-      "BARACK OBAMA",
-      "POLICE",
-      "REBEL SOLDIER",
-      "SUPREME COURT"
-    ],
-    "actor_two": [
-      "AFRICA",
-      "REBEL",
-      "HOSPITAL",
-      "AMERICAN",
-      "MUSLIM"
-    ],
-    "div_cnt": 2,
-    "tone": -7.0
+    "articles": 849,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 25
   },
   "20150728_20150811": {
     "length": 14,
-    "articles": 737,
     "keywords": [
       "CHURCH",
       "FEDERAL",
       "STATE",
       "WHITE",
-      "GUILTY"
+      "GUILTY",
+      "CONFEDERATE",
+      "CHARLESTON",
+      "ROOF",
+      "FLAG",
+      "SOUTH",
+      "COURT",
+      "MAN"
     ],
-    "actor_one": [
-      "AFRICA",
-      "THE US",
-      "AFRICA",
-      "ASSOCIATED PRESS",
-      "SEATTLE"
-    ],
-    "actor_two": [
-      "SOUTH CAROLINA",
-      "MUSLIM",
-      "SOUTH CAROLINA",
-      "FEDERAL COURT",
-      "SEATTLE"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 737,
+    "descent": 10,
+    "tone": -5.0,
+    "movement": 119
   },
   "20150817_20150829": {
     "length": 13,
-    "articles": 422,
     "keywords": [
       "MUSLIM",
       "MAN",
       "WHITE",
       "FBI",
-      "COMMUNITY"
+      "COMMUNITY",
+      "WOMEN",
+      "RIGHT",
+      "STATE",
+      "QUENTIN",
+      "TARANTINO",
+      "COUNTRY"
     ],
-    "actor_one": [
-      "FEDERAL COURT",
-      "PRESIDENT",
-      "FIGHTER",
-      "SCIENTIST",
-      "SCHOOL"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "DALLAS",
-      "KANSAS CITY",
-      "WSPA",
-      "UNITED STATES"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 422,
+    "descent": 1,
+    "tone": -5.0,
+    "movement": 67
   },
   "20150902_20150904": {
     "length": 3,
-    "articles": 445,
     "keywords": [
       "BLACK",
       "LIVES",
       "MATTER",
       "MAN",
-      "WHITE"
-    ],
-    "actor_one": [
-      "MUSLIM",
-      "MUSLIM",
-      "TARA",
-      "NEW YORK",
-      "POLICE"
-    ],
-    "actor_two": [
+      "WHITE",
+      "INSULTS",
+      "THATS",
+      "CITY",
+      "RACIAL",
+      "CHURCH",
+      "STATE",
       "ALABAMA",
-      "ALABAMA",
-      "STUDENT",
-      "MAGAZINE",
-      "PABLO MARTINEZ"
+      "COUNTY",
+      "MEN"
     ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 445,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 9
   },
   "20150909_20150913": {
     "length": 5,
-    "articles": 555,
     "keywords": [
       "SIKH",
       "MUKKER",
       "COUNTRY",
       "SIKHAMERICAN",
-      "CAR"
+      "CAR",
+      "LADEN",
+      "SINGH"
     ],
-    "actor_one": [
-      "ASSAILANT",
-      "ASSAILANT",
-      "CHICAGO",
-      "POLICE CHIEF",
-      "SIKH"
-    ],
-    "actor_two": [
-      "CHICAGO",
-      "CHICAGO",
-      "ASSAILANT",
-      "SIKH",
-      "AMERICAN"
-    ],
-    "div_cnt": 5,
-    "tone": -8.0
+    "articles": 555,
+    "descent": 3,
+    "tone": -8.0,
+    "movement": 24
   },
   "20150915_20150917": {
     "length": 3,
-    "articles": 494,
     "keywords": [
       "SIKH",
       "MAN",
       "SINGH",
       "ELDERLY",
-      "GARCIA"
-    ],
-    "actor_one": [
-      "WASHINGTON",
-      "SIKH",
-      "NEWSPAPER",
-      "CHICAGO",
-      "AMERICAN"
-    ],
-    "actor_two": [
-      "SIKH",
-      "TERRORIST",
-      "UNITED STATES",
-      "SIKH",
-      "PRISON"
-    ],
-    "div_cnt": 8,
-    "tone": -7.0
-  },
-  "20150922_20150924": {
-    "length": 3,
-    "articles": 283,
-    "keywords": [
-      "MAN",
-      "CODE",
-      "RIGHTS",
-      "STUDENTS",
-      "GOP"
-    ],
-    "actor_one": [
-      "UNIVERSITY",
-      "LEGISLATOR",
-      "NORTH AMERICA",
-      "GANG",
-      "CALIFORNIA"
-    ],
-    "actor_two": [
-      "POLICE",
-      "UNIVERSITY",
-      "PRODUCER",
-      "NEW YORK",
-      "DOCTOR"
-    ],
-    "div_cnt": 7,
-    "tone": -4.0
-  },
-  "20151002_20151009": {
-    "length": 8,
-    "articles": 472,
-    "keywords": [
-      "LAW",
-      "OREGON",
-      "SIGN",
-      "AREA",
-      "CODE"
-    ],
-    "actor_one": [
-      "GUNMAN",
-      "POLICE",
-      "BARACK OBAMA",
-      "STUDENT",
-      "POLICE"
-    ],
-    "actor_two": [
-      "SCHOOL",
-      "POLICE",
-      "PUBLICATION",
-      "CALIFORNIA",
-      "HONDA"
-    ],
-    "div_cnt": 9,
-    "tone": -7.0
-  },
-  "20151009_20151022": {
-    "length": 13,
-    "articles": 712,
-    "keywords": [
-      "LAW",
-      "MUSLIM",
-      "AREA",
-      "CODE",
-      "DELIVERABLE"
-    ],
-    "actor_one": [
-      "POLICE",
-      "ATTORNEY",
-      "CHRISTIANITY",
+      "GARCIA",
       "COMMUNITY",
-      "UNITED STATES"
+      "GOING",
+      "YOURE"
     ],
-    "actor_two": [
-      "VERMONT",
-      "TEXAS",
-      "TEXAS",
-      "STUDENT",
-      "WIRE SERVICE"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 494,
+    "descent": 1,
+    "tone": -7.0,
+    "movement": 24
   },
   "20151101_20151108": {
     "length": 8,
-    "articles": 823,
     "keywords": [
       "TARANTINO",
       "TARANTINOS",
       "QUENTIN",
       "IM",
-      "WEINSTEIN"
+      "WEINSTEIN",
+      "FILM"
     ],
-    "actor_one": [
-      "POLICE",
-      "POLICE",
-      "JOURNALIST",
-      "PROSECUTOR",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "NEW YORK",
-      "NEW YORK",
-      "WASHINGTON",
-      "MINNESOTA",
-      "LAW ENFORCEMENT AUTHORITIES"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 823,
+    "descent": 6,
+    "tone": -6.0,
+    "movement": 57
   },
   "20151109_20151226": {
     "length": 46,
-    "articles": 5431,
     "keywords": [
       "MUSLIM",
       "STATE",
       "SPEECH",
       "ISLAMIC",
-      "ATTACKS"
+      "ATTACKS",
+      "SAN"
     ],
-    "actor_one": [
-      "WASHINGTON",
-      "POLICE",
-      "EUROPE",
-      "ARMED MEN",
-      "ISLAMIC"
-    ],
-    "actor_two": [
-      "ISLAMIC",
-      "STUDENT",
-      "CATHOLIC",
-      "ISLAMIC",
-      "AMERICAN"
-    ],
-    "div_cnt": 9,
-    "tone": -6.0
+    "articles": 5431,
+    "descent": 17,
+    "tone": -6.0,
+    "movement": 482
   },
   "20151227_20160116": {
     "length": 21,
-    "articles": 1276,
     "keywords": [
       "MUSLIM",
       "SIKH",
       "MAN",
       "MOSQUE",
-      "FRESNO"
+      "FRESNO",
+      "SINGH",
+      "CALIFORNIA",
+      "SPEECH"
     ],
-    "actor_one": [
-      "PRESIDENT",
-      "PRESIDENT",
-      "SIKH",
-      "POLICE",
-      "NEW YORK"
-    ],
-    "actor_two": [
-      "MUSLIM",
-      "MUSLIM",
-      "POLICE",
-      "CRIMINAL",
-      "CIVILIAN"
-    ],
-    "div_cnt": 9,
-    "tone": -5.0
+    "articles": 1276,
+    "descent": 19,
+    "tone": -5.0,
+    "movement": 315
   },
   "20160127_20160131": {
     "length": 5,
-    "articles": 387,
     "keywords": [
       "SEXUAL",
       "VICTIMS",
       "LAW",
       "GAY",
-      "STATE"
+      "STATE",
+      "WAY",
+      "PROPOSAL",
+      "PROTECT",
+      "UTAH",
+      "WILLIAMS",
+      "CLINTON",
+      "CRUZ",
+      "SANDERS",
+      "TED"
     ],
-    "actor_one": [
-      "PRESIDENT",
-      "STUDENT",
-      "SECRETARY OF STATE",
-      "COMPANY",
-      "NORTH CAROLINA"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "NEIGHBORHOOD",
-      "SERVER",
-      "HILLARY CLINTON",
-      "POPULATION"
-    ],
-    "div_cnt": 7,
-    "tone": -4.0
+    "articles": 387,
+    "descent": 3,
+    "tone": -4.0,
+    "movement": 27
   },
   "20160202_20160209": {
     "length": 8,
-    "articles": 619,
     "keywords": [
       "MUSLIM",
       "OBAMA",
       "STATE",
       "MOSQUE",
-      "CRUZ"
+      "CRUZ",
+      "MARTIN",
+      "TERRORISM",
+      "TWITTER",
+      "ISLAMIC"
     ],
-    "actor_one": [
-      "WASHINGTON",
-      "MUSLIM",
-      "WASHINGTON",
-      "POLICE",
-      "COMPANY"
-    ],
-    "actor_two": [
-      "EXTREMIST",
-      "OBAMA",
-      "REUTERS",
-      "POLICE",
-      "MAGAZINE"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 619,
+    "descent": 3,
+    "tone": -5.0,
+    "movement": 76
   },
   "20160217_20160220": {
     "length": 4,
-    "articles": 286,
     "keywords": [
       "LAW",
       "WHITE",
       "MUSLIM",
       "CENTER",
-      "POVERTY"
+      "POVERTY",
+      "SOUTHERN",
+      "CHURCH",
+      "BILL",
+      "RISE",
+      "RIGHTS"
     ],
-    "actor_one": [
-      "ATLANTA",
-      "EXTREMIST",
-      "SENATE",
-      "INTELLIGENCE COMMUNITY",
-      "SENATOR"
-    ],
-    "actor_two": [
-      "REUTERS",
-      "CALIF",
-      "SUPREME COURT",
-      "MUSLIM",
-      "UTAH"
-    ],
-    "div_cnt": 6,
-    "tone": -5.0
-  },
-  "20160222_20160225": {
-    "length": 4,
-    "articles": 828,
-    "keywords": [
-      "STUDENTS",
-      "MAN",
-      "WHITE",
-      "BLACK",
-      "SCHOOL"
-    ],
-    "actor_one": [
-      "MINORITIES",
-      "MINORITIES",
-      "POLICE",
-      "DEFENSE ATTORNEY",
-      "A US"
-    ],
-    "actor_two": [
-      "ISLAMIC",
-      "ISLAMIC",
-      "MUSLIM",
-      "UNITED STATES",
-      "CANADIAN"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20160303_20160305": {
-    "length": 3,
-    "articles": 284,
-    "keywords": [
-      "WOMEN",
-      "PRESIDENTIAL",
-      "REPUBLICAN",
-      "ALBANY",
-      "STUDENTS"
-    ],
-    "actor_one": [
-      "HILLARY CLINTON",
-      "MUSLIM",
-      "HILLARY CLINTON",
-      "SENATE",
-      "WASHINGTON"
-    ],
-    "actor_two": [
-      "TYCOON",
-      "KU KLUX KLAN",
-      "TYCOON",
-      "MORMON",
-      "HILLARY CLINTON"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 286,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 37
   },
   "20160307_20160312": {
     "length": 6,
-    "articles": 1083,
     "keywords": [
       "ISLAM",
       "STATE",
       "REPUBLICAN",
       "MUSLIM",
-      "STATES"
+      "STATES",
+      "UNITED"
     ],
-    "actor_one": [
-      "JEWISH",
-      "SIMON WIESENTHAL CENTER",
-      "REUTERS",
-      "ATTORNEY",
-      "PARIS"
-    ],
-    "actor_two": [
-      "HUMAN RIGHTS ORGANIZATION",
-      "ISLAMIC",
-      "ISLAMIC",
-      "UNITED STATES",
-      "GOVERNMENT"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20160401_20160403": {
-    "length": 3,
-    "articles": 443,
-    "keywords": [
-      "STATION",
-      "TROOPER",
-      "VIRGINIA",
-      "WOMEN",
-      "ANGELES"
-    ],
-    "actor_one": [
-      "CHAD",
-      "PROSECUTOR",
-      "GUNMAN",
-      "IMMIGRANT",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "ILLINOIS",
-      "UNITED STATES",
-      "POLICE",
-      "NATURALIZED",
-      "UNITED STATES"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
-  },
-  "20160418_20160420": {
-    "length": 3,
-    "articles": 259,
-    "keywords": [
-      "CRUZ",
-      "TED",
-      "CHURCH",
-      "SENT",
-      "WOMEN"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "CHARLOTTE",
-      "CONGRESSMAN",
-      "DEPARTMENT OF EDUCATION",
-      "KING"
-    ],
-    "actor_two": [
-      "HILLARY CLINTON",
-      "CHARLOTTE",
-      "TEXAS",
-      "SCHOOL",
-      "OHIO"
-    ],
-    "div_cnt": 7,
-    "tone": -3.0
-  },
-  "20160424_20160501": {
-    "length": 8,
-    "articles": 428,
-    "keywords": [
-      "STATE",
-      "WOMEN",
-      "BILL",
-      "MUSLIM",
-      "FIREFIGHTERS"
-    ],
-    "actor_one": [
-      "PRISON",
-      "PIRATE",
-      "MILITANT",
-      "POLICE OFFICER",
-      "STUDENT"
-    ],
-    "actor_two": [
-      "LOUISIANA",
-      "ACTOR",
-      "SOUTH EAST ASIA",
-      "SIKH",
-      "UNITED STATES"
-    ],
-    "div_cnt": 8,
-    "tone": -4.0
+    "articles": 1083,
+    "descent": 4,
+    "tone": -5.0,
+    "movement": 25
   },
   "20160503_20160508": {
     "length": 6,
-    "articles": 389,
     "keywords": [
       "IOWA",
       "STUDENTS",
       "UNIVERSITY",
       "STUDENT",
-      "BLACK"
-    ],
-    "actor_one": [
-      "AMISH",
-      "WEBSITE",
-      "POLICE",
-      "POLICE",
-      "HILLARY CLINTON"
-    ],
-    "actor_two": [
-      "OHIO",
-      "MUSLIM",
-      "STUDENT",
-      "IOWA",
-      "IMMIGRANT"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
-  },
-  "20160510_20160513": {
-    "length": 4,
-    "articles": 831,
-    "keywords": [
-      "SCHOOL",
+      "BLACK",
       "WHITE",
-      "NATIONAL",
-      "REPUBLICAN",
-      "MUSLIM"
+      "LAW",
+      "MUSLIM",
+      "ASSAULT",
+      "OWENS"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "POLICE",
-      "POLICE",
-      "AFRICA",
-      "SENATE"
-    ],
-    "actor_two": [
-      "RELIGION",
-      "SENATE",
-      "NEW YORK",
-      "AMERICAN",
-      "POLICE"
-    ],
-    "div_cnt": 3,
-    "tone": -4.0
+    "articles": 389,
+    "descent": 3,
+    "tone": -6.0,
+    "movement": 39
   },
   "20160516_20160519": {
     "length": 4,
-    "articles": 417,
     "keywords": [
       "IOWA",
       "OWENS",
       "CITY",
       "UNIVERSITY",
-      "STUDENT"
+      "STUDENT",
+      "RIGHTS"
     ],
-    "actor_one": [
-      "LAWYER",
-      "UNITED STATES",
-      "IOWA",
-      "PRISON",
-      "POLICE"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "PRIVATE CITIZEN",
-      "POLICE",
-      "VIRGINIA",
-      "IOWA"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 417,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 33
   },
   "20160523_20160529": {
     "length": 7,
-    "articles": 3984,
     "keywords": [
       "LAW",
       "LOUISIANA",
@@ -1062,26 +334,13 @@
       "MATTER",
       "BILL"
     ],
-    "actor_one": [
-      "LOUISIANA",
-      "POLICE",
-      "POLICE OFFICER",
-      "LOUISIANA",
-      "POLICE"
-    ],
-    "actor_two": [
-      "PRISON",
-      "NEW ORLEANS",
-      "LOUISIANA",
-      "PRISON",
-      "NEW ORLEANS"
-    ],
-    "div_cnt": 3,
-    "tone": -5.0
+    "articles": 3984,
+    "descent": 5,
+    "tone": -5.0,
+    "movement": 40
   },
   "20160611_20160703": {
     "length": 23,
-    "articles": 5288,
     "keywords": [
       "ORLANDO",
       "SHOOTING",
@@ -1089,26 +348,13 @@
       "GAY",
       "ACT"
     ],
-    "actor_one": [
-      "OBAMA",
-      "ATTORNEY GENERAL",
-      "OBAMA",
-      "MEDIA",
-      "HASSAN"
-    ],
-    "actor_two": [
-      "MUSLIM",
-      "FLORIDA",
-      "ORLANDO",
-      "COMMUNITY",
-      "NORTH DAKOTA"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 5288,
+    "descent": 20,
+    "tone": -5.0,
+    "movement": 168
   },
   "20160704_20160714": {
     "length": 11,
-    "articles": 4627,
     "keywords": [
       "OFFICERS",
       "DALLAS",
@@ -1116,80 +362,28 @@
       "LAW",
       "LIVES"
     ],
-    "actor_one": [
-      "AFRICA",
-      "DALLAS",
-      "LAWMAKER",
-      "POLICE",
-      "DALLAS"
-    ],
-    "actor_two": [
-      "GANG",
-      "LOUISIANA",
-      "POLICE OFFICER",
-      "UNITED STATES",
-      "DALLAS"
-    ],
-    "div_cnt": 4,
-    "tone": -6.0
+    "articles": 4627,
+    "descent": 3,
+    "tone": -6.0,
+    "movement": 51
   },
   "20160717_20160724": {
     "length": 8,
-    "articles": 1593,
     "keywords": [
       "OFFICERS",
       "LAW",
       "ROUGE",
       "TEXAS",
-      "BATON"
+      "BATON",
+      "OFFICER"
     ],
-    "actor_one": [
-      "POLICE",
-      "POLICE",
-      "GOVERNOR",
-      "UNITED STATES",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "MINORITIES",
-      "FLORIDA",
-      "POLICE",
-      "LAW ENFORCEMENT OFFICER",
-      "POLICE CAPTAIN"
-    ],
-    "div_cnt": 6,
-    "tone": -5.0
-  },
-  "20160803_20160806": {
-    "length": 4,
-    "articles": 356,
-    "keywords": [
-      "MAN",
-      "STATE",
-      "REPUBLICAN",
-      "WHITE",
-      "BLACK"
-    ],
-    "actor_one": [
-      "POLICE",
-      "ISLAMIC",
-      "NEW YORK",
-      "AFRICA",
-      "CHRISTIAN"
-    ],
-    "actor_two": [
-      "RELIGION",
-      "MUSLIM",
-      "POLICE OFFICER",
-      "AMERICAN",
-      "COUNSEL"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 1593,
+    "descent": 5,
+    "tone": -5.0,
+    "movement": 71
   },
   "20160812_20160820": {
     "length": 9,
-    "articles": 1779,
     "keywords": [
       "MUSLIM",
       "IMAM",
@@ -1197,26 +391,13 @@
       "MOSQUE",
       "SHOT"
     ],
-    "actor_one": [
-      "POLICE",
-      "MUSLIM CLERIC",
-      "POLICE",
-      "NEIGHBORHOOD",
-      "POLICE"
-    ],
-    "actor_two": [
-      "JOURNALIST",
-      "NEW YORK",
-      "GUNMAN",
-      "IMAM",
-      "NEW YORK CITY"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 1779,
+    "descent": 6,
+    "tone": -6.0,
+    "movement": 44
   },
   "20160822_20160829": {
     "length": 8,
-    "articles": 878,
     "keywords": [
       "CLINTON",
       "WHITE",
@@ -1224,107 +405,66 @@
       "HILLARY",
       "MAN"
     ],
-    "actor_one": [
-      "HAIFA",
-      "HAIFA",
-      "CITIZEN",
-      "ASSOCIATED PRESS",
-      "SPOKESMAN"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "UNITED STATES",
-      "WAITRESS",
-      "NEWSPAPER",
-      "UNITED STATES"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 878,
+    "descent": 4,
+    "tone": -5.0,
+    "movement": 28
   },
   "20160830_20160902": {
     "length": 4,
-    "articles": 699,
     "keywords": [
       "WHITE",
       "LIVES",
       "MATTER",
       "MUSLIM",
-      "LAW"
+      "LAW",
+      "MOVEMENT",
+      "SPLC",
+      "BLACK",
+      "DEATH",
+      "POVERTY",
+      "SOUTHERN",
+      "KHANAM"
     ],
-    "actor_one": [
-      "VETERANS WHO FOUGHT",
-      "MEDIA",
-      "HOUSTON",
-      "UNITED STATES",
-      "BANGLADESHI"
-    ],
-    "actor_two": [
-      "PRESIDENT",
-      "AMERICAN",
-      "PROTESTER",
-      "CORPORATION",
-      "MUSLIM"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 699,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 17
   },
   "20160906_20160911": {
     "length": 6,
-    "articles": 821,
     "keywords": [
       "MUSLIM",
       "MAN",
       "WOMEN",
       "LAW",
-      "BLUE"
+      "BLUE",
+      "LIVES",
+      "MATTER",
+      "VIOLENCE"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "NEW JERSEY",
-      "POLICE",
-      "COMPANY",
-      "COLONIST"
-    ],
-    "actor_two": [
-      "ATTORNEY",
-      "HOUSE OF REPRESENTATIVES",
-      "UNITED STATES",
-      "PORTLAND",
-      "BOSTON"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 821,
+    "descent": 4,
+    "tone": -6.0,
+    "movement": 48
   },
   "20160912_20160914": {
     "length": 3,
-    "articles": 955,
     "keywords": [
       "MUSLIM",
       "SET",
       "WOMEN",
       "INCIDENT",
-      "MOSQUE"
+      "MOSQUE",
+      "MAN"
     ],
-    "actor_one": [
-      "MUSLIM",
-      "POLICE",
-      "GUNMAN",
-      "AUTHORITIES",
-      "GUNMAN"
-    ],
-    "actor_two": [
-      "NEW YORK",
-      "NEW YORK",
-      "UNITED STATES",
-      "NEW YORK",
-      "FLORIDA"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 955,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 26
   },
   "20160922_20160924": {
     "length": 3,
-    "articles": 728,
     "keywords": [
       "WHITE",
       "PROTESTERS",
@@ -1332,134 +472,34 @@
       "CHARLOTTE",
       "CONGRESSMAN"
     ],
-    "actor_one": [
-      "CHARLOTTE",
-      "NORTH CAROLINA",
-      "NORTH CAROLINA",
-      "UNITED STATES",
-      "NORTH CAROLINA"
-    ],
-    "actor_two": [
-      "CHARLOTTE",
-      "UNITED STATES",
-      "UNITED KINGDOM",
-      "AFRICA",
-      "PROTESTER"
-    ],
-    "div_cnt": 3,
-    "tone": -6.0
-  },
-  "20160927_20160929": {
-    "length": 3,
-    "articles": 884,
-    "keywords": [
-      "WHITE",
-      "MUSLIM",
-      "PEPE",
-      "MATTER",
-      "FROG"
-    ],
-    "actor_one": [
-      "PRESIDENT",
-      "NEW YORK",
-      "CHARLOTTE",
-      "COMMUNITY",
-      "POLICE"
-    ],
-    "actor_two": [
-      "POLICE",
-      "MEDIA",
-      "POLICE",
-      "MEDIA",
-      "CHARLOTTE"
-    ],
-    "div_cnt": 6,
-    "tone": -5.0
-  },
-  "20161002_20161007": {
-    "length": 6,
-    "articles": 410,
-    "keywords": [
-      "WHITE",
-      "MAN",
-      "DONT",
-      "MATTER",
-      "RIGHTS"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "JEWISH",
-      "UNITED STATES",
-      "GOVERNOR",
-      "IMMIGRANT"
-    ],
-    "actor_two": [
-      "POLICE",
-      "NON GOVERNMENTAL ORGANIZATION",
-      "POLICE",
-      "NORTH CAROLINA",
-      "REFUGEE"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 728,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 9
   },
   "20161010_20161012": {
     "length": 3,
-    "articles": 638,
     "keywords": [
       "WHITE",
       "SIKH",
       "MAN",
       "WOMEN",
-      "KHALSA"
-    ],
-    "actor_one": [
-      "AUTHORITIES",
-      "AFRICA",
-      "IMMIGRANT",
-      "SIKH",
-      "SIKH"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "AMERICAN",
-      "UNITED STATES",
-      "SAN FRANCISCO",
-      "KHALSA"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
-  },
-  "20161016_20161023": {
-    "length": 8,
-    "articles": 753,
-    "keywords": [
-      "MUSLIM",
-      "SPEECH",
+      "KHALSA",
+      "MEN",
+      "RICHMOND",
       "CLINTON",
-      "TIMES",
-      "WOMEN"
+      "HILLARY",
+      "HAIR",
+      "TARGETED",
+      "AMERICANS"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "SCHOOLHOUSE",
-      "NEW YORK",
-      "POLICE",
-      "WISCONSIN"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "VIRGINIA",
-      "UNITED STATES",
-      "CHARLOTTE",
-      "CRIMINAL"
-    ],
-    "div_cnt": 6,
-    "tone": -5.0
+    "articles": 638,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 29
   },
   "20161108_20161126": {
     "length": 19,
-    "articles": 7490,
     "keywords": [
       "MUSLIM",
       "WHITE",
@@ -1467,80 +507,45 @@
       "WOMEN",
       "STATE"
     ],
-    "actor_one": [
-      "RIGHTS GROUP",
-      "MUSLIM",
-      "NEW YORK",
-      "STUDENT",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "MUSLIM",
-      "RELIGION",
-      "PRESIDENT",
-      "POLICE",
-      "IMMIGRANT"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 7490,
+    "descent": 15,
+    "tone": -5.0,
+    "movement": 138
   },
   "20161127_20161204": {
     "length": 8,
-    "articles": 1847,
     "keywords": [
       "MUSLIM",
       "LETTER",
       "MOSQUES",
       "ISLAMIC",
-      "LETTERS"
+      "LETTERS",
+      "ELECTION"
     ],
-    "actor_one": [
-      "MUSLIM",
-      "NEW YORK",
-      "MUSLIM",
-      "MUSLIM",
-      "MUSLIM"
-    ],
-    "actor_two": [
-      "ISLAMIC",
-      "POLICE",
-      "STUDENT",
-      "CALIFORNIA",
-      "THE US"
-    ],
-    "div_cnt": 9,
-    "tone": -5.0
+    "articles": 1847,
+    "descent": 5,
+    "tone": -5.0,
+    "movement": 70
   },
   "20161221_20161224": {
     "length": 4,
-    "articles": 987,
     "keywords": [
       "MISSISSIPPI",
       "CHURCH",
       "MUSLIM",
       "MAN",
-      "WOMEN"
+      "WOMEN",
+      "BLACK",
+      "TRANSGENDER",
+      "STATE"
     ],
-    "actor_one": [
-      "COMMUNITY",
-      "BUSINESS",
-      "POLICE",
-      "AUTHORITIES",
-      "COMPANY"
-    ],
-    "actor_two": [
-      "GOVERNMENT",
-      "EMPLOYEE",
-      "UNITED STATES",
-      "GANG",
-      "WEBSITE"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 987,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 13
   },
   "20170104_20170108": {
     "length": 5,
-    "articles": 4027,
     "keywords": [
       "CHICAGO",
       "VIDEO",
@@ -1548,26 +553,13 @@
       "VICTIM",
       "MAN"
     ],
-    "actor_one": [
-      "CHICAGO",
-      "PRESIDENT",
-      "ASSOCIATED PRESS",
-      "SPOKESMAN",
-      "CHICAGO"
-    ],
-    "actor_two": [
-      "MEDIA",
-      "BARACK OBAMA",
-      "ATLANTA",
-      "THE ASSOCIATED PRESS",
-      "CHICAGO"
-    ],
-    "div_cnt": 5,
-    "tone": -8.0
+    "articles": 4027,
+    "descent": 2,
+    "tone": -8.0,
+    "movement": 33
   },
   "20170119_20170213": {
     "length": 26,
-    "articles": 5856,
     "keywords": [
       "MUSLIM",
       "MAN",
@@ -1575,53 +567,29 @@
       "WHITE",
       "JEWISH"
     ],
-    "actor_one": [
-      "POLICE",
-      "IDAHO",
-      "NEW YORK",
-      "SCHOOL",
-      "KANSAS"
-    ],
-    "actor_two": [
-      "PROTESTER",
-      "PRISON",
-      "UNITED STATES",
-      "ATTORNEY",
-      "ENGINEER"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 5856,
+    "descent": 24,
+    "tone": -5.0,
+    "movement": 334
   },
   "20170214_20170219": {
     "length": 6,
-    "articles": 773,
     "keywords": [
       "MUSLIM",
       "NUMBER",
       "WHITE",
       "LAW",
-      "STATE"
+      "STATE",
+      "SPLC",
+      "BILL"
     ],
-    "actor_one": [
-      "MASSACHUSETTS",
-      "STUDENT",
-      "HOUSTON",
-      "CAPTAIN",
-      "MEDIA"
-    ],
-    "actor_two": [
-      "POLICE",
-      "POLICE",
-      "ANTI DEFAMATION LEAGUE",
-      "UNITED STATES",
-      "EXTREMIST"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 773,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 29
   },
   "20170220_20170311": {
     "length": 20,
-    "articles": 9365,
     "keywords": [
       "SHOOTING",
       "KANSAS",
@@ -1629,350 +597,159 @@
       "JEWISH",
       "COMMUNITY"
     ],
-    "actor_one": [
-      "AUTHORITIES",
-      "MUSLIM",
-      "POLICE CHIEF",
-      "PRESIDENT",
-      "ENGINEER"
-    ],
-    "actor_two": [
-      "TAMPA",
-      "WEBSITE",
-      "SIKH",
-      "CONGRESS",
-      "KANSAS"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 9365,
+    "descent": 15,
+    "tone": -6.0,
+    "movement": 118
   },
   "20170319_20170321": {
     "length": 3,
-    "articles": 734,
     "keywords": [
       "COMMUNITY",
       "LAW",
       "LGBT",
       "WHITE",
-      "TRANSGENDER"
+      "TRANSGENDER",
+      "MUSLIM",
+      "PROSECUTIONS",
+      "WORRIES",
+      "FEDERAL",
+      "INDIAN",
+      "VALLUM"
     ],
-    "actor_one": [
-      "LAWMAKER",
-      "COMMUNITY",
-      "PRESIDENT",
-      "SEATTLE",
-      "AMERICAN"
-    ],
-    "actor_two": [
-      "CONNECTICUT",
-      "MISSISSIPPI",
-      "UNITED STATES",
-      "SIKH",
-      "HINDU"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
-  },
-  "20170404_20170408": {
-    "length": 5,
-    "articles": 340,
-    "keywords": [
-      "VIOLENCE",
-      "WHITE",
-      "RIGHT",
-      "THREATS",
-      "UNITED"
-    ],
-    "actor_one": [
-      "PRESIDENT",
-      "AUTHORITIES",
-      "MEDIA",
-      "UNITED STATES",
-      "IMMIGRANT"
-    ],
-    "actor_two": [
-      "HILLARY CLINTON",
-      "CHARLOTTE",
-      "UNITED STATES",
-      "ENGINEER",
-      "WORKER"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
-  },
-  "20170410_20170412": {
-    "length": 3,
-    "articles": 388,
-    "keywords": [
-      "STEPS",
-      "KRISHNAMOORTHI",
-      "WHITE",
-      "TRAINING",
-      "MUSLIM"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "AMERICAN",
-      "LAWMAKER",
-      "CALIFORNIA",
-      "ANTI DEFAMATION LEAGUE"
-    ],
-    "actor_two": [
-      "JUDGE",
-      "GEORGE BUSH",
-      "AMERICAN",
-      "IMMIGRANT",
-      "POLICE"
-    ],
-    "div_cnt": 5,
-    "tone": -6.0
+    "articles": 734,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 13
   },
   "20170418_20170421": {
     "length": 4,
-    "articles": 2147,
     "keywords": [
       "WHITE",
       "SHOOTING",
       "FRESNO",
       "MUHAMMAD",
-      "SIGN"
+      "SIGN",
+      "WOMEN",
+      "BURNING",
+      "TARGETING"
     ],
-    "actor_one": [
-      "GUNMAN",
-      "FRESNO",
-      "POLICE CHIEF",
-      "FRESNO",
-      "CATHOLIC"
-    ],
-    "actor_two": [
-      "CALIFORNIA",
-      "UNITED STATES",
-      "UNITED STATES",
-      "FRESNO",
-      "LUTHERAN"
-    ],
-    "div_cnt": 2,
-    "tone": -6.0
+    "articles": 2147,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 51
   },
   "20170424_20170429": {
     "length": 6,
-    "articles": 1068,
     "keywords": [
       "COMMUNITY",
       "SPEECH",
       "STATE",
       "FREE",
-      "MAN"
+      "MAN",
+      "WHITE",
+      "REPORTED",
+      "WORK",
+      "LEADERS"
     ],
-    "actor_one": [
-      "WYOMING",
-      "JEWISH",
-      "UNITED STATES",
-      "PRESIDENT",
-      "COMMUNITY"
-    ],
-    "actor_two": [
-      "STUDENT",
-      "JEWISH",
-      "ATTORNEY",
-      "HOUSTON",
-      "CONGRESSMAN"
-    ],
-    "div_cnt": 5,
-    "tone": -4.0
+    "articles": 1068,
+    "descent": 1,
+    "tone": -4.0,
+    "movement": 44
   },
   "20170501_20170505": {
     "length": 5,
-    "articles": 812,
     "keywords": [
       "RELIGIOUS",
       "WHITE",
       "UNIVERSITY",
       "LAW",
-      "COMMUNITY"
+      "COMMUNITY",
+      "BLACK",
+      "BILL",
+      "GAY",
+      "MUSLIM",
+      "RIGHTS",
+      "TREENE",
+      "CHURCH",
+      "STANG"
     ],
-    "actor_one": [
-      "AUTHORITIES",
-      "SCHOOL",
-      "KANSAS CITY",
-      "PRISON",
-      "SCHOOL"
-    ],
-    "actor_two": [
-      "ISRAELI",
-      "MASSACHUSETTS",
-      "PRESIDENT",
-      "ATLANTA",
-      "MASSACHUSETTS"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 812,
+    "descent": 3,
+    "tone": -6.0,
+    "movement": 31
   },
   "20170514_20170520": {
     "length": 7,
-    "articles": 790,
     "keywords": [
       "SIKH",
       "TRANSGENDER",
       "SENTENCED",
       "MAN",
-      "KHALSA"
+      "KHALSA",
+      "WILLIAMSON",
+      "FEDERAL"
     ],
-    "actor_one": [
-      "PRISON",
-      "LAWYER",
-      "DEPUTIES",
-      "DEPUTIES",
-      "MISSISSIPPI"
-    ],
-    "actor_two": [
-      "MISSISSIPPI",
-      "PRESIDENT",
-      "NEWSPAPER",
-      "NEWSPAPER",
-      "PRISON"
-    ],
-    "div_cnt": 7,
-    "tone": -7.0
+    "articles": 790,
+    "descent": 5,
+    "tone": -7.0,
+    "movement": 38
   },
   "20170521_20170603": {
     "length": 14,
-    "articles": 2660,
     "keywords": [
       "PORTLAND",
       "MARYLAND",
       "UNIVERSITY",
       "STABBING",
-      "COLLINS"
+      "COLLINS",
+      "WHITE",
+      "URBANSKI",
+      "MEN",
+      "SPEECH",
+      "TRAIN"
     ],
-    "actor_one": [
-      "POLICE",
-      "MUSLIM",
-      "PRESIDENT",
-      "MARYLAND",
-      "UNIVERSITY"
-    ],
-    "actor_two": [
-      "STUDENT",
-      "UNITED STATES",
-      "HILLARY CLINTON",
-      "SECOND LIEUTENANT",
-      "PRESIDENT"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 2660,
+    "descent": 12,
+    "tone": -6.0,
+    "movement": 124
   },
   "20170618_20170701": {
     "length": 14,
-    "articles": 1597,
     "keywords": [
       "MUSLIM",
       "MOSQUE",
       "MAN",
       "VIRGINIA",
-      "LAW"
-    ],
-    "actor_one": [
-      "WASHINGTON",
-      "POLICE",
-      "MUSLIM",
-      "UNITED STATES",
-      "PRESIDENT"
-    ],
-    "actor_two": [
-      "GOVERNMENT",
-      "VIRGINIA",
-      "VIRGINIA",
-      "PRESIDENT",
-      "UNITED STATES"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
-  },
-  "20170711_20170715": {
-    "length": 5,
-    "articles": 1312,
-    "keywords": [
-      "MUSLIM",
       "LAW",
-      "UNIVERSITY",
-      "SESSIONS",
-      "COURT"
+      "ISLAMIC"
     ],
-    "actor_one": [
-      "DEPUTY",
-      "UNITED STATES",
-      "PRINCE",
-      "UNITED STATES",
-      "ISRAEL"
-    ],
-    "actor_two": [
-      "THE ASSOCIATED PRESS",
-      "UNITED STATES",
-      "ATTORNEY",
-      "COMMUNITY",
-      "POLICE"
-    ],
-    "div_cnt": 3,
-    "tone": -5.0
-  },
-  "20170718_20170722": {
-    "length": 4,
-    "articles": 188,
-    "keywords": [
-      "MUSLIM",
-      "FLAKE",
-      "CARE",
-      "HEALTH",
-      "VIOLENCE"
-    ],
-    "actor_one": [
-      "IOWA",
-      "POLICE",
-      "UNITED STATES",
-      "MUSLIM",
-      "CONNECTICUT"
-    ],
-    "actor_two": [
-      "MALE",
-      "GANG",
-      "WRITER",
-      "UNITED STATES",
-      "JEWISH"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 1597,
+    "descent": 7,
+    "tone": -6.0,
+    "movement": 108
   },
   "20170725_20170730": {
     "length": 6,
-    "articles": 618,
     "keywords": [
       "MUSLIM",
       "MILITARY",
       "COMMUNITY",
       "MAN",
-      "TRANSGENDER"
+      "TRANSGENDER",
+      "CAIR",
+      "WHITE",
+      "CIVIL",
+      "RIGHTS",
+      "WOMEN"
     ],
-    "actor_one": [
-      "FEDERAL JUDGE",
-      "WORKER",
-      "AMERICAN",
-      "STATE OFFICIAL",
-      "LAW ENFORCEMENT AUTHORITIES"
-    ],
-    "actor_two": [
-      "CRIMINAL",
-      "SACRAMENTO",
-      "PRESIDENT",
-      "ALABAMA",
-      "NORTH DAKOTA"
-    ],
-    "div_cnt": 5,
-    "tone": -5.0
+    "articles": 618,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 16
   },
   "20170802_20170904": {
     "length": 34,
-    "articles": 17702,
     "keywords": [
       "WHITE",
       "CHARLOTTESVILLE",
@@ -1980,188 +757,65 @@
       "RALLY",
       "SPEECH"
     ],
-    "actor_one": [
-      "PRESIDENT",
-      "FIRST LADY",
-      "TROOPER",
-      "PROTESTER",
-      "UNITED NATIONS"
-    ],
-    "actor_two": [
-      "IMMIGRANT",
-      "UNITED STATES",
-      "UNITED STATES",
-      "KU KLUX KLAN",
-      "UNITED STATES"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20170905_20170908": {
-    "length": 4,
-    "articles": 466,
-    "keywords": [
-      "WHITE",
-      "RIGHTS",
-      "SPEECH",
-      "VIRGINIA",
-      "CHARLOTTESVILLE"
-    ],
-    "actor_one": [
-      "VIRGINIA",
-      "COMMUNITY",
-      "SIKH",
-      "RICHMOND",
-      "EUROPE"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "STUDENT",
-      "LOS ANGELES",
-      "PRESIDENT",
-      "INDIANA"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 17702,
+    "descent": 20,
+    "tone": -5.0,
+    "movement": 222
   },
   "20170912_20170916": {
     "length": 5,
-    "articles": 1687,
     "keywords": [
       "WHITE",
       "RESOLUTION",
       "VIOLENCE",
       "VIRGINIA",
-      "CHARLOTTESVILLE"
+      "CHARLOTTESVILLE",
+      "CONGRESS"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "CONGRESS",
-      "PRESIDENT",
-      "SENATE",
-      "PRESIDENT"
-    ],
-    "actor_two": [
-      "PRESIDENT",
-      "UNITED STATES",
-      "UNITED STATES",
-      "UNITED STATES",
-      "UNITED STATES"
-    ],
-    "div_cnt": 4,
-    "tone": -6.0
+    "articles": 1687,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 18
   },
   "20170918_20170923": {
     "length": 6,
-    "articles": 350,
     "keywords": [
       "STATE",
       "SPEECH",
       "MAN",
       "WHITE",
-      "VIOLENCE"
+      "VIOLENCE",
+      "DONT",
+      "COMMUNITY",
+      "JEWISH",
+      "LAW",
+      "MEN",
+      "BLACK",
+      "UNIVERSITY"
     ],
-    "actor_one": [
-      "MINNEAPOLIS",
-      "CITIZEN",
-      "MEDIA",
-      "WASHINGTON",
-      "SOMALI"
-    ],
-    "actor_two": [
-      "MUSLIM",
-      "AUTHORITIES",
-      "GOOGLE",
-      "WEBSITE",
-      "NORTH DAKOTA"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 350,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 27
   },
   "20170927_20171001": {
     "length": 5,
-    "articles": 272,
     "keywords": [
       "TRANSGENDER",
       "MISSOURI",
       "TEEN",
       "VIOLENCE",
-      "COURT"
+      "COURT",
+      "LGBT",
+      "STEINFELD"
     ],
-    "actor_one": [
-      "PHILADELPHIA",
-      "MICHIGAN",
-      "MUSLIM",
-      "POLICE",
-      "POLICE OFFICER"
-    ],
-    "actor_two": [
-      "THE ASSOCIATED PRESS",
-      "SCHOOL",
-      "STUDENT",
-      "DRUG DEALER",
-      "AIRLINE"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
-  },
-  "20171004_20171006": {
-    "length": 3,
-    "articles": 513,
-    "keywords": [
-      "VIOLENCE",
-      "VEGAS",
-      "LAS",
-      "RECEIVED",
-      "MUSIC"
-    ],
-    "actor_one": [
-      "GUNMAN",
-      "SENATE",
-      "LAW ENFORCEMENT AGENCIES",
-      "POLICE",
-      "AFRICA"
-    ],
-    "actor_two": [
-      "TEXAS",
-      "CALIFORNIA",
-      "LAS VEGAS",
-      "AUCKLAND",
-      "IMMIGRANT"
-    ],
-    "div_cnt": 6,
-    "tone": -4.0
-  },
-  "20171009_20171016": {
-    "length": 8,
-    "articles": 722,
-    "keywords": [
-      "WHITE",
-      "HOUSE",
-      "SPEECH",
-      "HELP",
-      "CASE"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "UNITED STATES",
-      "GOVERNMENT",
-      "FISHER",
-      "WASHINGTON"
-    ],
-    "actor_two": [
-      "THE WHITE HOUSE",
-      "VIOLENT GROUP",
-      "CHRISTIAN",
-      "NEWSPAPER",
-      "ASSOCIATED PRESS"
-    ],
-    "div_cnt": 7,
-    "tone": -4.0
+    "articles": 272,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 37
   },
   "20171016_20171022": {
     "length": 7,
-    "articles": 966,
     "keywords": [
       "UNIVERSITY",
       "WHITE",
@@ -2169,53 +823,32 @@
       "MAN",
       "URBANSKI"
     ],
-    "actor_one": [
-      "GOVERNMENT",
-      "STUDENT",
-      "STUDENT",
-      "ARMY OFFICER",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "MEDIA",
-      "MARYLAND",
-      "MARYLAND",
-      "REUTERS",
-      "FLORIDA"
-    ],
-    "div_cnt": 7,
-    "tone": -7.0
+    "articles": 966,
+    "descent": 4,
+    "tone": -7.0,
+    "movement": 69
   },
   "20171023_20171027": {
     "length": 5,
-    "articles": 341,
     "keywords": [
       "SPEECH",
       "UNIVERSITY",
       "WHITE",
       "MAN",
-      "RACIST"
-    ],
-    "actor_one": [
-      "MUSLIM",
-      "ACTIVIST",
-      "PRESIDENT",
-      "PRISON",
-      "POLICE"
-    ],
-    "actor_two": [
+      "RACIST",
+      "SCHOOL",
       "DELAWARE",
-      "MISSOURI",
-      "UNITED STATES",
-      "FRESNO",
-      "MEDIA"
+      "GRAFFITI",
+      "MAYOR",
+      "STUDENTS"
     ],
-    "div_cnt": 8,
-    "tone": -5.0
+    "articles": 341,
+    "descent": 1,
+    "tone": -5.0,
+    "movement": 6
   },
   "20171029_20171124": {
     "length": 26,
-    "articles": 3169,
     "keywords": [
       "WHITE",
       "SCHOOL",
@@ -2223,431 +856,141 @@
       "FBI",
       "STATE"
     ],
-    "actor_one": [
-      "PRISON",
-      "UNITED STATES",
-      "AFRICA",
-      "GUNMAN",
-      "AUTHORITIES"
-    ],
-    "actor_two": [
-      "SCHOOL",
-      "PRESIDENT",
-      "AMERICAN",
-      "THE ASSOCIATED PRESS",
-      "MEDIA"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20171130_20171202": {
-    "length": 3,
-    "articles": 410,
-    "keywords": [
-      "MUSLIM",
-      "KNOW",
-      "WHITE",
-      "ANTIMUSLIM",
-      "MOORE"
-    ],
-    "actor_one": [
-      "SCHOOL",
-      "IMMIGRANT",
-      "ACTIVIST",
-      "MEDIA",
-      "SCHOOL"
-    ],
-    "actor_two": [
-      "CORPORATION",
-      "REFUGEE",
-      "ISRAEL",
-      "UNITED STATES",
-      "CHEROKEE"
-    ],
-    "div_cnt": 5,
-    "tone": -5.0
+    "articles": 3169,
+    "descent": 6,
+    "tone": -5.0,
+    "movement": 184
   },
   "20171205_20171217": {
     "length": 13,
-    "articles": 665,
     "keywords": [
       "MAN",
       "MOSQUE",
       "15",
       "FLORIDA",
-      "SPEECH"
+      "SPEECH",
+      "VANDALIZING"
     ],
-    "actor_one": [
-      "PRIEST",
-      "BUSINESS",
-      "POLICE",
-      "SCHOOL",
-      "AFRICA"
-    ],
-    "actor_two": [
-      "CATHOLIC PRIEST",
-      "UNITED STATES",
-      "UNIVERSITY",
-      "JUDGE",
-      "AMERICAN"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
-  },
-  "20171218_20171221": {
-    "length": 4,
-    "articles": 337,
-    "keywords": [
-      "TWITTER",
-      "WHITE",
-      "ACCOUNTS",
-      "RULES",
-      "COMPANY"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "COLLEGE",
-      "CLEVELAND",
-      "POLICE",
-      "MEDIA"
-    ],
-    "actor_two": [
-      "PUBLICATION",
-      "POLICE",
-      "CLEVELAND",
-      "UNIVERSITY",
-      "VIRGINIA"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 665,
+    "descent": 8,
+    "tone": -6.0,
+    "movement": 71
   },
   "20171225_20171231": {
     "length": 7,
-    "articles": 322,
     "keywords": [
       "MEMORIAL",
       "MINNEAPOLIS",
       "REMOVE",
       "WHITE",
-      "LEFT"
+      "LEFT",
+      "OFFICER",
+      "CALLED",
+      "DAMOND"
     ],
-    "actor_one": [
-      "POLICE",
-      "NEWSPAPER",
-      "NEW YORK",
-      "EMPLOYEE",
-      "COUNSEL"
-    ],
-    "actor_two": [
-      "MINNESOTA",
-      "POLICE",
-      "AMERICAN",
-      "PANERA BREAD",
-      "ORLANDO"
-    ],
-    "div_cnt": 4,
-    "tone": -7.0
-  },
-  "20180101_20180113": {
-    "length": 13,
-    "articles": 683,
-    "keywords": [
-      "STATE",
-      "WHITE",
-      "LAW",
-      "SPEECH",
-      "MUSLIM"
-    ],
-    "actor_one": [
-      "NEW JERSEY",
-      "LATTER DAY SAINTS",
-      "AUTHORITIES",
-      "MISSISSIPPI",
-      "NEW YORK STATE"
-    ],
-    "actor_two": [
-      "EMPLOYEE",
-      "TWIN FALLS",
-      "COLORADO",
-      "CORPORATION",
-      "MEDIA"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20180116_20180118": {
-    "length": 3,
-    "articles": 252,
-    "keywords": [
-      "BERNSTEIN",
-      "WOODWARD",
-      "SAY",
-      "PARENTS",
-      "SON"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "VISTAPRINT",
-      "HOUSE SPEAKER",
-      "OBAMA",
-      "OBAMA"
-    ],
-    "actor_two": [
-      "WEB SITE",
-      "BOSTON",
-      "UNITED STATES",
-      "SECRETARY OF EDUCATION",
-      "SECRETARY OF EDUCATION"
-    ],
-    "div_cnt": 8,
-    "tone": -5.0
-  },
-  "20180207_20180209": {
-    "length": 3,
-    "articles": 300,
-    "keywords": [
-      "MAN",
-      "WHITE",
-      "JABARA",
-      "MAJORS",
-      "OKLAHOMA"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "MICHIGAN",
-      "VOTER",
-      "OKLAHOMA",
-      "JOURNALIST"
-    ],
-    "actor_two": [
-      "PRISON",
-      "MICHIGAN",
-      "SCHOOL",
-      "PRISON",
-      "ILLINOIS"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
-  },
-  "20180213_20180217": {
-    "length": 5,
-    "articles": 422,
-    "keywords": [
-      "HATERS",
-      "COPYRIGHT",
-      "GONNA",
-      "LYRICS",
-      "PLAY"
-    ],
-    "actor_one": [
-      "FEDERAL COURT",
-      "CREATIVITY",
-      "PROSECUTOR",
-      "MUSLIM",
-      "BUSINESS"
-    ],
-    "actor_two": [
-      "FEDERAL COURT",
-      "UNITED STATES",
-      "UNITED STATES",
-      "AUTHORITIES",
-      "GOVERNMENT"
-    ],
-    "div_cnt": 8,
-    "tone": -4.0
+    "articles": 322,
+    "descent": 5,
+    "tone": -7.0,
+    "movement": 62
   },
   "20180219_20180225": {
     "length": 7,
-    "articles": 1919,
     "keywords": [
       "WHITE",
       "MAN",
       "SPLC",
       "FAMILY",
-      "NRA"
+      "NRA",
+      "LAW",
+      "LIFE",
+      "GUN"
     ],
-    "actor_one": [
-      "SCHOOL",
-      "VIRGINIA",
-      "PROSECUTOR",
-      "MUSLIM",
-      "PRISON"
-    ],
-    "actor_two": [
-      "KILLERS",
-      "PROTESTER",
-      "UNITED STATES",
-      "INTELLIGENCE",
-      "OKLAHOMA"
-    ],
-    "div_cnt": 4,
-    "tone": -5.0
+    "articles": 1919,
+    "descent": 3,
+    "tone": -5.0,
+    "movement": 33
   },
   "20180228_20180303": {
     "length": 4,
-    "articles": 589,
     "keywords": [
       "MAN",
       "2017",
       "JEWISH",
       "STATE",
-      "WHITE"
-    ],
-    "actor_one": [
-      "FEDERAL JUDGE",
-      "CHRISTIAN",
-      "ALASKA",
-      "JUDGE",
-      "FLORIDA"
-    ],
-    "actor_two": [
+      "WHITE",
       "PRISON",
-      "WASHINGTON",
-      "COMPANY",
-      "UNIVERSITY",
-      "JEWISH"
+      "JUDGE",
+      "SHOWS",
+      "INDICTMENT",
+      "SENTENCED",
+      "TEXAS",
+      "VICTIMS",
+      "DISTRICT",
+      "KADAR"
     ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 589,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 24
   },
   "20180305_20180308": {
     "length": 4,
-    "articles": 301,
     "keywords": [
       "PLEADS",
       "PURINTON",
       "SHOOTING",
       "GUILTY",
-      "KANSAS"
+      "KANSAS",
+      "MAN",
+      "STATE",
+      "KILLING",
+      "PLEA",
+      "INDIAN",
+      "PREMEDITATED",
+      "KUCHIBHOTLA",
+      "NAVY"
     ],
-    "actor_one": [
-      "BUSINESS",
-      "POLICE",
-      "WEBSITE",
-      "POLICE",
-      "BUSINESS"
-    ],
-    "actor_two": [
-      "MICHIGAN",
-      "STUDENT",
-      "UNITED STATES",
-      "STUDENT",
-      "UNITED STATES"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 301,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 30
   },
   "20180310_20180318": {
     "length": 9,
-    "articles": 1601,
     "keywords": [
       "WHITE",
       "WOMEN",
       "STATE",
       "IMMIGRATION",
-      "MUSLIM"
-    ],
-    "actor_one": [
-      "PRESIDENT",
-      "UNITED STATES",
-      "ALABAMA",
-      "PRESIDENT",
-      "INVESTOR"
-    ],
-    "actor_two": [
+      "MUSLIM",
       "CALIFORNIA",
-      "PRESIDENT",
-      "RELIGION",
-      "AMERICAN",
-      "NEW YORK"
+      "FEDERAL",
+      "DONT"
     ],
-    "div_cnt": 7,
-    "tone": -5.0
-  },
-  "20180321_20180325": {
-    "length": 5,
-    "articles": 316,
-    "keywords": [
-      "DONT",
-      "CONSERVATIVES",
-      "LIBERALS",
-      "RACISTS",
-      "MAN"
-    ],
-    "actor_one": [
-      "CINCINNATI",
-      "CONGRESS",
-      "JEWISH",
-      "TEXAS",
-      "RABBI"
-    ],
-    "actor_two": [
-      "JEWISH",
-      "ATTORNEY GENERAL",
-      "CINCINNATI",
-      "AUSTIN",
-      "AFRICA"
-    ],
-    "div_cnt": 9,
-    "tone": -5.0
+    "articles": 1601,
+    "descent": 6,
+    "tone": -5.0,
+    "movement": 113
   },
   "20180402_20180409": {
     "length": 8,
-    "articles": 1647,
     "keywords": [
       "WOMEN",
       "YOUTUBE",
       "COMPANY",
       "SAN",
-      "AGHDAM"
+      "AGHDAM",
+      "SHOOTER",
+      "VICTIMS",
+      "HEADQUARTERS"
     ],
-    "actor_one": [
-      "WEBSITE",
-      "EMPLOYEE",
-      "UNITED STATES",
-      "AMERICAN",
-      "TELEVISION"
-    ],
-    "actor_two": [
-      "COMPANY",
-      "POLICE",
-      "COMPANY",
-      "MICHIGAN",
-      "POLICE"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
-  },
-  "20180409_20180414": {
-    "length": 6,
-    "articles": 334,
-    "keywords": [
-      "SPEECH",
-      "MAN",
-      "FACEBOOK",
-      "ZUCKERBERG",
-      "USERS"
-    ],
-    "actor_one": [
-      "MEDIA",
-      "FEDERAL POLICE",
-      "ATTORNEY",
-      "JUDICIARY",
-      "COMMUNITY"
-    ],
-    "actor_two": [
-      "GOOGLE",
-      "TEXAS",
-      "AMERICAN",
-      "SENATE",
-      "STATE OFFICIAL"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 1647,
+    "descent": 5,
+    "tone": -6.0,
+    "movement": 73
   },
   "20180417_20180528": {
     "length": 42,
-    "articles": 2396,
     "keywords": [
       "WHITE",
       "MAN",
@@ -2655,134 +998,64 @@
       "MUSLIM",
       "WOMEN"
     ],
-    "actor_one": [
-      "CRIMINAL",
-      "STARBUCKS",
-      "AUTHORITIES",
-      "KANSAS",
-      "AUTHORITIES"
-    ],
-    "actor_two": [
-      "NEW YORK",
-      "POLICE",
-      "CHICAGO",
-      "ENGINEER",
-      "CHICAGO"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 2396,
+    "descent": 40,
+    "tone": -6.0,
+    "movement": 370
   },
   "20180612_20180708": {
     "length": 27,
-    "articles": 3484,
     "keywords": [
       "WHITE",
       "CHARLOTTESVILLE",
       "FEDERAL",
       "FIELDS",
-      "RALLY"
+      "RALLY",
+      "MAN"
     ],
-    "actor_one": [
-      "FIRST LADY",
-      "PRESIDENT",
-      "FIRST LADY",
-      "WASHINGTON",
-      "POLICE"
-    ],
-    "actor_two": [
-      "UNITED NATIONS",
-      "TELEVISION",
-      "UNITED STATES",
-      "IMMIGRANT",
-      "PENNSYLVANIA"
-    ],
-    "div_cnt": 7,
-    "tone": -5.0
+    "articles": 3484,
+    "descent": 20,
+    "tone": -5.0,
+    "movement": 198
   },
   "20180709_20180714": {
     "length": 6,
-    "articles": 336,
     "keywords": [
       "MAN",
       "PUERTO",
       "WOMEN",
       "VIDEO",
-      "OFFICER"
+      "OFFICER",
+      "SHIRT",
+      "WEARING"
     ],
-    "actor_one": [
-      "COLUMNIST",
-      "COMMUNITY",
-      "ACTIVIST",
-      "ATTORNEY",
-      "CALIFORNIA"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "POLICE",
-      "POLICE",
-      "CHICAGO",
-      "PRESIDENT"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
+    "articles": 336,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 25
   },
   "20180716_20180721": {
     "length": 6,
-    "articles": 449,
     "keywords": [
       "MAN",
       "MOSQUE",
       "TEXAS",
       "STATE",
-      "MUSLIM"
-    ],
-    "actor_one": [
-      "VICTORIA",
-      "HOUSTON",
-      "HOUSTON",
-      "POLICE",
-      "REUTERS"
-    ],
-    "actor_two": [
-      "TEXAS",
       "MUSLIM",
-      "VICTORIA",
-      "NEW YORK",
-      "TEXAS"
-    ],
-    "div_cnt": 5,
-    "tone": -6.0
-  },
-  "20180723_20180726": {
-    "length": 4,
-    "articles": 287,
-    "keywords": [
-      "MAN",
+      "SET",
+      "BURNING",
+      "JUSTICE",
+      "PEREZ",
       "WHITE",
-      "LAW",
-      "STUDENT",
-      "UNIVERSITY"
+      "ISLAMIC"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "RESIDENTS",
-      "COMMUNITY",
-      "FLORIDA",
-      "MEXICAN"
-    ],
-    "actor_two": [
-      "MISSOURI",
-      "NEW YORK",
-      "POLICE",
-      "UNIVERSITY",
-      "WASHINGTON"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 449,
+    "descent": 4,
+    "tone": -6.0,
+    "movement": 33
   },
   "20180803_20180818": {
     "length": 16,
-    "articles": 2344,
     "keywords": [
       "WHITE",
       "JONES",
@@ -2790,188 +1063,48 @@
       "SPEECH",
       "FACEBOOK"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "POLICE",
-      "POLICE",
-      "UNITED STATES",
-      "AMERICAN"
-    ],
-    "actor_two": [
-      "PRESIDENT",
-      "INDIANA",
-      "OREGON",
-      "PRISON",
-      "GOVERNMENT"
-    ],
-    "div_cnt": 8,
-    "tone": -6.0
-  },
-  "20180904_20180909": {
-    "length": 5,
-    "articles": 763,
-    "keywords": [
-      "MAN",
-      "GAY",
-      "WHITE",
-      "BERNSTEIN",
-      "PHONE"
-    ],
-    "actor_one": [
-      "POLICE OFFICER",
-      "NEW YORK",
-      "EMPLOYEE",
-      "CIVILIAN",
-      "MAGAZINE"
-    ],
-    "actor_two": [
-      "DALLAS",
-      "SENATE",
-      "REBEL",
-      "MILITARY",
-      "ASSOCIATED PRESS"
-    ],
-    "div_cnt": 2,
-    "tone": -5.0
-  },
-  "20180913_20180917": {
-    "length": 5,
-    "articles": 212,
-    "keywords": [
-      "WOMEN",
-      "STATE",
-      "LEWIS",
-      "NOTE",
-      "WRITTEN"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "BUSINESS",
-      "STATE OFFICIAL",
-      "LONDON",
-      "LAWYER"
-    ],
-    "actor_two": [
-      "PRESIDENT",
-      "HOSPITAL",
-      "VERMONT",
-      "FLORIDA",
-      "IMMIGRANT"
-    ],
-    "div_cnt": 8,
-    "tone": -7.0
-  },
-  "20180920_20180923": {
-    "length": 4,
-    "articles": 754,
-    "keywords": [
-      "INFOWARS",
-      "PAYPAL",
-      "ALEX",
-      "JONES",
-      "WEBSITE"
-    ],
-    "actor_one": [
-      "UNITED STATES",
-      "STUDENT",
-      "BORDER PATROL",
-      "MIAMI",
-      "ADVOCATE"
-    ],
-    "actor_two": [
-      "ADVOCATE",
-      "DEPUTY",
-      "SERIAL KILLER",
-      "AUTHORITIES",
-      "UNITED STATES"
-    ],
-    "div_cnt": 5,
-    "tone": -4.0
-  },
-  "20180927_20180930": {
-    "length": 4,
-    "articles": 119,
-    "keywords": [
-      "CALLS",
-      "ISLAM",
-      "OIC",
-      "BRUTAL",
-      "GAY"
-    ],
-    "actor_one": [
-      "ADVOCATE",
-      "FOREIGN MINIST",
-      "COMPANIES",
-      "RHODE ISLAND",
-      "CABINET"
-    ],
-    "actor_two": [
-      "UNITED STATES",
-      "MUSLIM",
-      "MUSLIM",
-      "SUPREME COURT",
-      "ISLAM"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 2344,
+    "descent": 5,
+    "tone": -6.0,
+    "movement": 154
   },
   "20181016_20181018": {
     "length": 3,
-    "articles": 1442,
     "keywords": [
       "MAN",
       "WHITE",
       "BLACK",
       "BUSH",
-      "SHOT"
+      "SHOT",
+      "FRIGHTENED",
+      "KENTUCKIAN",
+      "GROCERY",
+      "RACE",
+      "STORE",
+      "TEXAS"
     ],
-    "actor_one": [
-      "LOUISVILLE",
-      "AFRICA",
-      "AFRICA",
-      "TEXAS",
-      "POLICE"
-    ],
-    "actor_two": [
-      "AFRICA",
-      "AMERICAN",
-      "AMERICAN",
-      "SAN ANTONIO",
-      "ASSAILANT"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 1442,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 9
   },
   "20181022_20181110": {
     "length": 20,
-    "articles": 8782,
     "keywords": [
       "SYNAGOGUE",
       "PITTSBURGH",
       "SHOOTING",
       "JEWISH",
-      "WHITE"
+      "WHITE",
+      "BOWERS"
     ],
-    "actor_one": [
-      "POLICE OFFICER",
-      "HOSPITAL",
-      "AFRICA",
-      "NEW YORK",
-      "POLICE"
-    ],
-    "actor_two": [
-      "AUTHORITIES",
-      "NEW YORK",
-      "AMERICAN",
-      "UNITED STATES",
-      "UNITED STATES"
-    ],
-    "div_cnt": 7,
-    "tone": -6.0
+    "articles": 8782,
+    "descent": 13,
+    "tone": -6.0,
+    "movement": 124
   },
   "20181111_20181118": {
     "length": 8,
-    "articles": 1660,
     "keywords": [
       "FBI",
       "WHITE",
@@ -2979,75 +1112,44 @@
       "LAW",
       "2017"
     ],
-    "actor_one": [
-      "UNITED STATES",
-      "LOUISVILLE",
-      "PUBLICATION",
-      "DEPUTY",
-      "UNITED STATES"
-    ],
-    "actor_two": [
-      "MEDIA",
-      "AFRICA",
-      "PRESIDENT",
-      "ATTORNEY GENERAL",
-      "PRESIDENT"
-    ],
-    "div_cnt": 8,
-    "tone": -7.0
+    "articles": 1660,
+    "descent": 5,
+    "tone": -7.0,
+    "movement": 71
   },
   "20181125_20181202": {
     "length": 8,
-    "articles": 1971,
     "keywords": [
       "STATE",
       "WHITE",
       "SWASTIKAS",
       "BLACK",
-      "COLLEGE"
+      "COLLEGE",
+      "STUDENT",
+      "GRAFFITI",
+      "MISSISSIPPI",
+      "RACIST",
+      "VANDALISM"
     ],
-    "actor_one": [
-      "LOS ANGELES",
-      "MEDIA",
-      "CALIFORNIA",
-      "CALIFORNIA",
-      "UNIVERSITY"
-    ],
-    "actor_two": [
-      "BLACK PANTHERS",
-      "UNITED STATES",
-      "UNIVERSITY",
-      "BATTLESHIP",
-      "PITTSBURGH"
-    ],
-    "div_cnt": 7,
-    "tone": -7.0
+    "articles": 1971,
+    "descent": 2,
+    "tone": -7.0,
+    "movement": 156
   },
   "20181209_20181223": {
     "length": 14,
-    "articles": 1525,
     "keywords": [
       "WHITE",
       "MAN",
       "STATE",
       "SCHOOL",
-      "STUDENT"
+      "STUDENT",
+      "RIGHTS",
+      "SPEECH"
     ],
-    "actor_one": [
-      "DIPLOMAT",
-      "UNITED STATES",
-      "PERPETRATOR",
-      "CITIZEN",
-      "COMMUNITY"
-    ],
-    "actor_two": [
-      "INDIANA",
-      "THE ASSOCIATED PRESS",
-      "THE ASSOCIATED PRESS",
-      "AMERICAN",
-      "COMPANY"
-    ],
-    "div_cnt": 6,
-    "tone": -6.0
+    "articles": 1525,
+    "descent": 8,
+    "tone": -6.0,
+    "movement": 82
   }
 }

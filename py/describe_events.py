@@ -41,6 +41,7 @@ filters = [
     'hater',
     'hate',
 
+    'say',
     'told',
     'attack',
     'murder',
@@ -167,7 +168,15 @@ def get_event_keys(cursor, event_range):
         for key in keys:
             common_keys.append(key)
 
-    return [c[0].upper() for c in Counter(common_keys).most_common(5)]
+    key_cnt = [c[1] for c in Counter(common_keys).most_common(15) if c[1] >= 3]
+    key_set = sorted(list(set(key_cnt)), reverse=True)
+
+    if len(key_set) > 5:
+        valid_counts = key_set[:5]
+        return [c[0].upper() for c in Counter(common_keys).most_common(15) if c[1] in valid_counts]
+
+    else:
+        return []
 
 
 @open_connection
@@ -213,6 +222,24 @@ def get_event_articles(cursor, event_range):
 
 
 @open_connection
+def get_event_descent(cursor, event_range):
+
+    the_sql = '''
+              select sqldate, sum(numarticles::integer) as a_c
+              from gdelt_hate where sqldate between '{}' and '{}'
+              group by sqldate order by a_c desc limit 1
+              '''.format(*event_range)
+
+    cursor.execute(the_sql)
+
+    peak_date = datetime.datetime.strptime(cursor.fetchall()[0][0], '%Y%m%d')
+    last_date = datetime.datetime.strptime(event_range[1], '%Y%m%d')
+    descent   = last_date - peak_date
+
+    return descent.days
+
+
+@open_connection
 def get_date_info(cursor, event_range):
 
     the_sql = '''
@@ -230,9 +257,10 @@ def get_date_info(cursor, event_range):
 
 def build_window_info():
 
-    print('Processing Window Information')
+    print('Building Event Overviews')
 
     all_events = {}
+    del_events = []
 
     event_data = get_event_data()
     event_info = get_event_info(event_data)
@@ -241,27 +269,35 @@ def build_window_info():
 
         er = event_range.split('_')
 
+        # Collect Keywords
+        keywords = get_event_keys(er)
+        if not keywords:
+            del_events.append(event_range)
+        event_info[event_range].update({'keywords': keywords})
+
         # Collect Articles
         articles = get_event_articles(er)
         event_info[event_range].update({'articles': articles})
 
-        # Collect Keywords
-        keywords = get_event_keys(er)
-        event_info[event_range].update({'keywords': keywords})
-
-        # Collect Actors
-        a1_top, a2_top = get_event_actors(er)
-        event_info[event_range].update({'actor_one': a1_top, 'actor_two': a2_top})
-
-        # Collect Division Counts
-        division_count = get_division_counts(event_range)
-        event_info[event_range].update({'div_cnt': division_count})
+        # Get Number of Days from Peak to End
+        descent = get_event_descent(er)
+        event_info[event_range].update({'descent': descent})
 
         # Collect Tone
         tone = get_event_tone(er)
         event_info[event_range].update({'tone': tone})
 
+        # # Collect Actors
+        # a1_top, a2_top = get_event_actors(er)
+        # event_info[event_range].update({'actor_one': a1_top, 'actor_two': a2_top})
+
+        # # Collect Division Counts
+        # division_count = get_division_counts(event_range)
+        # event_info[event_range].update({'div_cnt': division_count})
+
         all_events.update(event_info)
+
+    for event in del_events: del all_events[event]
 
     return all_events
 
@@ -286,28 +322,31 @@ def process_window(er, attributes, hate_fc, windows):
         arcpy.AddField_management(dd, 'START_DATE', 'DATE')
         arcpy.AddField_management(dd, 'END_DATE',   'DATE')
         arcpy.AddField_management(dd, 'ARTICLES',   'LONG')
+        arcpy.AddField_management(dd, 'WIN_LEN',    'LONG')
         for idx, key in enumerate(attributes['keywords'], start=1):
             arcpy.AddField_management(dd, 'KEY_{}'.format(idx), 'TEXT')
 
         # Set Field to be Handled by Update Cursor
-        key_fields = ['KEY_{}'.format(k) for k in [a for a in range(1, 6)]]
-        all_fields = ['START_DATE', 'END_DATE', 'ARTICLES'] + key_fields
+        key_fields = ['KEY_{}'.format(k) for k in [a for a in range(1, len(attributes['keywords']) + 1)]]
+        all_fields = ['START_DATE', 'END_DATE', 'ARTICLES', 'WIN_LEN'] + key_fields
 
         start_date = datetime.datetime.strptime(er[0], '%Y%m%d')
         end_date   = datetime.datetime.strptime(er[1], '%Y%m%d')
         articles   = attributes['articles']
-        key_values = [k for k in attributes['actor_one']]
+        win_len    = attributes['length']
+        key_values = [k for k in attributes['keywords']]
 
         with arcpy.da.UpdateCursor(dd, all_fields) as cursor:
             for _ in cursor:
-                cursor.updateRow([start_date, end_date, articles] + key_values)
+                cursor.updateRow([start_date, end_date, articles, win_len] + key_values)
 
-    except arcpy.ExecuteError:
-        pass
+    except arcpy.ExecuteError as a_e:
+        print(a_e)
 
 
-def process_dates(er, date_info, hate_fc, windows):
+def process_dates(er, date_info, hate_fc, windows, length):
 
+    mean_fcs = []
     date_fcs = []
 
     for date, articles in date_info:
@@ -331,17 +370,28 @@ def process_dates(er, date_info, hate_fc, windows):
                 'numarticles'
             )
 
+            mc = arcpy.MeanCenter_stats(
+                fl,
+                os.path.join(windows, 'MC_{0}_{1}_{2}'.format(*er, date)),
+                'numarticles'
+            )
+
             arcpy.AddField_management(dd, 'EVENT_DATE', 'DATE')
+            arcpy.AddField_management(mc, 'EVENT_DATE', 'DATE')
+
+            arcpy.AddField_management(mc, 'ARTICLES', 'LONG')
             arcpy.AddField_management(dd, 'ARTICLES', 'LONG')
 
-            with arcpy.da.UpdateCursor(dd, ['EVENT_DATE', 'ARTICLES']) as cursor:
-                for _ in cursor:
-                    cursor.updateRow([
-                        datetime.datetime.strptime(date, '%Y%m%d'),
-                        articles
-                    ])
+            for target in [dd, mc]:
+                with arcpy.da.UpdateCursor(target, ['EVENT_DATE', 'ARTICLES']) as cursor:
+                    for _ in cursor:
+                        cursor.updateRow([
+                            datetime.datetime.strptime(date, '%Y%m%d'),
+                            articles
+                        ])
 
             date_fcs.append(dd)
+            mean_fcs.append(mc)
 
         except arcpy.ExecuteError:
             pass
@@ -353,17 +403,41 @@ def process_dates(er, date_info, hate_fc, windows):
         os.path.join(windows, 'GDELT_{0}_{1}_Windows'.format(*er))
     )
 
+    mc_merge = arcpy.Merge_management(
+        mean_fcs,
+        os.path.join(windows, 'GDELT_{0}_{1}_MC'.format(*er))
+    )
+
+    pl = arcpy.PointsToLine_management(
+        mc_merge,
+        os.path.join(windows, 'MC_{0}_{1}'.format(*er)),
+        Sort_Field='EVENT_DATE'
+    )
+
+    arcpy.AddField_management(pl, 'EVENT_LEN', 'LONG')
+    with arcpy.da.UpdateCursor(pl, ['EVENT_LEN']) as cursor:
+        for _ in cursor:
+            cursor.updateRow([length])
+
     for fc in date_fcs:
         arcpy.Delete_management(fc)
+
+    for fc in mean_fcs:
+        arcpy.Delete_management(fc)
+
+    movement = [row[0].length for row in arcpy.da.SearchCursor(pl, ['SHAPE@'])]
+    movement = round(movement[0]) if movement else 0
+
+    return movement
 
 
 def build_window_geom(events, hate_fc, windows):
 
     arcpy.env.overwriteOutput = True
 
-    print('Processing Window Geometries')
-
     for event_range, attributes in events.items():
+
+        print(f'Processing: {event_range}')
 
         er = event_range.split('_')
 
@@ -371,7 +445,11 @@ def build_window_geom(events, hate_fc, windows):
 
         process_window(er, attributes, hate_fc, windows)
 
-        process_dates(er, date_info, hate_fc, windows)
+        movement = process_dates(er, date_info, hate_fc, windows, attributes['length'])
+
+        events[event_range].update({'movement': movement})
+
+    return events
 
 
 if __name__ == "__main__":
@@ -395,7 +473,7 @@ if __name__ == "__main__":
     events = build_window_info()
 
     # Build Geometries Attributes for Windows
-    build_window_geom(events, hate_fc, windows)
+    events = build_window_geom(events, hate_fc, windows)
 
     # Dump Event Dictionary to Local JSON
     with open('../planning/gdelt_hate.json', 'w') as the_file:

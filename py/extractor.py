@@ -23,7 +23,6 @@ class Extractor(object):
 
         self.config = self.read_config(config)
 
-        # Explicitly Set DB Parameters
         self.db_name = self.config['db_name']
         self.db_user = self.config['db_user']
         self.db_pass = self.config['db_pass']
