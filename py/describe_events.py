@@ -82,23 +82,24 @@ def get_event_info(event_data):
 
     for l_idx, l_row in enumerate(event_data):
 
-        if start_idx and l_idx < start_idx: continue
+        if start_idx and l_idx < start_idx:
+            continue
 
         try:
             l_date, l_articles = l_row[0], l_row[1]
 
             three_avg = numpy.mean([r[1] for r in event_data[l_idx - 3: l_idx]])
 
-            # if abs(l_articles - three_avg) >= 3 * three_avg:
             if l_articles >= 3 * three_avg:
 
                 for r_idx, r_row in enumerate(event_data[l_idx + 1:], start=l_idx + 1):
 
                     r_date, r_articles = r_row[0], r_row[1]
 
-                    l_bnd_art = event_data[l_idx - 1][1] if event_data[l_idx - 1][1] > 10 else event_data[l_idx - 1][1] + 10
+                    l_articles = event_data[l_idx - 1][1]
+                    l_articles = l_articles if l_articles > 20 else 25
 
-                    if r_articles <= l_bnd_art:
+                    if r_articles <= l_articles + 10:
 
                         start_idx = r_idx
                         bound_key = '{}_{}'.format(event_data[l_idx - 1][0], event_data[r_idx][0])
@@ -222,7 +223,7 @@ def get_event_articles(cursor, event_range):
 
 
 @open_connection
-def get_event_descent(cursor, event_range):
+def get_event_peak(cursor, event_range):
 
     the_sql = '''
               select sqldate, sum(numarticles::integer) as a_c
@@ -232,11 +233,15 @@ def get_event_descent(cursor, event_range):
 
     cursor.execute(the_sql)
 
-    peak_date = datetime.datetime.strptime(cursor.fetchall()[0][0], '%Y%m%d')
-    last_date = datetime.datetime.strptime(event_range[1], '%Y%m%d')
-    descent   = last_date - peak_date
+    peak_date  = datetime.datetime.strptime(cursor.fetchall()[0][0], '%Y%m%d')
 
-    return descent.days
+    first_date = datetime.datetime.strptime(event_range[0], '%Y%m%d')
+    last_date  = datetime.datetime.strptime(event_range[1], '%Y%m%d')
+
+    ascent     = peak_date - first_date
+    descent    = last_date - peak_date
+
+    return ascent.days, descent.days
 
 
 @open_connection
@@ -280,8 +285,8 @@ def build_window_info():
         event_info[event_range].update({'articles': articles})
 
         # Get Number of Days from Peak to End
-        descent = get_event_descent(er)
-        event_info[event_range].update({'descent': descent})
+        ascent, descent = get_event_peak(er)
+        event_info[event_range].update({'ascent': ascent, 'descent': descent})
 
         # Collect Tone
         tone = get_event_tone(er)
@@ -339,6 +344,8 @@ def process_window(er, attributes, hate_fc, windows):
         with arcpy.da.UpdateCursor(dd, all_fields) as cursor:
             for _ in cursor:
                 cursor.updateRow([start_date, end_date, articles, win_len] + key_values)
+
+        return dd
 
     except arcpy.ExecuteError as a_e:
         print(a_e)
@@ -435,6 +442,8 @@ def build_window_geom(events, hate_fc, windows):
 
     arcpy.env.overwriteOutput = True
 
+    merge_windows = []
+
     for event_range, attributes in events.items():
 
         print(f'Processing: {event_range}')
@@ -443,11 +452,17 @@ def build_window_geom(events, hate_fc, windows):
 
         date_info = get_date_info(er)
 
-        process_window(er, attributes, hate_fc, windows)
+        m_w = process_window(er, attributes, hate_fc, windows)
+        merge_windows.append(m_w)
 
         movement = process_dates(er, date_info, hate_fc, windows, attributes['length'])
 
         events[event_range].update({'movement': movement})
+
+    arcpy.Merge_management(
+        merge_windows,
+        os.path.join(windows, 'GDELT_Windows')
+    )
 
     return events
 
