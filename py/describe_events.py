@@ -118,9 +118,9 @@ def get_event_info(event_data):
 def get_event_data(cursor):
 
     the_sql = '''
-              select sqldate, sum(numarticles::integer) 
+              select dateadded, sum(numarticles::integer) 
               from gdelt_hate
-              group by sqldate order by sqldate
+              group by dateadded order by dateadded
               '''
 
     cursor.execute(the_sql)
@@ -134,7 +134,7 @@ def get_event_actors(cursor, event_range):
     the_sql = '''
               select actor1name, actor2name
               from gdelt_hate
-              where sqldate between '{}' and '{}'
+              where dateadded between '{}' and '{}'
               order by numarticles desc
               limit 5
               '''.format(*event_range)
@@ -152,9 +152,9 @@ def get_event_actors(cursor, event_range):
 def get_event_keys(cursor, event_range):
 
     the_sql = '''
-              select sqldate, array_agg(keywords) from gdelt_hate
-              where sqldate between '{}' and '{}'
-              group by sqldate order by sqldate
+              select dateadded, array_agg(keywords) from gdelt_hate
+              where dateadded between '{}' and '{}'
+              group by dateadded order by dateadded
               '''.format(*event_range)
 
     cursor.execute(the_sql)
@@ -185,8 +185,8 @@ def get_event_tone(cursor, event_range):
 
     the_sql = '''
               select round(avg(avgtone::float)) from gdelt_hate
-              where sqldate between '{}' and '{}'
-              group by sqldate order by sqldate
+              where dateadded between '{}' and '{}'
+              group by dateadded order by dateadded
               '''.format(*event_range)
 
     cursor.execute(the_sql)
@@ -199,7 +199,7 @@ def get_division_counts(cursor, event_range):
 
     the_sql = '''
               select wc from window_counts
-              where sqldate = '{}'
+              where dateadded = '{}'
               '''.format(event_range)
 
     cursor.execute(the_sql)
@@ -214,7 +214,7 @@ def get_event_articles(cursor, event_range):
 
     the_sql = '''
               select sum(numarticles::integer) from gdelt_hate
-              where sqldate between '{}' and '{}'
+              where dateadded between '{}' and '{}'
               '''.format(*event_range)
 
     cursor.execute(the_sql)
@@ -226,9 +226,9 @@ def get_event_articles(cursor, event_range):
 def get_event_peak(cursor, event_range):
 
     the_sql = '''
-              select sqldate, sum(numarticles::integer) as a_c
-              from gdelt_hate where sqldate between '{}' and '{}'
-              group by sqldate order by a_c desc limit 1
+              select dateadded, sum(numarticles::integer) as a_c
+              from gdelt_hate where dateadded between '{}' and '{}'
+              group by dateadded order by a_c desc limit 1
               '''.format(*event_range)
 
     cursor.execute(the_sql)
@@ -248,10 +248,10 @@ def get_event_peak(cursor, event_range):
 def get_date_info(cursor, event_range):
 
     the_sql = '''
-              select sqldate, sum(numarticles)
+              select dateadded, sum(numarticles)
               from gdelt_hate
-              where sqldate between '{}' and '{}'
-              group by sqldate order by sqldate
+              where dateadded between '{}' and '{}'
+              group by dateadded order by dateadded
               '''.format(*event_range)
 
     cursor.execute(the_sql)
@@ -313,7 +313,7 @@ def process_window(er, attributes, hate_fc, windows):
         fl = arcpy.MakeFeatureLayer_management(
             hate_fc,
             os.path.join(arcpy.env.scratchGDB, 'WINDOW_{}_{}'.format(*er)),
-            where_clause="sqldate between '{}' and '{}'".format(*er)
+            where_clause="dateadded between '{}' and '{}'".format(*er)
         )
 
         dd = arcpy.DirectionalDistribution_stats(
@@ -362,7 +362,7 @@ def process_dates(er, date_info, hate_fc, windows, length):
             fl = arcpy.MakeFeatureLayer_management(
                 hate_fc,
                 os.path.join(arcpy.env.scratchGDB, 'GDELT_{}'.format(date)),
-                where_clause="sqldate = '{}'".format(date)
+                where_clause="dateadded = '{}'".format(date)
             )
             fl_count = arcpy.GetCount_management(fl)[0]
 

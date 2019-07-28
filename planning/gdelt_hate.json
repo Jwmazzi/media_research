@@ -1,35 +1,34 @@
 {
-  "20150413_20150420": {
+  "20150413_20150418": {
     "length": 6,
     "keywords": [
       "COLLEGE",
       "SHOOTING",
       "STANCIL",
       "POSSIBLE",
-      "COMMUNITY",
-      "LANE"
+      "COMMUNITY"
     ],
-    "articles": 652,
-    "ascent": 2,
-    "descent": 5,
-    "tone": -6.0,
-    "movement": 49
+    "articles": 672,
+    "ascent": 1,
+    "descent": 4,
+    "tone": -5.0,
+    "movement": 33
   },
   "20150503_20150506": {
     "length": 4,
     "keywords": [
       "TEXAS",
       "SPEECH",
-      "GELLER",
       "MUSLIM",
+      "GELLER",
       "EVENT",
-      "GARLAND",
-      "FREE"
+      "GARLAND"
     ],
-    "articles": 170,
+    "articles": 176,
     "ascent": 1,
     "descent": 2,
-    "tone": -5.0
+    "tone": -5.0,
+    "movement": 33
   },
   "20150617_20150627": {
     "length": 11,
@@ -40,11 +39,11 @@
       "SOUTH",
       "WHITE"
     ],
-    "articles": 15581,
+    "articles": 15584,
     "ascent": 1,
     "descent": 9,
     "tone": -6.0,
-    "movement": 55
+    "movement": 58
   },
   "20150630_20150703": {
     "length": 4,
@@ -59,24 +58,45 @@
     "ascent": 1,
     "descent": 2,
     "tone": -6.0,
-    "movement": 25
+    "movement": 27
+  },
+  "20150713_20150718": {
+    "length": 6,
+    "keywords": [
+      "FLAG",
+      "CONFEDERATE",
+      "WHITE",
+      "MUSLIM",
+      "CHARLESTON",
+      "OBAMA",
+      "IMMIGRATION",
+      "POSTED",
+      "CHURCH",
+      "FLORIDA",
+      "OREILLY",
+      "SYMBOL"
+    ],
+    "articles": 1349,
+    "ascent": 1,
+    "descent": 4,
+    "tone": -5.0,
+    "movement": 36
   },
   "20150730_20150802": {
     "length": 4,
     "keywords": [
       "CHURCH",
-      "FEDERAL",
       "ROOF",
+      "FEDERAL",
       "CHARLESTON",
       "GUILTY",
-      "SOUTH",
-      "STATE",
-      "CHARGES"
+      "SOUTH"
     ],
-    "articles": 359,
+    "articles": 360,
     "ascent": 2,
     "descent": 1,
-    "tone": -6.0
+    "tone": -7.0,
+    "movement": 19
   },
   "20150902_20150904": {
     "length": 3,
@@ -84,23 +104,22 @@
       "BLACK",
       "LIVES",
       "MATTER",
-      "MAN",
       "WHITE",
+      "MAN",
       "INSULTS",
-      "THATS",
-      "CITY",
       "RACIAL",
+      "CITY",
+      "THATS",
       "CHURCH",
-      "STATE",
       "ALABAMA",
       "COUNTY",
       "MEN"
     ],
-    "articles": 445,
+    "articles": 427,
     "ascent": 1,
     "descent": 1,
     "tone": -6.0,
-    "movement": 9
+    "movement": 15
   },
   "20150909_20150913": {
     "length": 5,
@@ -108,86 +127,97 @@
       "SIKH",
       "MUKKER",
       "COUNTRY",
-      "SIKHAMERICAN",
       "CAR",
-      "LADEN",
-      "SINGH"
+      "SINGH",
+      "LADEN"
     ],
-    "articles": 555,
+    "articles": 579,
     "ascent": 1,
     "descent": 3,
-    "tone": -8.0,
-    "movement": 24
+    "tone": -7.0,
+    "movement": 25
   },
   "20150915_20150917": {
     "length": 3,
     "keywords": [
       "SIKH",
       "MAN",
+      "MUKKER",
       "SINGH",
+      "TEEN",
       "ELDERLY",
-      "GARCIA",
-      "COMMUNITY",
-      "GOING",
-      "YOURE"
+      "GARCIA"
     ],
-    "articles": 494,
+    "articles": 577,
+    "ascent": 1,
+    "descent": 1,
+    "tone": -8.0,
+    "movement": 23
+  },
+  "20151002_20151004": {
+    "length": 3,
+    "keywords": [
+      "OREGON",
+      "CHRISTIANS",
+      "SHOOTING",
+      "OBAMA",
+      "MERCER",
+      "SHOOTER",
+      "TIMES",
+      "YOURE",
+      "VICTIMS",
+      "LAW",
+      "RELIGION",
+      "WOMEN",
+      "UMPQUA",
+      "SHOT"
+    ],
+    "articles": 218,
     "ascent": 1,
     "descent": 1,
     "tone": -7.0,
-    "movement": 24
+    "movement": 12
   },
   "20151101_20151107": {
     "length": 7,
     "keywords": [
       "TARANTINO",
-      "TARANTINOS",
       "QUENTIN",
       "IM",
+      "TARANTINOS",
       "WEINSTEIN",
-      "FILM"
+      "BACKLASH",
+      "FILM",
+      "BRUTALITY",
+      "TIMES",
+      "BOYCOTT",
+      "DIRECTOR",
+      "COP"
     ],
-    "articles": 807,
+    "articles": 834,
     "ascent": 1,
     "descent": 5,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 49
   },
-  "20151122_20151126": {
-    "length": 5,
-    "keywords": [
-      "MUSLIM",
-      "UNIVERSITY",
-      "SPEECH",
-      "WASHINGTON",
-      "CAMPUS",
-      "CANCELS",
-      "CLASSES",
-      "STUDENT",
-      "STUDENTS"
-    ],
-    "articles": 455,
-    "ascent": 1,
-    "descent": 3,
-    "tone": -6.0
-  },
-  "20151208_20151212": {
-    "length": 5,
+  "20151207_20151212": {
+    "length": 6,
     "keywords": [
       "MUSLIM",
       "COMMUNITY",
       "SPEECH",
+      "ISLAMIC",
       "GRAFFITI",
       "SIKH",
-      "INCIDENT",
-      "PARK",
       "STATE",
-      "ISLAMIC",
-      "GURDWARA"
+      "INCIDENT",
+      "PARK"
     ],
-    "articles": 1303,
-    "ascent": 1,
-    "descent": 3,
-    "tone": -5.0
+    "articles": 1481,
+    "ascent": 4,
+    "descent": 1,
+    "tone": -5.0,
+    "movement": 35
   },
   "20151227_20160101": {
     "length": 6,
@@ -198,15 +228,18 @@
       "MAN",
       "MOSQUE",
       "BAL",
-      "CALIFORNIA"
+      "CALIFORNIA",
+      "ATTACKED",
+      "SUSPECTS"
     ],
-    "articles": 476,
+    "articles": 471,
     "ascent": 1,
     "descent": 4,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 79
   },
-  "20160109_20160116": {
-    "length": 8,
+  "20160109_20160115": {
+    "length": 7,
     "keywords": [
       "MUSLIM",
       "WOMEN",
@@ -216,120 +249,121 @@
       "RHETORIC",
       "SUPPORTERS"
     ],
-    "articles": 519,
+    "articles": 515,
     "ascent": 1,
-    "descent": 6,
-    "tone": -5.0
+    "descent": 5,
+    "tone": -5.0,
+    "movement": 87
   },
-  "20160127_20160130": {
-    "length": 4,
+  "20160127_20160131": {
+    "length": 5,
     "keywords": [
       "SEXUAL",
       "VICTIMS",
       "LAW",
       "GAY",
+      "CLINTON",
+      "CRUZ",
+      "SANDERS",
+      "TED",
       "STATE",
+      "WAY",
       "PROPOSAL",
       "PROTECT",
-      "UTAH",
-      "WILLIAMS",
-      "SANDERS"
+      "UTAH"
     ],
-    "articles": 371,
+    "articles": 376,
     "ascent": 1,
-    "descent": 2,
-    "tone": -5.0
+    "descent": 3,
+    "tone": -4.0,
+    "movement": 24
   },
-  "20160202_20160209": {
-    "length": 8,
+  "20160202_20160206": {
+    "length": 5,
     "keywords": [
       "MUSLIM",
       "OBAMA",
-      "STATE",
       "MOSQUE",
-      "CRUZ",
       "MARTIN",
-      "TERRORISM",
-      "TWITTER",
-      "ISLAMIC"
+      "CRUZ",
+      "VOTERS",
+      "WOMEN",
+      "STUDENT",
+      "TED",
+      "VISIT",
+      "LAW"
     ],
-    "articles": 619,
-    "ascent": 4,
-    "descent": 3,
-    "tone": -5.0,
-    "movement": 76
-  },
-  "20160217_20160220": {
-    "length": 4,
-    "keywords": [
-      "LAW",
-      "WHITE",
-      "MUSLIM",
-      "CENTER",
-      "POVERTY",
-      "SOUTHERN",
-      "CHURCH",
-      "BILL",
-      "RISE",
-      "RIGHTS"
-    ],
-    "articles": 286,
-    "ascent": 1,
+    "articles": 311,
+    "ascent": 2,
     "descent": 2,
-    "tone": -5.0,
-    "movement": 37
+    "tone": -4.0,
+    "movement": 36
   },
-  "20160307_20160312": {
-    "length": 6,
+  "20160221_20160305": {
+    "length": 14,
+    "keywords": [
+      "STUDENT",
+      "WHITE",
+      "MAN",
+      "MUSLIM",
+      "BLACK",
+      "STATE",
+      "WOMEN"
+    ],
+    "articles": 1581,
+    "ascent": 2,
+    "descent": 11,
+    "tone": -6.0,
+    "movement": 118
+  },
+  "20160306_20160312": {
+    "length": 7,
     "keywords": [
       "ISLAM",
       "STATE",
-      "REPUBLICAN",
       "MUSLIM",
+      "REPUBLICAN",
       "STATES",
-      "UNITED"
+      "TWITTER"
     ],
-    "articles": 1083,
-    "ascent": 1,
+    "articles": 1299,
+    "ascent": 2,
     "descent": 4,
-    "tone": -5.0,
-    "movement": 25
+    "tone": -6.0,
+    "movement": 29
   },
-  "20160503_20160508": {
+  "20160503_20160509": {
     "length": 6,
     "keywords": [
-      "IOWA",
-      "STUDENTS",
-      "UNIVERSITY",
       "STUDENT",
+      "IOWA",
+      "UNIVERSITY",
       "BLACK",
-      "WHITE",
-      "LAW",
-      "MUSLIM",
-      "ASSAULT",
-      "OWENS"
+      "WHITE"
     ],
-    "articles": 389,
+    "articles": 386,
     "ascent": 2,
-    "descent": 3,
-    "tone": -6.0,
-    "movement": 39
+    "descent": 4,
+    "tone": -5.0,
+    "movement": 47
   },
   "20160516_20160519": {
     "length": 4,
     "keywords": [
       "IOWA",
       "OWENS",
+      "STUDENT",
       "CITY",
       "UNIVERSITY",
-      "STUDENT",
+      "FAMILY",
+      "WOMEN",
       "RIGHTS"
     ],
-    "articles": 417,
+    "articles": 410,
     "ascent": 2,
     "descent": 1,
     "tone": -6.0,
-    "movement": 33
+    "movement": 32
   },
   "20160523_20160529": {
     "length": 7,
@@ -340,11 +374,11 @@
       "MATTER",
       "BILL"
     ],
-    "articles": 3984,
+    "articles": 4017,
     "ascent": 1,
     "descent": 5,
     "tone": -5.0,
-    "movement": 40
+    "movement": 45
   },
   "20160611_20160626": {
     "length": 16,
@@ -355,39 +389,27 @@
       "ACT",
       "TERROR"
     ],
-    "articles": 4798,
+    "articles": 4814,
     "ascent": 2,
     "descent": 13,
-    "tone": -6.0
+    "tone": -5.0,
+    "movement": 109
   },
-  "20160708_20160710": {
-    "length": 3,
+  "20160705_20160714": {
+    "length": 10,
     "keywords": [
-      "DALLAS",
       "OFFICERS",
+      "DALLAS",
       "BLACK",
+      "LAW",
       "WHITE",
-      "LAW",
-      "SHOOTING"
+      "LIVES"
     ],
-    "articles": 803,
-    "ascent": 1,
-    "descent": 1,
-    "tone": -6.0
-  },
-  "20160710_20160713": {
-    "length": 4,
-    "keywords": [
-      "OFFICERS",
-      "DALLAS",
-      "BLACK",
-      "LAW",
-      "WHITE"
-    ],
-    "articles": 3626,
-    "ascent": 1,
-    "descent": 2,
-    "tone": -6.0
+    "articles": 4608,
+    "ascent": 6,
+    "descent": 3,
+    "tone": -6.0,
+    "movement": 45
   },
   "20160717_20160724": {
     "length": 8,
@@ -396,14 +418,30 @@
       "LAW",
       "ROUGE",
       "TEXAS",
-      "BATON",
       "OFFICER"
     ],
-    "articles": 1593,
+    "articles": 1598,
     "ascent": 2,
     "descent": 5,
     "tone": -5.0,
-    "movement": 71
+    "movement": 70
+  },
+  "20160803_20160806": {
+    "length": 4,
+    "keywords": [
+      "MAN",
+      "STATE",
+      "REPUBLICAN",
+      "WHITE",
+      "BLACK",
+      "LAW",
+      "VICTIMS"
+    ],
+    "articles": 358,
+    "ascent": 1,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 16
   },
   "20160812_20160820": {
     "length": 9,
@@ -414,26 +452,29 @@
       "MOSQUE",
       "SHOT"
     ],
-    "articles": 1779,
+    "articles": 1752,
     "ascent": 2,
     "descent": 6,
     "tone": -6.0,
-    "movement": 44
+    "movement": 43
   },
-  "20160822_20160829": {
-    "length": 8,
+  "20160822_20160827": {
+    "length": 6,
     "keywords": [
       "CLINTON",
-      "WHITE",
       "CAMPAIGN",
+      "WHITE",
       "HILLARY",
-      "MAN"
+      "MAN",
+      "COUPLE",
+      "WATER",
+      "REPUBLICAN"
     ],
-    "articles": 878,
+    "articles": 744,
     "ascent": 3,
-    "descent": 4,
+    "descent": 2,
     "tone": -5.0,
-    "movement": 28
+    "movement": 22
   },
   "20160830_20160902": {
     "length": 4,
@@ -442,54 +483,36 @@
       "LIVES",
       "MATTER",
       "MUSLIM",
-      "LAW",
       "MOVEMENT",
       "SPLC",
+      "LAW",
       "BLACK",
-      "DEATH",
       "POVERTY",
       "SOUTHERN",
       "KHANAM"
     ],
-    "articles": 699,
+    "articles": 717,
     "ascent": 2,
     "descent": 1,
     "tone": -6.0,
-    "movement": 17
+    "movement": 22
   },
-  "20160906_20160911": {
-    "length": 6,
-    "keywords": [
-      "MUSLIM",
-      "MAN",
-      "WOMEN",
-      "LAW",
-      "BLUE",
-      "LIVES",
-      "MATTER",
-      "VIOLENCE"
-    ],
-    "articles": 821,
-    "ascent": 1,
-    "descent": 4,
-    "tone": -6.0,
-    "movement": 48
-  },
-  "20160912_20160914": {
-    "length": 3,
+  "20160912_20160915": {
+    "length": 4,
     "keywords": [
       "MUSLIM",
       "SET",
       "WOMEN",
-      "INCIDENT",
       "MOSQUE",
-      "MAN"
+      "INCIDENT",
+      "MAN",
+      "NYPD"
     ],
-    "articles": 955,
+    "articles": 1409,
     "ascent": 1,
-    "descent": 1,
+    "descent": 2,
     "tone": -6.0,
-    "movement": 26
+    "movement": 18
   },
   "20160922_20160924": {
     "length": 3,
@@ -500,62 +523,117 @@
       "CHARLOTTE",
       "CONGRESSMAN"
     ],
-    "articles": 728,
+    "articles": 731,
     "ascent": 1,
     "descent": 1,
     "tone": -6.0,
-    "movement": 9
+    "movement": 10
+  },
+  "20161002_20161005": {
+    "length": 4,
+    "keywords": [
+      "WHITE",
+      "LIVES",
+      "MATTER",
+      "SCHOOL",
+      "PROPOLICE",
+      "TEEN",
+      "VIEWS",
+      "SON",
+      "HOUSTON",
+      "BLACK",
+      "WOMEN"
+    ],
+    "articles": 340,
+    "ascent": 1,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 16
   },
   "20161010_20161012": {
     "length": 3,
     "keywords": [
-      "WHITE",
       "SIKH",
       "MAN",
-      "WOMEN",
+      "RICHMOND",
+      "WHITE",
       "KHALSA",
       "MEN",
-      "RICHMOND",
+      "WOMEN",
       "CLINTON",
       "HILLARY",
-      "HAIR",
-      "TARGETED",
-      "AMERICANS"
+      "HAIR"
     ],
-    "articles": 638,
+    "articles": 645,
     "ascent": 1,
     "descent": 1,
     "tone": -6.0,
-    "movement": 29
+    "movement": 30
+  },
+  "20161014_20161016": {
+    "length": 3,
+    "keywords": [
+      "SIKH",
+      "MEN",
+      "KHALSA",
+      "MAN",
+      "RICHMOND",
+      "CHARGES"
+    ],
+    "articles": 270,
+    "ascent": 1,
+    "descent": 1,
+    "tone": -7.0,
+    "movement": 48
+  },
+  "20161030_20161105": {
+    "length": 7,
+    "keywords": [
+      "STUDENT",
+      "CHURCH",
+      "MISSISSIPPI",
+      "UNIVERSITY",
+      "BLACK",
+      "VOTE",
+      "MUSLIM",
+      "STATE"
+    ],
+    "articles": 501,
+    "ascent": 4,
+    "descent": 2,
+    "tone": -4.0,
+    "movement": 44
   },
   "20161108_20161126": {
     "length": 19,
     "keywords": [
-      "MUSLIM",
       "WHITE",
       "ELECTION",
-      "WOMEN",
-      "STATE"
+      "MUSLIM",
+      "STUDENT",
+      "WOMEN"
     ],
-    "articles": 7490,
+    "articles": 7374,
     "ascent": 3,
     "descent": 15,
     "tone": -5.0,
-    "movement": 138
+    "movement": 119
   },
-  "20161127_20161203": {
-    "length": 7,
+  "20161127_20161202": {
+    "length": 6,
     "keywords": [
       "MUSLIM",
       "LETTER",
       "MOSQUES",
       "ISLAMIC",
-      "LETTERS"
+      "LETTERS",
+      "ELECTION"
     ],
-    "articles": 1768,
+    "articles": 1711,
     "ascent": 2,
-    "descent": 4,
-    "tone": -5.0
+    "descent": 3,
+    "tone": -5.0,
+    "movement": 51
   },
   "20161221_20161224": {
     "length": 4,
@@ -564,16 +642,14 @@
       "CHURCH",
       "MUSLIM",
       "MAN",
-      "WOMEN",
       "BLACK",
-      "TRANSGENDER",
-      "STATE"
+      "WOMEN"
     ],
-    "articles": 987,
+    "articles": 1017,
     "ascent": 1,
     "descent": 2,
     "tone": -6.0,
-    "movement": 13
+    "movement": 21
   },
   "20170104_20170108": {
     "length": 5,
@@ -584,41 +660,53 @@
       "VICTIM",
       "MAN"
     ],
-    "articles": 4027,
+    "articles": 3948,
     "ascent": 2,
     "descent": 2,
     "tone": -8.0,
-    "movement": 33
+    "movement": 34
   },
   "20170119_20170129": {
     "length": 11,
     "keywords": [
-      "MUSLIM",
       "MAN",
+      "MUSLIM",
       "WOMEN",
-      "STATE",
       "FEDERAL",
-      "LAW"
+      "LAW",
+      "STATE",
+      "NELSON",
+      "GAY",
+      "IDAHO",
+      "WHITE",
+      "STUDENT",
+      "HATERS",
+      "SCHNEIDER",
+      "RHODES"
     ],
-    "articles": 2812,
+    "articles": 2688,
     "ascent": 1,
     "descent": 9,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 118
   },
   "20170129_20170212": {
     "length": 15,
     "keywords": [
       "MUSLIM",
       "SPEECH",
+      "STUDENT",
       "JEWISH",
-      "MAN",
       "BAN",
+      "UNIVERSITY",
+      "ORDER",
       "WHITE"
     ],
-    "articles": 3061,
+    "articles": 2877,
     "ascent": 7,
     "descent": 7,
-    "tone": -5.0
+    "tone": -5.0,
+    "movement": 191
   },
   "20170214_20170219": {
     "length": 6,
@@ -627,214 +715,130 @@
       "NUMBER",
       "WHITE",
       "LAW",
-      "STATE",
       "SPLC",
-      "BILL"
+      "BILL",
+      "STATE"
     ],
-    "articles": 773,
+    "articles": 748,
     "ascent": 3,
     "descent": 2,
     "tone": -5.0,
-    "movement": 29
+    "movement": 28
   },
-  "20170220_20170226": {
-    "length": 7,
+  "20170221_20170226": {
+    "length": 6,
     "keywords": [
       "KANSAS",
-      "SHOOTING",
       "INDIAN",
+      "SHOOTING",
       "JEWISH",
       "COMMUNITY"
     ],
-    "articles": 3385,
-    "ascent": 4,
-    "descent": 2,
-    "tone": -6.0
-  },
-  "20170319_20170321": {
-    "length": 3,
-    "keywords": [
-      "COMMUNITY",
-      "LAW",
-      "LGBT",
-      "WHITE",
-      "TRANSGENDER",
-      "MUSLIM",
-      "PROSECUTIONS",
-      "WORRIES",
-      "FEDERAL",
-      "INDIAN",
-      "VALLUM"
-    ],
-    "articles": 734,
-    "ascent": 1,
-    "descent": 1,
-    "tone": -6.0,
-    "movement": 13
-  },
-  "20170418_20170421": {
-    "length": 4,
-    "keywords": [
-      "WHITE",
-      "SHOOTING",
-      "FRESNO",
-      "MUHAMMAD",
-      "SIGN",
-      "WOMEN",
-      "BURNING",
-      "TARGETING"
-    ],
-    "articles": 2147,
-    "ascent": 1,
+    "articles": 2851,
+    "ascent": 3,
     "descent": 2,
     "tone": -6.0,
-    "movement": 51
+    "movement": 34
   },
-  "20170424_20170429": {
-    "length": 6,
+  "20170319_20170326": {
+    "length": 8,
     "keywords": [
       "COMMUNITY",
-      "SPEECH",
-      "STATE",
-      "FREE",
+      "WHITE",
       "MAN",
-      "WHITE",
-      "REPORTED",
-      "WORK",
-      "LEADERS"
-    ],
-    "articles": 1068,
-    "ascent": 4,
-    "descent": 1,
-    "tone": -4.0,
-    "movement": 44
-  },
-  "20170501_20170505": {
-    "length": 5,
-    "keywords": [
-      "RELIGIOUS",
-      "WHITE",
-      "UNIVERSITY",
-      "LAW",
-      "COMMUNITY",
-      "BLACK",
-      "BILL",
-      "GAY",
       "MUSLIM",
-      "RIGHTS",
-      "TREENE",
-      "CHURCH",
-      "STANG"
+      "INDIAN"
     ],
-    "articles": 812,
+    "articles": 1710,
     "ascent": 1,
+    "descent": 6,
+    "tone": -6.0,
+    "movement": 61
+  },
+  "20170409_20170422": {
+    "length": 14,
+    "keywords": [
+      "WHITE",
+      "MAN",
+      "CAMPAIGN",
+      "SIKH",
+      "STATE",
+      "SHOOTING",
+      "COMMUNITY",
+      "SIKHS",
+      "FRESNO"
+    ],
+    "articles": 3054,
+    "ascent": 10,
     "descent": 3,
     "tone": -6.0,
-    "movement": 31
+    "movement": 168
   },
   "20170514_20170520": {
     "length": 7,
     "keywords": [
-      "SIKH",
       "TRANSGENDER",
+      "WILLIAMSON",
       "SENTENCED",
       "MAN",
-      "KHALSA",
-      "WILLIAMSON",
-      "FEDERAL"
+      "FEDERAL",
+      "SIKH"
     ],
-    "articles": 790,
+    "articles": 769,
     "ascent": 1,
     "descent": 5,
     "tone": -7.0,
-    "movement": 38
+    "movement": 39
   },
   "20170521_20170603": {
     "length": 14,
     "keywords": [
       "PORTLAND",
-      "MARYLAND",
       "UNIVERSITY",
+      "MARYLAND",
       "STABBING",
-      "COLLINS",
-      "WHITE",
-      "URBANSKI",
-      "MEN",
-      "SPEECH",
-      "TRAIN"
+      "STUDENT",
+      "COLLINS"
     ],
-    "articles": 2660,
+    "articles": 2571,
     "ascent": 1,
     "descent": 12,
     "tone": -6.0,
-    "movement": 124
+    "movement": 113
   },
-  "20170618_20170621": {
-    "length": 4,
+  "20170618_20170627": {
+    "length": 10,
     "keywords": [
       "MUSLIM",
-      "VIRGINIA",
       "MOSQUE",
-      "HASSANEN",
-      "KILLED",
-      "TEENS"
-    ],
-    "articles": 535,
-    "ascent": 1,
-    "descent": 2,
-    "tone": -6.0
-  },
-  "20170629_20170701": {
-    "length": 3,
-    "keywords": [
-      "HALF",
-      "UNREPORTED",
-      "RIGHTS",
-      "FEAR",
-      "VICTIMS",
-      "GUIDESTAR",
-      "OFFICIALS",
-      "SPLC"
-    ],
-    "articles": 267,
-    "ascent": 1,
-    "descent": 1,
-    "tone": -5.0
-  },
-  "20170725_20170730": {
-    "length": 6,
-    "keywords": [
-      "MUSLIM",
-      "MILITARY",
-      "COMMUNITY",
       "MAN",
-      "TRANSGENDER",
-      "CAIR",
-      "WHITE",
-      "CIVIL",
-      "RIGHTS",
-      "WOMEN"
+      "VIRGINIA",
+      "HASSANEN",
+      "TEXAS"
     ],
-    "articles": 618,
-    "ascent": 3,
-    "descent": 2,
-    "tone": -5.0,
-    "movement": 16
+    "articles": 1294,
+    "ascent": 6,
+    "descent": 3,
+    "tone": -6.0,
+    "movement": 74
   },
   "20170808_20170810": {
     "length": 3,
     "keywords": [
-      "WHITE",
-      "MUSLIM",
       "MOSQUE",
-      "CHARLOTTESVILLE",
-      "VIOLENCE",
-      "MINNESOTA"
+      "MUSLIM",
+      "MINNESOTA",
+      "BOMBING",
+      "WHITE",
+      "CAIR",
+      "TARGETED",
+      "ANTIMUSLIM"
     ],
-    "articles": 486,
+    "articles": 254,
     "ascent": 1,
     "descent": 1,
-    "tone": -6.0
+    "tone": -5.0,
+    "movement": 9
   },
   "20170811_20170821": {
     "length": 11,
@@ -845,10 +849,47 @@
       "RALLY",
       "SUPREMACISTS"
     ],
-    "articles": 12943,
+    "articles": 12701,
     "ascent": 4,
     "descent": 6,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 31
+  },
+  "20170826_20170829": {
+    "length": 4,
+    "keywords": [
+      "WHITE",
+      "RALLY",
+      "VIOLENCE",
+      "SAN",
+      "CHARLOTTESVILLE",
+      "PARK",
+      "SPEECH"
+    ],
+    "articles": 1411,
+    "ascent": 1,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 33
+  },
+  "20170905_20170908": {
+    "length": 4,
+    "keywords": [
+      "WHITE",
+      "CHARLOTTESVILLE",
+      "VIOLENCE",
+      "VIRGINIA",
+      "RESOLUTION",
+      "RIGHTS",
+      "LAW",
+      "RALLY",
+      "STATE"
+    ],
+    "articles": 549,
+    "ascent": 1,
+    "descent": 2,
+    "tone": -6.0,
+    "movement": 16
   },
   "20170912_20170916": {
     "length": 5,
@@ -856,72 +897,63 @@
       "WHITE",
       "RESOLUTION",
       "VIOLENCE",
-      "VIRGINIA",
       "CHARLOTTESVILLE",
-      "CONGRESS"
+      "CONGRESS",
+      "VIRGINIA"
     ],
-    "articles": 1687,
+    "articles": 1686,
     "ascent": 3,
     "descent": 1,
     "tone": -6.0,
-    "movement": 18
+    "movement": 20
   },
   "20170918_20170923": {
     "length": 6,
     "keywords": [
       "STATE",
+      "WHITE",
       "SPEECH",
       "MAN",
-      "WHITE",
-      "VIOLENCE",
-      "DONT",
-      "COMMUNITY",
-      "JEWISH",
-      "LAW",
-      "MEN",
-      "BLACK",
       "UNIVERSITY"
     ],
-    "articles": 350,
+    "articles": 355,
     "ascent": 3,
     "descent": 2,
     "tone": -6.0,
-    "movement": 27
+    "movement": 26
   },
-  "20171016_20171022": {
+  "20171010_20171016": {
     "length": 7,
     "keywords": [
-      "UNIVERSITY",
       "WHITE",
-      "MARYLAND",
-      "MAN",
-      "URBANSKI"
+      "HOUSE",
+      "HELP",
+      "TRANSGENDER",
+      "CASE",
+      "RIGHTS",
+      "SESSIONS",
+      "JUSTICE"
     ],
-    "articles": 966,
-    "ascent": 2,
-    "descent": 4,
-    "tone": -7.0,
-    "movement": 69
-  },
-  "20171023_20171027": {
-    "length": 5,
-    "keywords": [
-      "SPEECH",
-      "UNIVERSITY",
-      "WHITE",
-      "MAN",
-      "RACIST",
-      "SCHOOL",
-      "DELAWARE",
-      "GRAFFITI",
-      "MAYOR",
-      "STUDENTS"
-    ],
-    "articles": 341,
+    "articles": 564,
     "ascent": 3,
-    "descent": 1,
+    "descent": 3,
     "tone": -5.0,
-    "movement": 6
+    "movement": 30
+  },
+  "20171016_20171019": {
+    "length": 4,
+    "keywords": [
+      "UNIVERSITY",
+      "STUDENT",
+      "MARYLAND",
+      "URBANSKI",
+      "COLLINS"
+    ],
+    "articles": 839,
+    "ascent": 2,
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 60
   },
   "20171029_20171104": {
     "length": 7,
@@ -932,29 +964,50 @@
       "ISLAMIC",
       "TRUCK",
       "SOLDIER",
-      "STATE",
       "SAIPOV",
-      "RACIST"
+      "STATE"
     ],
-    "articles": 1091,
+    "articles": 1082,
     "ascent": 2,
     "descent": 4,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 32
   },
-  "20171112_20171120": {
-    "length": 9,
+  "20171112_20171119": {
+    "length": 8,
     "keywords": [
       "FBI",
       "2016",
       "WHITE",
       "REPORTED",
       "SCHOOL",
-      "MUSLIM"
+      "CAMPUS"
     ],
-    "articles": 1080,
+    "articles": 1092,
     "ascent": 6,
-    "descent": 2,
-    "tone": -6.0
+    "descent": 1,
+    "tone": -6.0,
+    "movement": 60
+  },
+  "20171218_20171220": {
+    "length": 3,
+    "keywords": [
+      "TWITTER",
+      "WHITE",
+      "ACCOUNTS",
+      "RULES",
+      "SUSPENDED",
+      "USERS",
+      "ACCOUNT",
+      "COMPANY",
+      "POST",
+      "UNIVERSITY"
+    ],
+    "articles": 315,
+    "ascent": 1,
+    "descent": 1,
+    "tone": -7.0,
+    "movement": 64
   },
   "20171225_20171227": {
     "length": 3,
@@ -974,7 +1027,8 @@
     "articles": 238,
     "ascent": 1,
     "descent": 1,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 19
   },
   "20180219_20180224": {
     "length": 6,
@@ -984,13 +1038,15 @@
       "SPLC",
       "FAMILY",
       "NRA",
+      "LAW",
       "LIFE",
       "GUN"
     ],
-    "articles": 1905,
+    "articles": 1902,
     "ascent": 3,
     "descent": 2,
-    "tone": -5.0
+    "tone": -5.0,
+    "movement": 22
   },
   "20180228_20180302": {
     "length": 3,
@@ -1000,17 +1056,18 @@
       "2017",
       "PRISON",
       "WHITE",
-      "INDICTMENT",
-      "SENTENCED",
-      "TEXAS",
       "VICTIMS",
+      "SENTENCED",
       "DISTRICT",
-      "KADAR"
+      "INDICTMENT",
+      "KADAR",
+      "TEXAS"
     ],
     "articles": 552,
     "ascent": 1,
     "descent": 1,
-    "tone": -6.0
+    "tone": -6.0,
+    "movement": 19
   },
   "20180305_20180308": {
     "length": 4,
@@ -1041,20 +1098,17 @@
       "WHITE",
       "WOMEN",
       "STATE",
-      "IMMIGRATION",
-      "MUSLIM",
-      "CALIFORNIA",
-      "FEDERAL",
-      "DONT"
+      "STUDENT",
+      "IMMIGRATION"
     ],
-    "articles": 1601,
+    "articles": 1628,
     "ascent": 2,
     "descent": 6,
-    "tone": -5.0,
-    "movement": 113
+    "tone": -4.0,
+    "movement": 111
   },
-  "20180402_20180406": {
-    "length": 5,
+  "20180402_20180407": {
+    "length": 6,
     "keywords": [
       "YOUTUBE",
       "AGHDAM",
@@ -1062,12 +1116,38 @@
       "SAN",
       "WOMEN",
       "SHOOTER",
-      "HEADQUARTERS"
+      "VICTIMS",
+      "HEADQUARTERS",
+      "FAMILY"
     ],
-    "articles": 1593,
+    "articles": 1630,
+    "ascent": 2,
+    "descent": 3,
+    "tone": -5.0,
+    "movement": 76
+  },
+  "20180409_20180413": {
+    "length": 5,
+    "keywords": [
+      "SPEECH",
+      "FACEBOOK",
+      "ZUCKERBERG",
+      "MAN",
+      "USERS",
+      "STATE",
+      "CHARGES",
+      "GIRLS",
+      "CALLED",
+      "GIRL",
+      "MARK",
+      "PAUL",
+      "TOOLS"
+    ],
+    "articles": 323,
     "ascent": 2,
     "descent": 2,
-    "tone": -5.0
+    "tone": -6.0,
+    "movement": 14
   },
   "20180502_20180506": {
     "length": 5,
@@ -1081,13 +1161,14 @@
       "SHOOTING",
       "COURT"
     ],
-    "articles": 436,
+    "articles": 440,
     "ascent": 1,
     "descent": 3,
-    "tone": -8.0
+    "tone": -7.0,
+    "movement": 32
   },
-  "20180617_20180619": {
-    "length": 3,
+  "20180617_20180620": {
+    "length": 4,
     "keywords": [
       "MELANIA",
       "FAMILIES",
@@ -1097,10 +1178,34 @@
       "BORDER",
       "STATEMENT"
     ],
-    "articles": 1597,
+    "articles": 1557,
     "ascent": 1,
+    "descent": 2,
+    "tone": -5.0,
+    "movement": 2
+  },
+  "20180704_20180707": {
+    "length": 4,
+    "keywords": [
+      "SPEECH",
+      "FACEBOOK",
+      "DECLARATION",
+      "INDEPENDENCE",
+      "FIELDS",
+      "WHITE",
+      "GUILTY",
+      "PLEADS",
+      "CHARLOTTESVILLE",
+      "MAN",
+      "RALLY",
+      "CHARGES",
+      "FEDERAL"
+    ],
+    "articles": 629,
+    "ascent": 2,
     "descent": 1,
-    "tone": -4.0
+    "tone": -7.0,
+    "movement": 23
   },
   "20180709_20180714": {
     "length": 6,
@@ -1113,68 +1218,42 @@
       "SHIRT",
       "WEARING"
     ],
-    "articles": 336,
+    "articles": 315,
     "ascent": 3,
     "descent": 2,
     "tone": -6.0,
-    "movement": 25
+    "movement": 28
   },
   "20180716_20180721": {
     "length": 6,
     "keywords": [
-      "MAN",
       "MOSQUE",
+      "MAN",
       "TEXAS",
       "STATE",
-      "MUSLIM",
-      "SET",
-      "BURNING",
-      "JUSTICE",
-      "PEREZ",
-      "WHITE",
-      "ISLAMIC"
+      "SET"
     ],
-    "articles": 449,
+    "articles": 542,
     "ascent": 1,
     "descent": 4,
     "tone": -6.0,
-    "movement": 33
+    "movement": 32
   },
   "20180803_20180818": {
     "length": 16,
     "keywords": [
       "WHITE",
-      "JONES",
       "MAN",
+      "JONES",
       "SPEECH",
-      "FACEBOOK"
+      "FACEBOOK",
+      "INFOWARS"
     ],
-    "articles": 2344,
+    "articles": 2356,
     "ascent": 10,
     "descent": 5,
     "tone": -6.0,
-    "movement": 154
-  },
-  "20181016_20181018": {
-    "length": 3,
-    "keywords": [
-      "MAN",
-      "WHITE",
-      "BLACK",
-      "BUSH",
-      "SHOT",
-      "FRIGHTENED",
-      "KENTUCKIAN",
-      "GROCERY",
-      "RACE",
-      "STORE",
-      "TEXAS"
-    ],
-    "articles": 1442,
-    "ascent": 1,
-    "descent": 1,
-    "tone": -6.0,
-    "movement": 9
+    "movement": 151
   },
   "20181022_20181110": {
     "length": 20,
@@ -1183,14 +1262,13 @@
       "PITTSBURGH",
       "SHOOTING",
       "JEWISH",
-      "WHITE",
-      "BOWERS"
+      "WHITE"
     ],
-    "articles": 8782,
+    "articles": 8798,
     "ascent": 6,
     "descent": 13,
     "tone": -6.0,
-    "movement": 124
+    "movement": 123
   },
   "20181111_20181118": {
     "length": 8,
@@ -1198,51 +1276,48 @@
       "FBI",
       "WHITE",
       "REPORTED",
-      "LAW",
-      "2017"
+      "STUDENT",
+      "MAN"
     ],
-    "articles": 1660,
-    "ascent": 2,
-    "descent": 5,
+    "articles": 2893,
+    "ascent": 5,
+    "descent": 2,
     "tone": -7.0,
-    "movement": 71
+    "movement": 61
   },
   "20181125_20181202": {
     "length": 8,
     "keywords": [
       "STATE",
       "WHITE",
+      "STUDENT",
       "SWASTIKAS",
       "BLACK",
-      "COLLEGE",
-      "STUDENT",
-      "GRAFFITI",
-      "MISSISSIPPI",
-      "RACIST",
-      "VANDALISM"
+      "COLLEGE"
     ],
-    "articles": 1971,
+    "articles": 1954,
     "ascent": 5,
     "descent": 2,
-    "tone": -7.0,
-    "movement": 156
+    "tone": -6.0,
+    "movement": 167
   },
   "20181214_20181221": {
     "length": 7,
     "keywords": [
+      "STUDENT",
       "WHITE",
       "MAN",
-      "SCHOOL",
       "STATE",
-      "STUDENT",
+      "SCHOOL",
       "ANTIHATE",
       "RIGHTS",
       "SETTLEMENT",
       "TRAINING"
     ],
-    "articles": 1256,
+    "articles": 1273,
     "ascent": 1,
     "descent": 6,
-    "tone": -7.0
+    "tone": -6.0,
+    "movement": 44
   }
 }
