@@ -1,5 +1,7 @@
 # Visualizing Hate with GDELT
 
+![](https://raw.githubusercontent.com/Jwmazzi/media_research/master/Hate.png)
+
 This repository contains the beginnings of a simple toolset that enriches daily GDELT 1.0 
 data. Using NLP tools like newspaper3k to add keywords and summaries to each GDELT event will allow us to 
 apply more filters to the data and ask more focused questions. Our initial goal is to explore
