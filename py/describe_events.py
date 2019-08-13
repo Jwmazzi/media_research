@@ -177,7 +177,7 @@ def get_event_keys(cursor, event_range):
         return [c[0].upper() for c in Counter(common_keys).most_common(15) if c[1] in valid_counts]
 
     else:
-        return []
+        return [c[0].upper() for c in Counter(common_keys).most_common(15) if c[1] in key_set]
 
 
 @open_connection
@@ -278,7 +278,8 @@ def build_window_info():
         keywords = get_event_keys(er)
         if not keywords:
             del_events.append(event_range)
-        event_info[event_range].update({'keywords': keywords})
+        else:
+            event_info[event_range].update({'keywords': keywords})
 
         # Collect Articles
         articles = get_event_articles(er)
@@ -291,14 +292,6 @@ def build_window_info():
         # Collect Tone
         tone = get_event_tone(er)
         event_info[event_range].update({'tone': tone})
-
-        # # Collect Actors
-        # a1_top, a2_top = get_event_actors(er)
-        # event_info[event_range].update({'actor_one': a1_top, 'actor_two': a2_top})
-
-        # # Collect Division Counts
-        # division_count = get_division_counts(event_range)
-        # event_info[event_range].update({'div_cnt': division_count})
 
         all_events.update(event_info)
 
